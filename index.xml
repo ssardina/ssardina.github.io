@@ -1374,21 +1374,5 @@ $$&lt;/p&gt;
       <description></description>
     </item>
     
-    <item>
-      <title>Sebastian Sardina&#39;s Bio</title>
-      <link>https://ssardina.github.io/author/sebastian-sardinas-bio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/author/sebastian-sardinas-bio/</guid>
-      <description>&lt;p&gt;I am a Professor in Artificial Intelligence at the 
-&lt;a href=&#34;https://www.rmit.edu.au/about/schools-colleges/computing-technologies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Computing Technologies&lt;/a&gt;, RMIT Unviersity (Melbourne, AUSTRALIA), and a member of the 
-&lt;a href=&#34;http://www.google.com/url?q=http%3A%2F%2Fwww.rmit.edu.au%2Failab&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNFrUryBIbTz3PEERbiTB-u5IuaErw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMIT AI Innovation Lab&lt;/a&gt;. I completed my PhD and M.Sc in the 
-&lt;a href=&#34;http://www.google.com/url?q=http%3A%2F%2Fwww.cs.toronto.edu%2Fcogrobo%2Fmain%2F&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNF4ymkps0mnPaTyrNmUbrh8yz4WlQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Robotics Group&lt;/a&gt; at the University of Toronto, Canada and, before that, a BSc in Computer Science at 
-&lt;a href=&#34;http://www.google.com/url?q=http%3A%2F%2Fwww.cs.uns.edu.ar%2F&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNEcIe5F9b7ZTiocf3vOSdRzwrRw-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidad Nacional del Sur&lt;/a&gt; in Bahia Blanca, Argentina.&lt;/p&gt;
-&lt;p&gt;My research falls in the intersection between &lt;strong&gt;knowledge representation&lt;/strong&gt; for reasoning about dynamic systems, &lt;strong&gt;AI automated planning&lt;/strong&gt;, and &lt;strong&gt;agent-oriented programming&lt;/strong&gt;. In a nutshell, my research seeks better representation models and algorithms for &lt;strong&gt;programming intelligent controllers&lt;/strong&gt; operating in complex and dynamic environments. In those cases, an intelligent agent must plan, verify, execute, monitor, and reconsider its actions so as to achieve its goals. Developing such controllers in standard programming languages (like C++, Python, or JAVA) becomes a difficult, cumbersome, and an error-prone task, so we look for better ways to do that!  At RMIT I also teach several courses, mostly related to the mathematical foundations of Computer Science (Theory of Computation, Discrete Mathematics, and Artificial Intelligence).&lt;/p&gt;
-&lt;p&gt;As a Computer Scientist I am also very interested in &lt;strong&gt;bringing Computational Thinking and programming to the community&lt;/strong&gt;, particularly to children and youth. I have delivered or supported courses and workshops on algorithmic thinking and coding in Melbourne (in primary and secondary schools as well as in community centres) and provided outreach activities from RMIT to the community.  I have helped promote (or tried to!) the integration of Computational Thinking with the Math teaching at the Mathematical Association of Victoria conferences (the premier forum for math educators in Victoria), running workshops, presentations, and participating in panel of experts discussions. He is currently a member of the panel at VCAA conducting the study design review for the 
-&lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fwww.vcaa.vic.edu.au%2Fcurriculum%2Fvce%2Fvce-study-designs%2Falgorithmics%2FPages%2FIndex.aspx&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNF9MxJ6dIhceC67EUfblSxoOk-tLw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Algorithmics (HESS) VCE program&lt;/a&gt; which would come into effect in 2023.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
