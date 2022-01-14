@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Prof. Sebastian Sardina</title>
+    <link>https://ssardina.github.io/tag/teaching/</link>
+      <atom:link href="https://ssardina.github.io/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching</title>
+      <link>https://ssardina.github.io/tag/teaching/</link>
+    </image>
+    
+    <item>
+      <title>An introduction to the planning domain definition language</title>
+      <link>https://ssardina.github.io/publication/haslum-2019-introduction/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/haslum-2019-introduction/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;An important resource for anyone who studies AI planning, regardless of whether they ever use PDDL.&amp;quot; -- Dana Nau, University of Maryland  &lt;a href=&#34;https://twitter.com/hashtag/AI?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#AI&lt;/a&gt;  &lt;a href=&#34;https://t.co/fvSmJ6R7qG&#34;&gt;https://t.co/fvSmJ6R7qG&lt;/a&gt; &lt;a href=&#34;https://t.co/5Rw1D00e5P&#34;&gt;pic.twitter.com/5Rw1D00e5P&lt;/a&gt;&lt;/p&gt;&amp;mdash; Morgan &amp;amp; Claypool Publishers (@MorganClaypool) &lt;a href=&#34;https://twitter.com/MorganClaypool/status/1115287393505042432?ref_src=twsrc%5Etfw&#34;&gt;April 8, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>AI 4 Education</title>
+      <link>https://ssardina.github.io/project/ai4edu/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/project/ai4edu/</guid>
+      <description>&lt;p&gt;We developed a set of 
+&lt;a href=&#34;https://github.com/AI4EDUC/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools&lt;/a&gt; to run daily competitions in our AI courses at the University of Melbourne and RMIT. Students rely on a version from 
+&lt;a href=&#34;http://ai.berkeley.edu/project_overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkley AI Pacman framework&lt;/a&gt;. They use search algorithms, Planning Domain Description Language (PDDL), classical replanning, minimax, reinforcement learning and other approaches for their autonomous agents.&lt;/p&gt;
+&lt;p&gt;The code to run the competitions have been adapted over different games. This project has been developed with Prof. Sebastian Sardina (RMIT)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
