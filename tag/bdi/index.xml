@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bdi | Prof. Sebastian Sardina</title>
+    <title>BDI | Prof. Sebastian Sardina</title>
     <link>https://ssardina.github.io/tag/bdi/</link>
       <atom:link href="https://ssardina.github.io/tag/bdi/index.xml" rel="self" type="application/rss+xml" />
-    <description>bdi</description>
+    <description>BDI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>bdi</title>
+      <title>BDI</title>
       <link>https://ssardina.github.io/tag/bdi/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>https://ssardina.github.io/publication/waters-padgham-sardina-jaamas-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://ssardina.github.io/publication/waters-padgham-sardina-jaamas-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A BDI Agent Programming Language with Failure Recovery, Declarative Goals, and Planning</title>
+      <link>https://ssardina.github.io/publication/sardina-padgham-jaamas-10/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/sardina-padgham-jaamas-10/</guid>
       <description></description>
     </item>
     

@@ -28,5 +28,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>A BDI Agent Programming Language with Failure Recovery, Declarative Goals, and Planning</title>
+      <link>https://ssardina.github.io/publication/sardina-padgham-jaamas-10/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/sardina-padgham-jaamas-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IndiGolog: A High-Level Programming Language for Embedded Reasoning Agents</title>
+      <link>https://ssardina.github.io/publication/dglls-aplbook-09-indi-golog/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/dglls-aplbook-09-indi-golog/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

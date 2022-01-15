@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sitcalc | Prof. Sebastian Sardina</title>
+    <link>https://ssardina.github.io/tag/sitcalc/</link>
+      <atom:link href="https://ssardina.github.io/tag/sitcalc/index.xml" rel="self" type="application/rss+xml" />
+    <description>sitcalc</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>sitcalc</title>
+      <link>https://ssardina.github.io/tag/sitcalc/</link>
+    </image>
+    
+    <item>
+      <title>IndiGolog: A High-Level Programming Language for Embedded Reasoning Agents</title>
+      <link>https://ssardina.github.io/publication/dglls-aplbook-09-indi-golog/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/dglls-aplbook-09-indi-golog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
