@@ -83,18 +83,6 @@
     <loc>https://ssardina.github.io/tags/</loc>
     <lastmod>2022-01-15T22:49:51+11:00</lastmod>
   </url><url>
-    <loc>https://ssardina.github.io/tag/ai-planning/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/project/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/tag/width-based-planning/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/project/width-based-planning/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ssardina.github.io/posts/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -103,12 +91,6 @@
   </url><url>
     <loc>https://ssardina.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/tag/explainable-ai-xai/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/project/planimation/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ssardina.github.io/author/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
@@ -128,9 +110,6 @@
     <loc>https://ssardina.github.io/tag/goal_recognition-agents/</loc>
     <lastmod>2022-01-15T22:49:50+11:00</lastmod>
   </url><url>
-    <loc>https://ssardina.github.io/project/classical-planners/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ssardina.github.io/publication/dippolito-rodriguez-sardina-jair-18/</loc>
     <lastmod>2022-01-15T22:49:50+11:00</lastmod>
   </url><url>
@@ -143,13 +122,13 @@
     <loc>https://ssardina.github.io/tag/synthesis/</loc>
     <lastmod>2022-01-15T22:49:51+11:00</lastmod>
   </url><url>
-    <loc>https://ssardina.github.io/project/trapper/</loc>
-    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/tag/verification/</loc>
-    <lastmod>2022-01-15T22:49:51+11:00</lastmod>
-  </url><url>
     <loc>https://ssardina.github.io/project/ai4edu/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ssardina.github.io/tag/ai-planning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ssardina.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ssardina.github.io/tag/teaching/</loc>
@@ -179,15 +158,6 @@
     <loc>https://ssardina.github.io/author/giuseppe-de-giacomo/</loc>
     <lastmod>2022-01-15T22:49:51+11:00</lastmod>
   </url><url>
-    <loc>https://ssardina.github.io/tag/ale/</loc>
-    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/project/atari/</loc>
-    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/tag/deep-reinforcement-learning-rl/</loc>
-    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ssardina.github.io/tag/bdi/</loc>
     <lastmod>2022-01-15T22:49:51+11:00</lastmod>
   </url><url>
@@ -199,12 +169,6 @@
   </url><url>
     <loc>https://ssardina.github.io/author/max-waters/</loc>
     <lastmod>2022-01-15T22:49:51+11:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/tag/linear-temporal-logic-ltl/</loc>
-    <lastmod>2013-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ssardina.github.io/project/ltl/</loc>
-    <lastmod>2013-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ssardina.github.io/publication/de-giacomo-patrizi-sardina-aij-13/</loc>
     <lastmod>2022-01-15T22:49:51+11:00</lastmod>
@@ -219,6 +183,9 @@
     <lastmod>2022-01-15T22:49:51+11:00</lastmod>
   </url><url>
     <loc>https://ssardina.github.io/publication/yadav-sardina-jelia-12-b/</loc>
+    <lastmod>2022-01-15T22:49:51+11:00</lastmod>
+  </url><url>
+    <loc>https://ssardina.github.io/tag/verification/</loc>
     <lastmod>2022-01-15T22:49:51+11:00</lastmod>
   </url><url>
     <loc>https://ssardina.github.io/publication/sardina-padgham-jaamas-10/</loc>
@@ -246,8 +213,6 @@
     <lastmod>2022-01-15T22:49:51+11:00</lastmod>
   </url><url>
     <loc>https://ssardina.github.io/categories/</loc>
-  </url><url>
-    <loc>https://ssardina.github.io/project/lapkt/</loc>
   </url><url>
     <loc>https://ssardina.github.io/pages/</loc>
   </url><url>
