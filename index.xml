@@ -1019,12 +1019,28 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Improving Domain-Independent Intention Selection in BDI Systems</title>
+      <link>https://ssardina.github.io/publication/waters-padgham-sardina-jaamas-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/waters-padgham-sardina-jaamas-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Linear Temporal Logic, Planning and Synthesis</title>
       <link>https://ssardina.github.io/project/ltl/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://ssardina.github.io/project/ltl/</guid>
       <description>&lt;p&gt;In this project we showed how to compute infinte plans for LTL goals. Infinite plans are akin to the problem of control synteshis. Given an LTL formula, the tools developed encodes the LTL goal formula as Deterministic Buchi Automata states. The Automata is encoded along with the allowed transitions of the agent in the Planning Domain Description Language (PDDL). The problem becomes a fully observable non-deterministic planning problem (FOND) or a classical problem, depending on whether the environment can act non-deterministically.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Automatic Behavior Composition Synthesis</title>
+      <link>https://ssardina.github.io/publication/de-giacomo-patrizi-sardina-aij-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/de-giacomo-patrizi-sardina-aij-13/</guid>
+      <description></description>
     </item>
     
     <item>
