@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Prof. Sebastian Sardina</title>
-    <link>https://ssardina.github.io/publication-type/1/</link>
-      <atom:link href="https://ssardina.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Blai Bonet | Prof. Sebastian Sardina</title>
+    <link>https://ssardina.github.io/author/blai-bonet/</link>
+      <atom:link href="https://ssardina.github.io/author/blai-bonet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blai Bonet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>1</title>
-      <link>https://ssardina.github.io/publication-type/1/</link>
+      <title>Blai Bonet</title>
+      <link>https://ssardina.github.io/author/blai-bonet/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ssardina.github.io/publication/rodriguez-etal-icaps-21-fondasp/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ssardina.github.io/publication/rodriguez-etal-icaps-21-fondasp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fully Observable Non-deterministic Planning as Assumption-based Reactive Synthesis</title>
-      <link>https://ssardina.github.io/publication/dippolito-rodriguez-sardina-jair-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/publication/dippolito-rodriguez-sardina-jair-18/</guid>
       <description></description>
     </item>
     

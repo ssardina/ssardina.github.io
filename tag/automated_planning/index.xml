@@ -5,7 +5,7 @@
     <link>https://ssardina.github.io/tag/automated_planning/</link>
       <atom:link href="https://ssardina.github.io/tag/automated_planning/index.xml" rel="self" type="application/rss+xml" />
     <description>automated_planning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>automated_planning</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Flexible FOND Planning with Explicit Fairness Assumptions</title>
+      <link>https://ssardina.github.io/publication/rodriguez-etal-icaps-21-fondasp/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/rodriguez-etal-icaps-21-fondasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cost-Based Goal Recognition in Navigational Domains</title>
       <link>https://ssardina.github.io/publication/masters-sardina-jair-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://ssardina.github.io/publication/masters-sardina-jair-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Observable Non-deterministic Planning as Assumption-based Reactive Synthesis</title>
+      <link>https://ssardina.github.io/publication/dippolito-rodriguez-sardina-jair-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/dippolito-rodriguez-sardina-jair-18/</guid>
       <description></description>
     </item>
     
