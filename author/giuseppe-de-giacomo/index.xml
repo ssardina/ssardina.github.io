@@ -5,7 +5,7 @@
     <link>https://ssardina.github.io/author/giuseppe-de-giacomo/</link>
       <atom:link href="https://ssardina.github.io/author/giuseppe-de-giacomo/index.xml" rel="self" type="application/rss+xml" />
     <description>Giuseppe De Giacomo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Giuseppe De Giacomo</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Computing Infinite Plans for LTL Goals Using a Classical Planner</title>
-      <link>https://ssardina.github.io/publication/patrizi-2011-computing/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/publication/patrizi-2011-computing/</guid>
+      <title>Agent Planning Programs</title>
+      <link>https://ssardina.github.io/publication/de-giacomo-etal-aij-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/de-giacomo-etal-aij-16/</guid>
       <description></description>
     </item>
     

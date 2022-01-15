@@ -5,7 +5,7 @@
     <link>https://ssardina.github.io/author/alessandro-saetti/</link>
       <atom:link href="https://ssardina.github.io/author/alessandro-saetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessandro Saetti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Alessandro Saetti</title>
@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>Best-First Width Search for Multi Agent Privacy-preserving Planning</title>
-      <link>https://ssardina.github.io/publication/gerevini-2019-best/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/publication/gerevini-2019-best/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Novelty Messages Filtering for Multi Agent Privacy-preserving Planning</title>
-      <link>https://ssardina.github.io/publication/gerevini-2019-novelty/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/publication/gerevini-2019-novelty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iterative width search for multi agent privacy-preserving planning</title>
-      <link>https://ssardina.github.io/publication/bazzotti-2018-iterative/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/publication/bazzotti-2018-iterative/</guid>
+      <title>Agent Planning Programs</title>
+      <link>https://ssardina.github.io/publication/de-giacomo-etal-aij-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/publication/de-giacomo-etal-aij-16/</guid>
       <description></description>
     </item>
     
