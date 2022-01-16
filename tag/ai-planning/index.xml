@@ -13,6 +13,21 @@
     </image>
     
     <item>
+      <title>AI 4 Education</title>
+      <link>https://ssardina.github.io/project/ai4edu/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/project/ai4edu/</guid>
+      <description>&lt;p&gt;We developed a set of 
+&lt;a href=&#34;https://github.com/AI4EDUC/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools&lt;/a&gt; to run daily competitions in our AI courses. Students rely on an improved version of that from 
+&lt;a href=&#34;http://ai.berkeley.edu/project_overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkley AI Pacman framework&lt;/a&gt;. They use search algorithms, Planning Domain Description Language (PDDL), classical replanning, minimax, reinforcement learning, and other approaches for their autonomous Pacman agents. In the course 
+&lt;a href=&#34;http://ai.berkeley.edu/contest.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Capture the Flag project&lt;/a&gt;, the objective is to get home as much food as possible and prevent the other team to do so!&lt;/p&gt;
+&lt;p&gt;The code to run the competitions have been adapted over different games. This project has been developed over the years in collaboration with 
+&lt;a href=&#34;https://nirlipo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Nir Lipovetzky&lt;/a&gt; (Melbourne University).&lt;/p&gt;
+&lt;p&gt;Every year, the top performers from both uni make it to the Hall of Fame and compete for the glory!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Behavior Composition</title>
       <link>https://ssardina.github.io/project/behcomp/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
@@ -32,18 +47,6 @@
 &lt;/ul&gt;
 &lt;p&gt;A tutorial on the topic delivered at IJCAI&#39;15 can be found 
 &lt;a href=&#34;https://sites.google.com/site/behaviorcomposition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AI 4 Education</title>
-      <link>https://ssardina.github.io/project/ai4edu/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/project/ai4edu/</guid>
-      <description>&lt;p&gt;We developed a set of 
-&lt;a href=&#34;https://github.com/AI4EDUC/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools&lt;/a&gt; to run daily competitions in our AI courses at the University of Melbourne and RMIT. Students rely on a version from 
-&lt;a href=&#34;http://ai.berkeley.edu/project_overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkley AI Pacman framework&lt;/a&gt;. They use search algorithms, Planning Domain Description Language (PDDL), classical replanning, minimax, reinforcement learning and other approaches for their autonomous agents.&lt;/p&gt;
-&lt;p&gt;The code to run the competitions have been adapted over different games. This project has been developed with Prof. Sebastian Sardina (RMIT)&lt;/p&gt;
 </description>
     </item>
     
