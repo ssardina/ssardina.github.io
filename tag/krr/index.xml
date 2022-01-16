@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Synthesis | Prof. Sebastian Sardina</title>
-    <link>https://ssardina.github.io/tag/synthesis/</link>
-      <atom:link href="https://ssardina.github.io/tag/synthesis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Synthesis</description>
+    <title>KRR | Prof. Sebastian Sardina</title>
+    <link>https://ssardina.github.io/tag/krr/</link>
+      <atom:link href="https://ssardina.github.io/tag/krr/index.xml" rel="self" type="application/rss+xml" />
+    <description>KRR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Synthesis</title>
-      <link>https://ssardina.github.io/tag/synthesis/</link>
+      <title>KRR</title>
+      <link>https://ssardina.github.io/tag/krr/</link>
     </image>
     
     <item>
@@ -33,38 +33,6 @@
 &lt;p&gt;A tutorial on the topic delivered at IJCAI&#39;15 can be found 
 &lt;a href=&#34;https://sites.google.com/site/behaviorcomposition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Fully Observable Non-deterministic Planning as Assumption-based Reactive Synthesis</title>
-      <link>https://ssardina.github.io/publication/dippolito-rodriguez-sardina-jair-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/publication/dippolito-rodriguez-sardina-jair-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Agent Planning Programs</title>
-      <link>https://ssardina.github.io/publication/de-giacomo-etal-aij-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/publication/de-giacomo-etal-aij-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic Behavior Composition Synthesis</title>
-      <link>https://ssardina.github.io/publication/de-giacomo-patrizi-sardina-aij-13/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/publication/de-giacomo-patrizi-sardina-aij-13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qualitative Approximate Behavior Composition</title>
-      <link>https://ssardina.github.io/publication/yadav-sardina-jelia-12-b/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/publication/yadav-sardina-jelia-12-b/</guid>
-      <description></description>
     </item>
     
   </channel>

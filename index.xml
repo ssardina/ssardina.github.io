@@ -77,6 +77,29 @@
     </item>
     
     <item>
+      <title>Behavior Composition</title>
+      <link>https://ssardina.github.io/project/behcomp/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/project/behcomp/</guid>
+      <description>&lt;p&gt;With computers now present in everyday devices like mobile phones, credit cards, cars and planes or places like homes, offices and factories, the trend is to build embedded complex systems from a collection of simple components. A complex surveillance system for a smart house can be then “realised” (i.e., implemented) by suitably coordinating the behaviours (i.e., the operational logic) of hundreds (or thousands) of simple devices and artifacts (e.g., lights, blinds, a microwave, a vacuum cleaner, video cameras, a floor cleaning robot, etc.) installed in the house.  The problem then is how to automatically build an embedded controller-coordinator to bring about a desired target complex system by suitably coordinating the available components.&lt;/p&gt;
+&lt;p&gt;Behavior composition is not restricted to smart environments and can also be applied to build complex systems in advanced manufacturing systems, web-services, or even in video games, for story generation.&lt;/p&gt;
+&lt;p&gt;A short (fairly easy to read) &lt;strong&gt;overview paper&lt;/strong&gt; on the topic and a more &lt;strong&gt;in-depth journal article&lt;/strong&gt; on the topic are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Giuseppe De Giacomo, Fabio Patrizi, and Sebastian Sardina. 
+&lt;a href=&#34;https://www.aaai.org/ocs/index.php/ICAPS/ICAPS14/paper/view/8665&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building virtual behaviors from partially controllable available behaviors in nondeterministic environments&lt;/a&gt;. In Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS), pages 523-526, Portsmouth, NH, USA, 2014. AAAI Press.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Giuseppe De Giacomo, Fabio Patrizi, and Sebastian Sardina. 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0004370212001658?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatic behavior composition synthesis&lt;/a&gt;. Artificial Intelligence Journal, 196:106-142, 2013.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A tutorial on the topic delivered at IJCAI&#39;15 can be found 
+&lt;a href=&#34;https://sites.google.com/site/behaviorcomposition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Expecting the unexpected: Goal recognition for rational and irrational agents</title>
       <link>https://ssardina.github.io/publication/masters-sardina-aij-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
