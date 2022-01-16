@@ -20,34 +20,16 @@
       <description>&lt;p&gt;The goal/intention recognition problem is the task of identifying an agent’s intent by observing its behaviour. Traditionally, the problem has involved matching a sequence of observations to a plan in a pre-defined plan library; the winning plan being the one that &amp;ldquo;best&amp;rdquo; matches the observations.&lt;/p&gt;
 &lt;p&gt;Recent developments dispense with the overhead of a plan library and instead&amp;mdash;based on the assumption that the observed agent is behaving rationally&amp;mdash;take a cost-based approach and uses classical planning technology to generate candidate plans as needed over a domain model.&lt;/p&gt;
 &lt;p&gt;In a series of work, we have extended and improved the cost-based approach to goal recognition, both for general task planning and path planning. We have worked on how to make recognition faster and more robust to irrational/erratic observed behavior. We have also looked at its&#39; dual problem: &lt;em&gt;deceptive behavior&lt;/em&gt;, the problem of generating behavior that is as deceptive as possible, while still achieving the intended objective.&lt;/p&gt;
-&lt;p&gt;Some representative papers in the area are:&lt;/p&gt;
+&lt;p&gt;Some representative papers are:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Ivan D. Rodriguez, Blai Bonet, Sebastian Sardiña, Hector Geffner: 
-&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/view/15973&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flexible FOND Planning with Explicit Fairness Assumptions&lt;/a&gt;. ICAPS 2021: 290-29. Best Paper Award.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Daniel Alfredo Ciolek, Nicolás D&amp;rsquo;Ippolito, Alberto Pozanco, Sebastian Sardiña:
-[
-&lt;a href=&#34;https://ojs.aaai.org//index.php/ICAPS/article/view/6646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Tier Automated Planning for Adaptive Behavior&lt;/a&gt;]. ICAPS 2020: 66-74&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Nicolás D&amp;rsquo;Ippolito, Natalia Rodríguez, Sebastian Sardiña:
-
-&lt;a href=&#34;https://jair.org/index.php/jair/article/view/11183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fully Observable Non-deterministic Planning as Assumption-Based Reactive Synthesis&lt;/a&gt;. Journal of Artificial Intelligence Research, 61: 593-621 (2018)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Giuseppe De Giacomo, Alfonso Gerevini, Fabio Patrizi, Alessandro Saetti, and Sebastian Sardina. 
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0004370215001563?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agent planning programs&lt;/a&gt;. Artificial Intelligence, 231:64&amp;ndash;106, 2016.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Sarah Hickmott and Sebastian Sardina. 
-&lt;a href=&#34;https://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/view/696&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optimality properties of planning via Petri net unfolding: A formal analysis&lt;/a&gt;. In Alfonso Gerevini and Adele Howe, editors, Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS), pages 170-177, Thessaloniki, Greece, September 2009. AAAI Press.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Davide Aversa, Sebastian Sardina, and Stavros Vassos. 
-&lt;a href=&#34;https://ieeexplore.ieee.org/document/7860417/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Path planning with inventory-driven jump-point-search&lt;/a&gt;. In Proceedings of the AAAI-AIIDE, 2015.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Peta Masters, Sebastian Sardiña: 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0004370221000412?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expecting the unexpected: Goal recognition for rational and irrational agents&lt;/a&gt;. Artificial Intelligence. 297: 103490 (2021)&lt;/li&gt;
+&lt;li&gt;Artem Polyvyanyy, Zihang Su, Nir Lipovetzky, Sebastian Sardiña: 
+&lt;a href=&#34;https://dl.acm.org/doi/abs/10.5555/3398761.3398886&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Goal Recognition Using Off-The-Shelf Process Mining Techniques&lt;/a&gt;. AAMAS 2020: 1072-1080&lt;/li&gt;
+&lt;li&gt;Peta Masters, Sebastian Sardiña: 
+&lt;a href=&#34;https://jair.org/index.php/jair/article/view/11343&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cost-Based Goal Recognition in Navigational Domains&lt;/a&gt;. Journal Artificial Intelligence Research 64: 197-242 (2019)&lt;/li&gt;
+&lt;li&gt;Peta Masters, Sebastian Sardiña: 
+&lt;a href=&#34;https://www.ijcai.org/proceedings/2017/610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deceptive Path-Planning&lt;/a&gt;. IJCAI 2017: 4368-4375.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
