@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Advanced AI Planning</title>
+      <title>Advanced forms of AI Planning</title>
       <link>https://ssardina.github.io/project/aiplanning/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://ssardina.github.io/project/aiplanning/</guid>
@@ -22,19 +22,33 @@
 &lt;p&gt;I am particularly interested in &lt;strong&gt;advanced forms of planning&lt;/strong&gt; (e.g., such as planning under non-determinism or adaptive planning), the &lt;strong&gt;link with controller synthesis&lt;/strong&gt; for adversarial planning, and &lt;strong&gt;path-planning&lt;/strong&gt; (or pathfinding) in an AI context.&lt;/p&gt;
 &lt;p&gt;Together with students, and sometimes as part of the &lt;em&gt;COSC1024/2048 Agent-Oriented Programming&lt;/em&gt; course, we developed path-planning libraries and simulation-visualisation toolkit (that are compatible with 
 &lt;a href=&#34;https://movingai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moving-AI&lt;/a&gt; benchmark framework).&lt;/p&gt;
-&lt;p&gt;Some papers in the area of planning are:&lt;/p&gt;
+&lt;p&gt;Some representative papers in the area are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Giuseppe De Giacomo, Alfonso Gerevini, Fabio Patrizi, Alessandro Saetti, and Sebastian Sardina. Agent planning programs. Artificial Intelligence, 231:64&amp;ndash;106, 2016.&lt;/p&gt;
+&lt;p&gt;Ivan D. Rodriguez, Blai Bonet, Sebastian Sardiña, Hector Geffner: 
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/view/15973&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flexible FOND Planning with Explicit Fairness Assumptions&lt;/a&gt;. ICAPS 2021: 290-29. Best Paper Award.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Miguel Ramirez and Sebastian Sardina. Directed fixed-point regression-based planning for non-deterministic domains. In Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS), pages 235-243, Portsmouth, NH, USA, 2014. AAAI Press.&lt;/p&gt;
+&lt;p&gt;Daniel Alfredo Ciolek, Nicolás D&amp;rsquo;Ippolito, Alberto Pozanco, Sebastian Sardiña:
+[
+&lt;a href=&#34;https://ojs.aaai.org//index.php/ICAPS/article/view/6646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Tier Automated Planning for Adaptive Behavior&lt;/a&gt;]. ICAPS 2020: 66-74&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Sarah Hickmott and Sebastian Sardina. Optimality properties of planning via Petri net unfolding: A formal analysis. In Alfonso Gerevini and Adele Howe, editors, Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS), pages 170-177, Thessaloniki, Greece, September 2009. AAAI Press.&lt;/p&gt;
+&lt;p&gt;Nicolás D&amp;rsquo;Ippolito, Natalia Rodríguez, Sebastian Sardiña:
+
+&lt;a href=&#34;https://jair.org/index.php/jair/article/view/11183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fully Observable Non-deterministic Planning as Assumption-Based Reactive Synthesis&lt;/a&gt;. Journal of Artificial Intelligence Research, 61: 593-621 (2018)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Davide Aversa, Sebastian Sardina, and Stavros Vassos. Path planning with inventory-driven jump-point-search. In Proceedings of the AAAI-AIIDE, 2015.&lt;/p&gt;
+&lt;p&gt;Giuseppe De Giacomo, Alfonso Gerevini, Fabio Patrizi, Alessandro Saetti, and Sebastian Sardina. 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0004370215001563?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agent planning programs&lt;/a&gt;. Artificial Intelligence, 231:64&amp;ndash;106, 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sarah Hickmott and Sebastian Sardina. 
+&lt;a href=&#34;https://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/view/696&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optimality properties of planning via Petri net unfolding: A formal analysis&lt;/a&gt;. In Alfonso Gerevini and Adele Howe, editors, Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS), pages 170-177, Thessaloniki, Greece, September 2009. AAAI Press.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Davide Aversa, Sebastian Sardina, and Stavros Vassos. 
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/7860417/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Path planning with inventory-driven jump-point-search&lt;/a&gt;. In Proceedings of the AAAI-AIIDE, 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
