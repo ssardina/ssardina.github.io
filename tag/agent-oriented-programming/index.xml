@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KRR | Prof. Sebastian Sardina</title>
-    <link>https://ssardina.github.io/tag/krr/</link>
-      <atom:link href="https://ssardina.github.io/tag/krr/index.xml" rel="self" type="application/rss+xml" />
-    <description>KRR</description>
+    <title>Agent-oriented programming | Prof. Sebastian Sardina</title>
+    <link>https://ssardina.github.io/tag/agent-oriented-programming/</link>
+      <atom:link href="https://ssardina.github.io/tag/agent-oriented-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Agent-oriented programming</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>KRR</title>
-      <link>https://ssardina.github.io/tag/krr/</link>
+      <title>Agent-oriented programming</title>
+      <link>https://ssardina.github.io/tag/agent-oriented-programming/</link>
     </image>
     
     <item>
@@ -31,29 +31,6 @@
 &lt;li&gt;Giuseppe De Giacomo, Yves Lespérance, Hector J. Levesque, and Sebastian Sardina. IndiGolog: A high-level programming language for embedded reasoning agents. In Rafael H. Bordini, Mehdi Dastani, Jürgen Dix, and Amal El Fallah-Seghrouchni, editors, Multi-Agent Programming: Languages, Platforms and Applications, chapter 2, pages 31-72. Springer, New York, USA, 2009. ISBN: 978-0-387-89298-6.&lt;/li&gt;
 &lt;li&gt;Andrea Marrella, Massimo Mecella, and Sebastian Sardina. SmartPM: An adaptive process management system through situation calculus, indigolog, and classical planning. In Chitta Baral and Giuseppe De Giacomo, editors, Proceedings of Principles of Knowledge Representation and Reasoning (KR), pages 518-527, Vienna, Austria, 2014.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Behavior Composition</title>
-      <link>https://ssardina.github.io/project/behcomp/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/project/behcomp/</guid>
-      <description>&lt;p&gt;With computers now present in everyday devices like mobile phones, credit cards, cars and planes or places like homes, offices and factories, the trend is to build embedded complex systems from a collection of simple components. A complex surveillance system for a smart house can be then “realised” (i.e., implemented) by suitably coordinating the behaviours (i.e., the operational logic) of hundreds (or thousands) of simple devices and artifacts (e.g., lights, blinds, a microwave, a vacuum cleaner, video cameras, a floor cleaning robot, etc.) installed in the house.  The problem then is how to automatically build an embedded controller-coordinator to bring about a desired target complex system by suitably coordinating the available components.&lt;/p&gt;
-&lt;p&gt;Behavior composition is not restricted to smart environments and can also be applied to build complex systems in advanced manufacturing systems, web-services, or even in video games, for story generation.&lt;/p&gt;
-&lt;p&gt;A short (fairly easy to read) &lt;strong&gt;overview paper&lt;/strong&gt; on the topic and a more &lt;strong&gt;in-depth journal article&lt;/strong&gt; on the topic are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Giuseppe De Giacomo, Fabio Patrizi, and Sebastian Sardina. 
-&lt;a href=&#34;https://www.aaai.org/ocs/index.php/ICAPS/ICAPS14/paper/view/8665&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building virtual behaviors from partially controllable available behaviors in nondeterministic environments&lt;/a&gt;. In Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS), pages 523-526, Portsmouth, NH, USA, 2014. AAAI Press.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Giuseppe De Giacomo, Fabio Patrizi, and Sebastian Sardina. 
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0004370212001658?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatic behavior composition synthesis&lt;/a&gt;. Artificial Intelligence Journal, 196:106-142, 2013.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A tutorial on the topic delivered at IJCAI&#39;15 can be found 
-&lt;a href=&#34;https://sites.google.com/site/behaviorcomposition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
