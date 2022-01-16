@@ -19,10 +19,10 @@
       <guid>https://ssardina.github.io/project/rac/</guid>
       <description>&lt;p&gt;This area is concerned with how to specify and verify dynamic systems. Different approaches to representing and reasoning about systems that change include temporal logic, model checking, dynamic logic, and modelling change in Artificial Intelligence. Some problems that I am interested include:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Progression of knowledge bases.&lt;/li&gt;
+&lt;li&gt;Progression of knowledge bases: &lt;em&gt;what is the new knowledge base after an update action?&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Incomplete knowledge and relation with (incomplete) databases.&lt;/li&gt;
-&lt;li&gt;Knowledge precondition for plans: what knowledge is required to successfully execute a plan?&lt;/li&gt;
-&lt;li&gt;Verification of properties in dynamic systems.&lt;/li&gt;
+&lt;li&gt;Knowledge precondition for plans: &lt;em&gt;what knowledge is required to successfully execute a plan?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Verification of properties in dynamic systems, even in infinite systems (i.e., systems manipulating infinite number of objects).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Some example of relevant papers in the area are:&lt;/p&gt;
 &lt;ul&gt;
