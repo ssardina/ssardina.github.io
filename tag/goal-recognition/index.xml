@@ -17,11 +17,9 @@
       <link>https://ssardina.github.io/project/gr/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://ssardina.github.io/project/gr/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Automated_planning_and_scheduling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automated planning&lt;/a&gt; is the problem of automatically producing a plan (i.e., a course of actions) in order to achieve a certain goal (e.g., have all the packages delivered in a logistic domain). Those plans are generally meant to be executed by intelligent agents, autonomous robots, unmanned vehicles, or complex embedded systems.&lt;/p&gt;
-&lt;p&gt;I am particularly interested in &lt;strong&gt;advanced forms of planning&lt;/strong&gt; (e.g., such as planning under non-determinism or adaptive planning), the &lt;strong&gt;link with controller synthesis&lt;/strong&gt; for adversarial planning, and &lt;strong&gt;path-planning&lt;/strong&gt; (or pathfinding) in an AI context.&lt;/p&gt;
-&lt;p&gt;Together with students, and sometimes as part of the &lt;em&gt;COSC1024/2048 Agent-Oriented Programming&lt;/em&gt; course, we developed path-planning libraries and simulation-visualisation toolkit (that are compatible with 
-&lt;a href=&#34;https://movingai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moving-AI&lt;/a&gt; benchmark framework).&lt;/p&gt;
+      <description>&lt;p&gt;The goal/intention recognition problem is the task of identifying an agent’s intent by observing its behaviour. Traditionally, the problem has involved matching a sequence of observations to a plan in a pre-defined plan library; the winning plan being the one that &amp;ldquo;best&amp;rdquo; matches the observations.&lt;/p&gt;
+&lt;p&gt;Recent developments dispense with the overhead of a plan library and instead&amp;mdash;based on the assumption that the observed agent is behaving rationally&amp;mdash;take a cost-based approach and uses classical planning technology to generate candidate plans as needed over a domain model.&lt;/p&gt;
+&lt;p&gt;In a series of work, we have extended and improved the cost-based approach to goal recognition, both for general task planning and path planning. We have worked on how to make recognition faster and more robust to irrational/erratic observed behavior. We have also looked at its&#39; dual problem: &lt;em&gt;deceptive behavior&lt;/em&gt;, the problem of generating behavior that is as deceptive as possible, while still achieving the intended objective.&lt;/p&gt;
 &lt;p&gt;Some representative papers in the area are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
