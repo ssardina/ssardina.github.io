@@ -477,6 +477,75 @@ a few others I cannot remember, sorry!
     </item>
     
     <item>
+      <title>Systems</title>
+      <link>https://ssardina.github.io/extras/resources/systems/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/resources/systems/</guid>
+      <description>&lt;h2 id=&#34;educationclassroom-support&#34;&gt;Education/Classroom support&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/AI4EDUC/pacman-projects-grader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pacman Project Grader&lt;/a&gt; - This system allows to automatically grade student submissions against any of the UC Berkeley Pacman Projects 
+&lt;a href=&#34;http://ai.berkeley.edu/project_overview.html%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ai.berkeley.edu/project_overview.html)&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/AI4EDUC/pacman-contest-cluster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pacman Contest/Tournament System&lt;/a&gt; - This system allows to run the UC Pacman Conquer the Flag contest (
+&lt;a href=&#34;http://ai.berkeley.edu/contest.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ai.berkeley.edu/contest.html&lt;/a&gt;) in a reliable, easy and powerful manner. I had 90 students in 30 teams and run a full contest in less than 30 minutes. Everything done automatically!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/ssardina-teaching/google-assignment-submission&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Assignment Submission&lt;/a&gt; - System to manage student submissions via Google Forms. It allows to download automatically the latest submissions per student with a nice file format that includes student number and timestamp.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/ssardina-teaching/git-hw-submissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Submission Management Support Scripts&lt;/a&gt; - Various tools to manage student submissions via git.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;planning--synthesis&#34;&gt;Planning &amp;amp; Synthesis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-planning/p4-simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;P4-Simulator&lt;/a&gt; - Python Path Planning Project - A path planning simulator using movingai benchmarks (
+&lt;a href=&#34;http://movingai.com/benchmarks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://movingai.com/benchmarks/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-planning/apparate-simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APPARATE&lt;/a&gt; is an application package to code, simulate, and visualise various path planning algorithms, such as A*, Real-time A* or incremental path planners like D* or Moving Target.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-planning/nugat-0.6.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NuGAT v0.6.0&lt;/a&gt; - This is the upgraded version of NuGAT game solver (
+&lt;a href=&#34;https://es.fbk.eu/technologies/nugat-game-solver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://es.fbk.eu/technologies/nugat-game-solver&lt;/a&gt;) for compatibility with next generation v2.6.0 of NuSMV. Developed as part of Lorenzo Lorenzo Dibenedetto Master Thesis.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-planning/nugat-ma&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NuGAT Multi Agent&lt;/a&gt; - This is the NuSMV 2.6 compatible NuGAT game solver (
+&lt;a href=&#34;https://es.fbk.eu/technologies/nugat-game-solver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://es.fbk.eu/technologies/nugat-game-solver&lt;/a&gt;) extended to deal with coalition of agents. Developed as part of Lorenzo Lorenzo Dibenedetto Master Thesis.
+simulator and a few agent system controllers.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-planning/allegro-composition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALLEGRO Composer&lt;/a&gt; - A system for solving and benchmarking Behavior Composition problems (developed as part of Nitin Yadav&amp;rsquo;s Master Program)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;agent-programming&#34;&gt;Agent Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-agts/indigolog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IndiGolog&lt;/a&gt; - A high-level programming language where programs are executed incrementally to allow for interleaved action, planning, sensing, and exogenous events.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-agts/elevator-simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elevator Simulator and Controllers&lt;/a&gt; - An elevator&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-agts/agtcity-server&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMIT Agents in City Server&lt;/a&gt;: a modified and extended server for Agents in City game.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sarl&#34;&gt;SARL&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-agts/sarl-prolog-cap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL Prolog Capacity &amp;amp; Skill&lt;/a&gt;: skill to connect SARL agents with SWI-Prolog.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-agts/elevator-sarl-base&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL Base Controllers for Elevator Simulator&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-agts/agtcity-sarl-base&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL Base Controllers for Agents in City&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;logic-programming&#34;&gt;Logic Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jpl7.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JPL&lt;/a&gt;: bio-directional interface Java-Prolog. (Contributor).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CS &amp; AI Videos</title>
       <link>https://ssardina.github.io/extras/resources/videos/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
