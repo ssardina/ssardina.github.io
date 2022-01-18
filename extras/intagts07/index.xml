@@ -62,30 +62,33 @@
 &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Yves Lespérance.&lt;/p&gt;
 &lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
 &lt;p&gt;Please find them 
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/Roma07PhDcourse/slides/lecture1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/Roma07PhDcourse/slides/lecture2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Wooldridge M., 
-&lt;a href=&#34;http://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas//IMAS2e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Multiagent Systems&lt;/a&gt;, Chapter 1 to end of Section 1.2 and Chapter 2 to end of Section 2.5.&lt;/li&gt;
+&lt;a href=&#34;http://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas//IMAS2e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Multiagent Systems&lt;/a&gt;, Chapter 8 to end of Section 2.2 and Chapter 9 to end of Section 9.2.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Bratman, M.E., Israel, D.J., and Pollack, M.E. 
-&lt;a href=&#34;http://citeseer.ist.psu.edu/rd/43480128%2C42160%2C1%2C0.25%2CDownload/http://coblitz.codeen.org:3125/citeseer.ist.psu.edu/cache/papers/cs/1262/http:zSzzSzwww.ai.sri.comzSzpubszSzpaperszSzBrat88-349:PlanszSzdocument.pdf/bratman88plans.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plans and Resource-Bounded Practical Reasoning&lt;/a&gt;. Computational Intelligence , 4, 349-355, 1988.&lt;/li&gt;
+&lt;li&gt;Bellifemine F., Poggi, A., and Rimassa, G. 
+&lt;a href=&#34;https://jmvidal.cse.sc.edu/library/bellifemine01a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Developing Multi-Agent Systems with a FIPA-Compliant Agent Framework Software: Practice and Experience&lt;/a&gt;, 31 (2), 103-128, 2000.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Borzenko, O., Xu, W., Obsniuk, M., Chopra, A., Jasiobedzki, P., Jenkin, M., and Lespérance, Y.. 
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ICVS06.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lights and Camera: Intelligently Controlled Multi-channel Pose Estimation System&lt;/a&gt;. In Proc. of the IEEE International Conference on Vision Systems (ICVS&#39;06), paper 42 (8 pages), New York, NY, January, 2006.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.fipa.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FIPA home page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://jade.cselt.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JADE home page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cs.yorku.ca/~erickm/ig-jade/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Martinez&amp;rsquo;s IndiGolog-JADE page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.ai.sri.com/~oaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SRI OAA home page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cs.yorku.ca/~alexei/ig-oaa/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IgOAAlib home page&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Cohen, P.R. and Levesque, H.J. 
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/0004370290900555&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intention is Choice with Commitment&lt;/a&gt;, Artificial Intelligence, 42 (2-3), 213-261, 1990.&lt;/li&gt;
-&lt;li&gt;G. De Giacomo and H.J. Levesque. 
-&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/Papers/DeLe99ray.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Incremental Interpreter for High-Level Programs with Sensing&lt;/a&gt;. In Logical Foundation for Cognitive Agents: Contributions in Honor of Ray Reiter, Hector J. Levesque and Fiora Pirri, editors, pages 86-102, Springer 1999.&lt;/li&gt;
-&lt;li&gt;Dennett, D. 
-&lt;a href=&#34;https://mitpress.mit.edu/books/intentional-stance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Intentional Stance&lt;/a&gt;, MIT Press, Cambridge, MA, USA, 1987.&lt;/li&gt;
-&lt;li&gt;Lapouchnian, A. and Lespérance, Y.. Interfacing IndiGolog and OAA - A Toolkit for Advanced Multiagent Applications. Applied Artificial Intelligence 16(9-10), 813-829, 2002.&lt;/li&gt;
-&lt;li&gt;Lespérance, Y. and Ng, H.-K. 
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/Cogrobo00.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Integrating Planning into Reactive High-Level Robot Programs&lt;/a&gt;. In Proceedings of the Second International Cognitive Robotics Workshop, 49-54, Berlin, Germany, August, 2000.&lt;/li&gt;
+&lt;a href=&#34;https://researchmgt.monash.edu/ws/portalfiles/portal/262315026/260773172.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rational Interaction as the Basis for Communication&lt;/a&gt;. In Intentions in Communication, P.R. Cohen, J. Morgan, and M.E. Pollack (eds.), 221-256, MIT Press, Cambridge MA, 1990.&lt;/li&gt;
+&lt;li&gt;Smith, R.G. 
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/1675516&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The CONTRACT NET: A Formalism for the Control of Distributed Problem Solving&lt;/a&gt;. In Proc. of the 5th Int. Joint Conf. on Artificial Intelligence (IJCAI-77), Cambridge, MA, 1977.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
