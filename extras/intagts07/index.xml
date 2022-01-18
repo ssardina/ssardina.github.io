@@ -149,6 +149,93 @@
     </item>
     
     <item>
+      <title>Lecture 5 - Sensing and Planning under Incomplete Information and Dynamic Evironments</title>
+      <link>https://ssardina.github.io/extras/intagts07/lecture05/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/lecture05/</guid>
+      <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 20, 2007 - Hour 7 and 8&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Sensing and Planning under Incomplete Information and Dynamic Evironments&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Yves Lespérance.&lt;/p&gt;
+&lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
+&lt;p&gt;Please find them 
+&lt;a href=&#34;slides/lecture5.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
+&lt;p&gt;Just read the lecture transparencies ahead of time.&lt;/p&gt;
+&lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/AMAI04.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. De Giacomo, Y. Lespérance, H.J. Levesque, and S. Sardina. On the Semantics of Deliberation in IndiGolog - From Theory to Implementation. &lt;em&gt;Annals of Mathematics and Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;41&lt;/strong&gt;&lt;em&gt;(2-4)&lt;/em&gt;, 259-299, August, 2004.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[BHL95] Fahiem Bacchus, Joseph Y. Halpern, Hector J. Levesque: Reasoning about Noisy Sensors in the Situation Calculus. &lt;em&gt;Proc. IJCAI 1995&lt;/em&gt;: 1933-1940.&lt;/p&gt;
+&lt;p&gt;[BacPet98] F. Bacchus and R. Petrick, Modeling an Agent&amp;rsquo;s Incomplete Knowledge during Planning and Execution, &lt;em&gt;Principles of Knowledge Representation and Reasoning (KR &amp;lsquo;98)&lt;/em&gt;, 432-443, 1998.&lt;/p&gt;
+&lt;p&gt;[BFM07] Baier, J. and Fritz, C. and McIlraith, S. Exploiting Procedural Domain Control Knowledge in State-of-the-Art Planners, &lt;em&gt;Proc. of the Seventeenth International Conference on Automated Planning and Scheduling (ICAPS-07)&lt;/em&gt;, Providence, RI, USA, 2007.&lt;/p&gt;
+&lt;p&gt;[Beetz01] Michael Beetz: Structured Reactive Controllers. &lt;em&gt;Autonomous Agents and Multi-Agent Systems&lt;/em&gt; &lt;strong&gt;4&lt;/strong&gt;(1/2): 25-55 (2001).&lt;/p&gt;
+&lt;p&gt;[BRST00] Craig Boutilier, Raymond Reiter, Mikhail Soutchanski, Sebastian Thrun: Decision-Theoretic, High-Level Agent Programming in the Situation  Calculus. &lt;em&gt;Proc. AAAI/IAAI 2000&lt;/em&gt;: 355-362.&lt;/p&gt;
+&lt;p&gt;[Brooks91] Rodney A. Brooks: Intelligence without Representation. &lt;em&gt;Artificial Intelligence 47&lt;/em&gt;(1-3): 139-159 , 1991.&lt;/p&gt;
+&lt;p&gt;[Bur+98] Wolfram Burgard, Armin B. Cremers, Dieter Fox, Dirk Hähnel, Gerhard Lakemeyer, Dirk Schulz, Walter Steiner, Sebastian Thrun: The Interactive Museum Tour-Guide Robot. &lt;em&gt;Proc. AAAI/IAAI 1998:&lt;/em&gt; 11-18.&lt;/p&gt;
+&lt;p&gt;[CHL07]Jens Cla�en, Yuxiao Hu, Gerhard Lakemeyer: A Situation-Calculus Sematics for an Expressive Fragment of PDDL. &lt;em&gt;Proc. AAAI 2007&lt;/em&gt;, 956-961, 2007.&lt;/p&gt;
+&lt;p&gt;[CorSaf01] Silvia Coradeschi, Alessandro Saffiotti: Perceptual Anchoring of Symbols for Action. &lt;em&gt;Proc. IJCAI 2001:&lt;/em&gt; 407-416.&lt;/p&gt;
+&lt;p&gt;[DLL00] G. De Giacomo, Y. Lespérance, and H.J. Levesque. ConGolog, a concurrent programming language based on the situation calculus. &lt;em&gt;Artificial Intelligence,&lt;/em&gt; &lt;strong&gt;121&lt;/strong&gt;, 109-169, 2000.&lt;/p&gt;
+&lt;p&gt;[DLLS04] G. De Giacomo, Y. Lesp�rance, H.J. Levesque, and S. Sardina. On the Semantics of Deliberation in IndiGolog - From Theory to Implementation. &lt;em&gt;Annals of Mathematics and Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;41&lt;/strong&gt;(2-4), 259-299, August, 2004.&lt;/p&gt;
+&lt;p&gt;[DegLev99a] Giuseppe De Giacomo and Hector J. Levesque. Projection Using Regression and Sensors. &lt;em&gt;Proc. IJCAI&#39;99&lt;/em&gt;, 160-165, 1999.&lt;/p&gt;
+&lt;p&gt;[DegLev99b] G. De Giacomo, H. J. Levesque.  An incremental interpreter for high-level programs with sensing.  In &lt;em&gt;Logical Foundation for Cognitive Agents: Contributions in Honor of Ray Reiter,&lt;/em&gt; Hector J. Levesque and Fiora Pirri, editors, 86-102, Springer, 1999.&lt;/p&gt;
+&lt;p&gt;[DLS01] Giuseppe De Giacomo, Hector J. Levesque, Sardina Sebastian. Incremental execution of guarded theories. &lt;em&gt;ACM Trans. on Computational Logic&lt;/em&gt; &lt;strong&gt;4&lt;/strong&gt;(2):495-525, 2001.&lt;/p&gt;
+&lt;p&gt;[DRS98] Giuseppe De Giacomo, Ray Reiter, Mikhail Soutchanski.. Execution monitoring of high-level robot programs.  &lt;em&gt;Proc. of the 6th International Conference on Principles of Knowledge Representation and Reasoning (KR&#39;98),&lt;/em&gt; 453-464, 1998.&lt;/p&gt;
+&lt;p&gt;[DemDel00] Robert Demolombe, Maria del Pilar Pozos Parra: A Simple and Tractable Extension of Situation Calculus to Epistemic Logic. &lt;em&gt;Proc. ISMIS 2000:&lt;/em&gt; 515-524.&lt;/p&gt;
+&lt;p&gt;[FFL07]Alessandro Farinelli, Alberto Finzi, Thomas Lukasiewicz: Team Programming in Golog under Partial Observability. &lt;em&gt;Proc. IJCAI 2007&lt;/em&gt;, 2097-2102, 2007.&lt;/p&gt;
+&lt;p&gt;[FinLuk04]Alberto Finzi, Thomas Lukasiewicz: Game-Theoretic Agent Programming in Golog. &lt;em&gt;Proc. ECAI 2004&lt;/em&gt;, 23-27, 2004.&lt;/p&gt;
+&lt;p&gt;[FinPir01] Alberto Finzi, Fiora Pirri, Combining Probabilities, Failures and Safety in Robot Control, in &lt;em&gt;Proc. of IJCAI-01&lt;/em&gt;, 1331-1336, 2001.&lt;/p&gt;
+&lt;p&gt;[FPR00] Alberto Finzi, Fiora Pirri and Raymond Reiter, Open World Planning in the Situation Calculus, &lt;em&gt;Proc. of AAAI-2000&lt;/em&gt;, 754-760, 2000.&lt;/p&gt;
+&lt;p&gt;[Firby87] R. James Firby: An Investigation into Reactive Planning in Complex Domains. &lt;em&gt;Proc. AAAI 1987&lt;/em&gt;: 202-206.&lt;/p&gt;
+&lt;p&gt;[Gat92] Erann Gat: Integrating Planning and Reacting in a Heterogeneous Asynchronous Architecture for Controlling Real-World Mobile Robots. P_roc. AAAI 1992:_ 809-815.&lt;/p&gt;
+&lt;p&gt;[GLL07] Hojjat Ghaderi, Hector J. Levesque, Yves Lesp�rance: A Logical Theory of Coordination and Joint Ability. &lt;em&gt;Proc. AAAI 2007&lt;/em&gt;, 421-426, 2007.&lt;/p&gt;
+&lt;p&gt;[GoulLes07] A. Goultiaeva and Y. Lesp�rance. Incremental Plan Recognition in an Agent Programming Framework. &lt;em&gt;Working Notes of the AAAI 2007 Workshop on Plan, Activity, and Intent Recognition (PAIR&#39;07)&lt;/em&gt;, Vancouver, BC, July, 2007.&lt;/p&gt;
+&lt;p&gt;[GroLak01] Henrik Grosskreutz, Gerhard Lakemeyer: Belief Update in the pGOLOG Framework. &lt;em&gt;Proc. KI/ÖGAI 2001:&lt;/em&gt; 213-228.&lt;/p&gt;
+&lt;p&gt;[GroLak00] Henrik Grosskreutz, Gerhard Lakemeyer: cc-Golog: Towards More Realistic Logic-Based Robot Controllers. &lt;em&gt;Proc. AAAI/IAAI 2000:&lt;/em&gt; 476-482.&lt;/p&gt;
+&lt;p&gt;[Iocchi99] L. Iocchi, &lt;em&gt;Design and Development of Cognitive Robots,&lt;/em&gt; PhD Thesis, Dipartimento di Informatica e Sistemistica, Università di Roma &amp;ldquo;La Sapienza&amp;rdquo;. 1999.&lt;/p&gt;
+&lt;p&gt;[KhaLes05] Shakil M. Khan, Yves Lesp�rance: ECASL: a model of rational agency for communicating agents. &lt;em&gt;Proc. AAMAS 2005&lt;/em&gt;, 762-769, 2005.&lt;/p&gt;
+&lt;p&gt;[LapLes02] A. Lapouchnian and Y. Lesp�rance. Interfacing IndiGolog and OAA - A Toolkit for Advanced Multiagent Applications. &lt;em&gt;Applied Artificial Intelligence&lt;/em&gt; &lt;strong&gt;16&lt;/strong&gt;(9-10), 813-829, 2002.&lt;/p&gt;
+&lt;p&gt;[LDO07] Y. Lespérance, G. De Giacomo, and A. Ozgovde. A Model of Contingent Planning for Agent Programming Languages. Submitted to &lt;em&gt;AAMAS&#39;08&lt;/em&gt;, 2007.&lt;/p&gt;
+&lt;p&gt;[LLLS01] Y. Lespérance, H.J. Levesque, F. Lin, and R.B. Scherl. Ability and Knowing How in the Situation Calculus. &lt;em&gt;Studia Logica,&lt;/em&gt; &lt;strong&gt;66&lt;/strong&gt;(1), 165-186, October ,2000.&lt;/p&gt;
+&lt;p&gt;[LesNg00] Y. Lespérance and H.-K. Ng. Integrating Planning into Reactive High-Level Robot Programs. &lt;em&gt;Proc. of the Second International Cognitive Robotics Workshop,&lt;/em&gt; 49-54, Berlin, Germany, August, 2000.&lt;/p&gt;
+&lt;p&gt;[LTJ99] Y. Lespérance, K. Tam, M. Jenkin. Reactivity in a Logic-Based Robot Programming Framework. &lt;em&gt;Proc. ATAL 1999:&lt;/em&gt; 173-187.&lt;/p&gt;
+&lt;p&gt;[LRLLS97] H.J. Levesque, R. Reiter, Y. Lespérance, F. Lin and R. Scherl. GOLOG: A Logic Programming Language for Dynamic Domains. &lt;em&gt;Journal of Logic Programming&lt;/em&gt;, &lt;strong&gt;31&lt;/strong&gt;, 59-84, 1997.&lt;/p&gt;
+&lt;p&gt;[Levesque96] H.J. Levesque. What is planning in the presence of sensing? &lt;em&gt;Proc. of the Thirteenth National Conference on Artificial Intelligence, AAAI-96,&lt;/em&gt; Portland, Oregon, August, 1996.&lt;/p&gt;
+&lt;p&gt;[LinRei94] F. Lin and R. Reiter. State Constraints Revisited. J_ournal of Logic and Computation,_ &lt;strong&gt;4&lt;/strong&gt;(5):655-678, Special Issue on Action and Processes, 1994.&lt;/p&gt;
+&lt;p&gt;[LiuLev05] Yongmei Liu, Hector J. Levesque: Tractable Reasoning with Incomplete First-Order Knowledge in Dynamic Systems with Context-Dependent Actions. &lt;em&gt;Proc. IJCAI 2005&lt;/em&gt;, 522-527.&lt;/p&gt;
+&lt;p&gt;[McCarthy63] McCarthy, John. &lt;em&gt;Situations, Actions, and Causal Laws,&lt;/em&gt; Technical Report, Stanford University, 1963; reprinted in Semantic Information Processing, Minsky, M. (ed.), 410-417, MIT Press, Cambridge, MA, 1968.&lt;/p&gt;
+&lt;p&gt;[MciSch00] McIlraith, S. and Scherl, R. ``What Sensing Tells Us: Towards a Formal Theory of Testing for Dynamical Systems&amp;rsquo;&#39;, &lt;em&gt;Proc. of the Seventeenth National Conference on Artificial Intelligence (AAAI&#39;2000),&lt;/em&gt; 483-490, August, 2000.&lt;/p&gt;
+&lt;p&gt;[MarLes04a] E. Martinez and Y. Lesp�rance. IG-JADE-PKSlib: An Agent-Based Framework for Advanced Web Service Composition and Provisioning. In &lt;em&gt;Proc. of the AAMAS 2004 Workshop on Web-services and Agent-based Engineering&lt;/em&gt;, 2-10, New York, NY, USA, July, 2004.&lt;/p&gt;
+&lt;p&gt;[MarLes04b] E. Martinez and Y. Lesp�rance. Web Service Composition as a Planning Task: Experiments using Knowledge-Based Planning. In &lt;em&gt;Proc. of the ICAPS-2004 Workshop on Planning and Scheduling for Web and Grid Services&lt;/em&gt;, 62-69, Whistler, BC, June, 2004.&lt;/p&gt;
+&lt;p&gt;[Nic+98] Nickerson, B., Jasiobedzki, P., Wilkes, D., Jenkin, M., Milios, E., Tsotsos, J., Jepson, A. and Bains, O.N.,  The ARK project: Autonomous Mobile Robots for Known Industrial Environments, &lt;em&gt;Robotics and Autonomous Systems&lt;/em&gt;, &lt;strong&gt;25&lt;/strong&gt;, 83-104, 1998.&lt;/p&gt;
+&lt;p&gt;[ShaLes01] S. Shapiro and Y. Lespérance. Modeling Multiagent Systems with the Cognitive Agents Specification Language - A Feature Interaction Resolution Application. In Castelfranchi, C. and Lespérance, Y., editors, &lt;em&gt;Intelligent Agents Volume VII - Proceedings of the 2000 Workshop on Agent Theories, Architectures, and Languages (ATAL-2000),&lt;/em&gt; LNAI, vol. 1986, 244-259, Springer-Verlag, Berlin, 2001.&lt;/p&gt;
+&lt;p&gt;[SPLL00] S. Shapiro, M. Pagnucco, Y. Lespérance, and H.J. Levesque. Iterated Belief Change in the Situation Calculus, in A.G. Cohn, F. Giunchiglia, and B. Selman, editors, &lt;em&gt;Principles of Knowledge Representation and Reasoning: Proceedings of the Seventh International Conference (KR-2000)&lt;/em&gt;, 527-538, Morgan Kaufmann Publishers, 2000.&lt;/p&gt;
+&lt;p&gt;[RaoGeo92] Anand S. Rao, Michael P. Georgeff: An Abstract Architecture for Rational Agents. &lt;em&gt;Proc. KR 1992:&lt;/em&gt; 439-449.&lt;/p&gt;
+&lt;p&gt;[Reiter01a] R. Reiter. On Knowledge-Based Programming with Sensing in the Situation Calculus, &lt;em&gt;ACM Transactions on Computational Logic,&lt;/em&gt; &lt;strong&gt;2&lt;/strong&gt;(4), 433-457, 2001.&lt;/p&gt;
+&lt;p&gt;[Reiter01b] R. Reiter, &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems&lt;/em&gt;. MIT Press, 2001.&lt;/p&gt;
+&lt;p&gt;[Reiter98] Raymond Reiter: Sequential, Temporal GOLOG. &lt;em&gt;Proc. KR 1998:&lt;/em&gt; 547-556.&lt;/p&gt;
+&lt;p&gt;[Reiter91] R. Reiter. The frame problem in the situation calculus: A simple solution (sometimes) and a completeness result for goal regression. &lt;em&gt;Artificial Intelligence and Mathematical Theory of Computation: Papers in Honor of John McCarthy,&lt;/em&gt; Vladimir Lifschitz (ed.), Academic Press, San Diego, CA, 1991, pp.359-380.&lt;/p&gt;
+&lt;p&gt;[Sandewall97] Erik Sandewall: Relating High-Level and Low-Level Action Descriptions in a Logic of Actions and Change. &lt;em&gt;Proc. HART 1997&lt;/em&gt;: 3-17.&lt;/p&gt;
+&lt;p&gt;[Sardina01] Sebastian Sardiña, Local Conditional High-Level Robot Programs (extended version) , Extended version of paper submitted to Logic for Programming, Artificial Intelligence and Reasoning (LPAR-01) 2001. Available at 
+&lt;a href=&#34;http://www.cs.toronto.edu/~ssardina&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.cs.toronto.edu/~ssardina&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[SDLL06] S. Sardina, G. De Giacomo, Y. Lesp�rance, and H.J. Levesque. On the Limits of Planning over Belief States under Strict Uncertainty. In P. Doherty, J. Mylopoulos, C. A. Welty (Eds.), &lt;em&gt;Proceedings, 10th Int. Conf. on Principles of Knowledge Representation and Reasoning (KR2006)&lt;/em&gt;, 463-471, Lake District, UK, June, 2006.&lt;/p&gt;
+&lt;p&gt;[SarPad07] Sebastian Sardiña and Lin Padgham. Goals in the Context of BDI Plan Failure and Planning. &lt;em&gt;Proc. AAMAS 2007&lt;/em&gt;, 16-24, Honolulu, HI, USA, 2007.&lt;/p&gt;
+&lt;p&gt;[SarVas05]Sebastian Sardiña and Stavros Vassos. The Wumpus World in IndiGolog: A preliminary report. In L. Morgenstern and M. Pagnucco, editors, &lt;em&gt;Proc. of the Workshop on Non-monotonic Reasoning, Action and Change at IJCAI&#39;05 (NRAC-05)&lt;/em&gt;, 90-95, 2005.&lt;/p&gt;
+&lt;p&gt;[ShaWit00] Murray Shanahan, Mark Witkowski: High-Level Robot Control through Logic. &lt;em&gt;Proc. ATAL 2000:&lt;/em&gt; 104-121.&lt;/p&gt;
+&lt;p&gt;[SLL02] Steven Shapiro, Yves Lesp�rance, Hector J. Levesque: The cognitive agents specification language and verification environment for multiagent systems. &lt;em&gt;Proc. AAMAS 2002&lt;/em&gt;, 19-26, 2002.&lt;/p&gt;
+&lt;p&gt;[SLL07] Shapiro, S., Lesp�rance, Y., and Levesque, H.J. Goal Change in the Situation Calculus. &lt;em&gt;Journal of Logic and Computation&lt;/em&gt;, &lt;strong&gt;17&lt;/strong&gt;(5), 983-1018, August, 2007.&lt;/p&gt;
+&lt;p&gt;[Thielscher00] M. Thielscher, &lt;em&gt;The Fluent Calculus: A Specification Language for Robots with Sensors in Nondeterministic, Concurrent, and Ramifying Environments&lt;/em&gt;, Technical Report (CL-2000-01).&lt;/p&gt;
+&lt;p&gt;[Thielscher05] Michael Thielscher: FLUX: A logic programming method for reasoning agents. &lt;em&gt;Theory and Practice of Logic Programming&lt;/em&gt; &lt;strong&gt;5&lt;/strong&gt;(4-5), 533-565, 2005.&lt;/p&gt;
+&lt;p&gt;[VVM03] Birna van Riemsdijk, Wiebe van der Hoek, John-Jules Ch. Meyer: Agent programming in Dribble: from beliefs to goals using plans. &lt;em&gt;Proc. AAMAS 2003&lt;/em&gt;, 393-400, 2003.&lt;/p&gt;
+&lt;p&gt;[VasLev07] Stavros Vassos, Hector J. Levesque: Progression of Situation Calculus Action Theories with Incomplete Information. &lt;em&gt;Proc. IJCAI 2007&lt;/em&gt;, 2029-2024.&lt;/p&gt;
+&lt;p&gt;[WCG01] Brian C. Williams, Seung Chung, Vineet Gupta, Mode Estimation of Model-based Programs, &lt;em&gt;Proc. IJCAI 2001:&lt;/em&gt; 579-590.&lt;/p&gt;
+&lt;p&gt;[WooJen95] Wooldridge M. and Jennings, N.R., Intelligent Agents: Theory and Practice, &lt;em&gt;Knowledge Engineering Review&lt;/em&gt;, &lt;strong&gt;10&lt;/strong&gt; (2), 115-152, 1995&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mirror Page</title>
       <link>https://ssardina.github.io/extras/intagts07/mirror/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
