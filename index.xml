@@ -19,34 +19,22 @@
       <guid>https://ssardina.github.io/extras/resources/latex/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.latex-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX&lt;/a&gt; - LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation. LaTeX is the de facto standard for the communication and publication of scientific documents.&lt;/p&gt;
-&lt;h1 id=&#34;useful-links&#34;&gt;Useful links&lt;/h1&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;Useful links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://project-awesome.org/egeerardyn/awesome-LaTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awesome LaTeX&lt;/a&gt; - This is a curated list of awesome stuff for the (La)TeX typesetting system.&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://project-awesome.org/egeerardyn/awesome-LaTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awesome LaTeX&lt;/a&gt; - This is a curated list of awesome stuff for the (La)TeX typesetting system.&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://medium.com/@rcpassos/-writing-latex-documents-in-visual-studio-code-with-latex-workshop-d9af6a6b2815&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Writing LaTeX Documents In Visual Studio Code With LaTeX Workshop&lt;/a&gt; - Great essay in medium.com&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://medium.com/@rcpassos/-writing-latex-documents-in-visual-studio-code-with-latex-workshop-d9af6a6b2815&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Writing LaTeX Documents In Visual Studio Code With LaTeX Workshop&lt;/a&gt; - Great essay in medium.com&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.tug.org/TUGboat/tb35-2/tb110mertz.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Typesetting figures for Computer Science&lt;/a&gt; - by Andrew Mertz, William Slough and Nancy Van Cleave; practical packages for drawing stacks, byte fields, trees, automata, and more.&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://www.tug.org/TUGboat/tb35-2/tb110mertz.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Typesetting figures for Computer Science&lt;/a&gt; - by Andrew Mertz, William Slough and Nancy Van Cleave; practical packages for drawing stacks, byte fields, trees, automata, and more.&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://blog.typeset.io/the-only-latex-editor-guide-youll-need-in-2018-e63868fae027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What is Latex, why and how?&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://blog.typeset.io/the-only-latex-editor-guide-youll-need-in-2018-e63868fae027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What is Latex, why and how?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://cremeronline.com/LaTeX/minimaltikz.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minimal intro to tikz&lt;/a&gt; - Amazing package for drawing in Latex. Maybe a bit old now but the basic should be more or less unchanged.&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;http://cremeronline.com/LaTeX/minimaltikz.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minimal intro to tikz&lt;/a&gt; - Amazing package for drawing in Latex. Maybe a bit old now but the basic should be more or less unchanged.&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.sharelatex.com/blog/2012/10/16/collaborating-with-latex-and-git.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Collaborating with LaTeX and Git&lt;/a&gt; - A pretty good explanation on how to use git version control to collaborate with Latex.&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://www.sharelatex.com/blog/2012/10/16/collaborating-with-latex-and-git.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Collaborating with LaTeX and Git&lt;/a&gt; - A pretty good explanation on how to use git version control to collaborate with Latex.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;best-practices--etiquette&#34;&gt;Best practices &amp;amp; Etiquette&lt;/h1&gt;
+&lt;h2 id=&#34;best-practices--etiquette&#34;&gt;Best practices &amp;amp; Etiquette&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;As in coding, use comments to structure the code and tell what it does — this will help to keep track of your code even when you take a look at it after some time.&lt;/p&gt;
@@ -150,6 +138,7 @@ more text
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr&gt;
 &lt;p&gt;Note: some of the above were taken from 
 &lt;a href=&#34;https://tex.stackexchange.com/questions/40775/are-there-any-coding-style-guidelines-for-latex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Do you have anything else that could be added here?&lt;/em&gt;&lt;/p&gt;
@@ -479,7 +468,10 @@ a few others I cannot remember, sorry!
       <link>https://ssardina.github.io/extras/resources/phd-tips/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
       <guid>https://ssardina.github.io/extras/resources/phd-tips/</guid>
-      <description>&lt;p&gt;Some useful resources for PhD students:&lt;/p&gt;
+      <description>&lt;p&gt;Besides the information on 
+&lt;a href=&#34;https://ssardina.github.io/extras/resources/latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latex&lt;/a&gt;, many of the 
+&lt;a href=&#34;https://ssardina.github.io/extras/resources/videos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;videos&lt;/a&gt;, and some 
+&lt;a href=&#34;https://ssardina.github.io/extras/resources/links/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;links&lt;/a&gt;, the following can also be useful resources for PhD students:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://youtu.be/C3im5OV3kcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wittgenstein&amp;rsquo;s papers and Faraday&amp;rsquo;s talks: Maxims for a milk-fed researcher&lt;/a&gt; - Subbarao Kambhampati&amp;rsquo;s talk on how to write good papers and give good talks at the doctoral consortium of IJCAI&#39;13.&lt;/li&gt;
