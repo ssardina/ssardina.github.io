@@ -161,7 +161,7 @@ more text
       <link>https://ssardina.github.io/extras/resources/links/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
       <guid>https://ssardina.github.io/extras/resources/links/</guid>
-      <description>&lt;h1 id=&#34;cs--ai-research-academia-etc&#34;&gt;CS &amp;amp; AI, Research, Academia, etc.&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;cs--ai-research-academia-etc&#34;&gt;CS &amp;amp; AI, Research, Academia, etc.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.thefamouspeople.com/computer-scientists.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vote for Your Favourite Computer Scientists&lt;/a&gt;.&lt;/li&gt;
@@ -172,7 +172,7 @@ more text
 &lt;li&gt;
 &lt;a href=&#34;http://plato.stanford.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Standford Encyclopedia of Philosophy&lt;/a&gt;. Learn about anything&amp;hellip; :-)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;students&#34;&gt;Students&lt;/h1&gt;
+&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -191,7 +191,7 @@ more text
 &lt;a href=&#34;https://homes.cs.washington.edu/~mernst/advice/conference-attendance.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attending an academic conference&lt;/a&gt; - Tips on attending conferences and making the best out of them!&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;coding&#34;&gt;Coding&lt;/h1&gt;
+&lt;h2 id=&#34;coding&#34;&gt;Coding&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;http://blog.trinket.io/why-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Why Python is a Great First Language&lt;/a&gt; - From trinket&lt;/li&gt;
@@ -210,7 +210,7 @@ more text
 &lt;li&gt;
 &lt;a href=&#34;http://matt.might.net/articles/by-example-continuation-passing-style/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Continuation-passing style&lt;/a&gt; - A short description of a style of programming for non-blocking (usually distributed) systems.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;it&#34;&gt;IT&lt;/h1&gt;
+&lt;h2 id=&#34;it&#34;&gt;IT&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://choosealicense.com/licenses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Various Opensource Software Licenses&lt;/a&gt; - Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software.&lt;/li&gt;
