@@ -233,27 +233,6 @@ more text
     </item>
     
     <item>
-      <title>Links</title>
-      <link>https://ssardina.github.io/extras/resources/phd-tips/</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
-      <guid>https://ssardina.github.io/extras/resources/phd-tips/</guid>
-      <description>&lt;p&gt;Some useful resources for PhD students:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://youtu.be/C3im5OV3kcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wittgenstein&amp;rsquo;s papers and Faraday&amp;rsquo;s talks: Maxims for a milk-fed researcher&lt;/a&gt; - Subbarao Kambhampati&amp;rsquo;s talk on how to write good papers and give good talks at the doctoral consortium of IJCAI&#39;13.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.businessinsider.com.au/the-illustrated-guide-to-a-phd-2012-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Illustrated Guide To A PhD&lt;/a&gt; - Excellent and quick explanation of what PhD is.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://youtu.be/VK51E3gHENc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Write Research Articles in Computing and Engineering Disciplines&lt;/a&gt; - By Ivan Stojmenovic&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://homes.cs.washington.edu/~mernst/advice/conference-attendance.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attending an academic conference&lt;/a&gt; - Tips on attending conferences and making the best out of them!&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://phdcomics.com/comics/archive_list.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhD Comics&lt;/a&gt; - Mandatory resource for any PhD student.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Linux @ RMIT</title>
       <link>https://ssardina.github.io/extras/resources/linux-rmit/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
@@ -492,6 +471,27 @@ other anonymous contributors
 a few others I cannot remember, sorry!
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;END - If you have useful information on using Linux @ RMIT please forward it to me and I can add it here for others. :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Resources</title>
+      <link>https://ssardina.github.io/extras/resources/phd-tips/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/resources/phd-tips/</guid>
+      <description>&lt;p&gt;Some useful resources for PhD students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/C3im5OV3kcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wittgenstein&amp;rsquo;s papers and Faraday&amp;rsquo;s talks: Maxims for a milk-fed researcher&lt;/a&gt; - Subbarao Kambhampati&amp;rsquo;s talk on how to write good papers and give good talks at the doctoral consortium of IJCAI&#39;13.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.businessinsider.com.au/the-illustrated-guide-to-a-phd-2012-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Illustrated Guide To A PhD&lt;/a&gt; - Excellent and quick explanation of what PhD is.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/VK51E3gHENc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Write Research Articles in Computing and Engineering Disciplines&lt;/a&gt; - By Ivan Stojmenovic&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://homes.cs.washington.edu/~mernst/advice/conference-attendance.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attending an academic conference&lt;/a&gt; - Tips on attending conferences and making the best out of them!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://phdcomics.com/comics/archive_list.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhD Comics&lt;/a&gt; - Mandatory resource for any PhD student.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
