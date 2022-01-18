@@ -17,7 +17,7 @@
       <link>https://ssardina.github.io/courses/example/videos/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
       <guid>https://ssardina.github.io/courses/example/videos/</guid>
-      <description>&lt;h1 id=&#34;general-cs--ai&#34;&gt;General CS &amp;amp; AI&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;general-cs--ai&#34;&gt;General CS &amp;amp; AI&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -32,7 +32,7 @@
 &lt;a href=&#34;https://youtu.be/Unzc731iCUY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to give a talk/lecture&lt;/a&gt; - Prof. Patrick Wiston&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;ai&#34;&gt;AI&lt;/h1&gt;
+&lt;h2 id=&#34;ai&#34;&gt;AI&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -59,7 +59,7 @@
       <link>https://ssardina.github.io/courses/example/phd-supervision/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://ssardina.github.io/courses/example/phd-supervision/</guid>
-      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Are you interested in applying for a PhD with our school?&lt;/em&gt; If so, you must then read this!&lt;/p&gt;
 &lt;p&gt;Most of the requests I receive about PhD supervision/application are &lt;strong&gt;spam&lt;/strong&gt; or &lt;strong&gt;mass non-targeted requests&lt;/strong&gt; (i.e., messages sent to many academics). I will only respond to you if I believe they are &lt;em&gt;genuine and informed requests&lt;/em&gt;. For that you should show that you &lt;strong&gt;know my research interests/expertise&lt;/strong&gt; and that &lt;strong&gt;you have similar interests&lt;/strong&gt;; otherwise you may &lt;strong&gt;never receive a reply&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Unfortunately, I &lt;strong&gt;do not generally have funding for students&lt;/strong&gt;. When I have funding, I advertise them explicitly. There are some scholarship available at RMIT University (see point 7 below), but note these are &lt;strong&gt;extremely competitive for international applicants&lt;/strong&gt;.&lt;/p&gt;
@@ -67,7 +67,7 @@
 &lt;p&gt;If you have any questions about PhD application (including funding), you can contact me or HDR Coordinators 
 &lt;a href=&#34;https://jeffreychan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A/Prof. Jeffrey Chan&lt;/a&gt; or 
 &lt;a href=&#34;http://www.xiuzhenzhang.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Xiuzhen (Jenny) Zhang&lt;/a&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;application-process&#34;&gt;Application Process&lt;/h1&gt;
+&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
 &lt;p&gt;There are basically &lt;strong&gt;four steps&lt;/strong&gt; to apply to PhD program:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Check for &lt;strong&gt;eligibility&lt;/strong&gt;: can you do a doctorate program?&lt;/li&gt;
@@ -87,7 +87,7 @@
 &lt;p&gt;The list of projects are here: 
 &lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/find-a-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rmit.edu.au/research/research-degrees/find-a-project&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Note these are some ideas of projects. As long as you find an area, topic, or problem that you are interested in, have the background needed to carry work there (e.g., math background), and is compatible with the potential supervisor, it is OK.  The projects can be adapted, changed, or even added to the list!&lt;/p&gt;
-&lt;h2 id=&#34;expression-of-interest&#34;&gt;Expression of Interest&lt;/h2&gt;
+&lt;h3 id=&#34;expression-of-interest&#34;&gt;Expression of Interest&lt;/h3&gt;
 &lt;p&gt;So, if you are &lt;strong&gt;interested in my supervision&lt;/strong&gt;, you must do the following to produce an EOI and eventually the full application (step 4 above):&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -129,7 +129,7 @@
 &lt;/ol&gt;
 &lt;p&gt;Once you have the above (potential supervisor and a research proposal), you can then start your application via the 
 &lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/how-to-apply&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMIT submission process&lt;/a&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;funding&#34;&gt;Funding&lt;/h1&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
 &lt;p&gt;Acceptance to the PhD program does not directly mean you will be supported financially, both for tuition fees and living expenses during your program.&lt;/p&gt;
 &lt;p&gt;You can search the RMIT site to find the webpages for these scholarships:&lt;/p&gt;
 &lt;p&gt;For &lt;strong&gt;international students&lt;/strong&gt;:&lt;/p&gt;
