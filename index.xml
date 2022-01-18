@@ -494,6 +494,32 @@ more text
     </item>
     
     <item>
+      <title>Lecture 4 - High-Level Programming in the Situation Calculus - Golog and ConGolog</title>
+      <link>https://ssardina.github.io/extras/intagts07/lecture04/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/lecture04/</guid>
+      <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 15, 2007 - Hour 7 and 8&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: High-Level Programming in the Situation Calculus: Golog and ConGolog&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Yves Lespérance.&lt;/p&gt;
+&lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
+&lt;p&gt;Please find them 
+&lt;a href=&#34;slides/lecture4.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
+&lt;p&gt;Just read the lecture transparencies ahead of time.&lt;/p&gt;
+&lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ConGologAIJ.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Giacomo, G., Lespérance, Y., and Levesque, H.J.. ConGolog, a concurrent programming language based on the situation calculus. &lt;em&gt;Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;121&lt;/strong&gt;, 109-169, 2000.&lt;/a&gt; (Sections 7 and 8, the appendix, and proofs can be skipped.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Reiter, R., &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems,&lt;/em&gt; MIT Press, 2001. 
+&lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262182181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher,&lt;/a&gt; 
+&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/kia/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book home page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Links</title>
       <link>https://ssardina.github.io/extras/resources/links/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
