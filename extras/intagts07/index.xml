@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WESAAC&#39;16 Material | Prof. Sebastian Sardina</title>
+    <link>https://ssardina.github.io/extras/intagts07/</link>
+      <atom:link href="https://ssardina.github.io/extras/intagts07/index.xml" rel="self" type="application/rss+xml" />
+    <description>WESAAC&#39;16 Material</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>WESAAC&#39;16 Material</title>
+      <link>https://ssardina.github.io/extras/intagts07/</link>
+    </image>
+    
+    <item>
+      <title>Lecture 1 - Introduction to Autonomous Agents and Multiagent Systems</title>
+      <link>https://ssardina.github.io/extras/intagts07/lecture01/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/lecture01/</guid>
+      <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 6, 2007 - Hour 1 and 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Introduction to Autonomous Agents and Multiagent Systems&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Yves Lespérance.&lt;/p&gt;
+&lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
+&lt;p&gt;Please find them 
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/Roma07PhDcourse/slides/lecture1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wooldridge M., 
+&lt;a href=&#34;http://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas//IMAS2e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Multiagent Systems&lt;/a&gt;, Chapter 1 to end of Section 1.2 and Chapter 2 to end of Section 2.5.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bratman, M.E., Israel, D.J., and Pollack, M.E. 
+&lt;a href=&#34;http://citeseer.ist.psu.edu/rd/43480128%2C42160%2C1%2C0.25%2CDownload/http://coblitz.codeen.org:3125/citeseer.ist.psu.edu/cache/papers/cs/1262/http:zSzzSzwww.ai.sri.comzSzpubszSzpaperszSzBrat88-349:PlanszSzdocument.pdf/bratman88plans.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plans and Resource-Bounded Practical Reasoning&lt;/a&gt;. Computational Intelligence , 4, 349-355, 1988.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Borzenko, O., Xu, W., Obsniuk, M., Chopra, A., Jasiobedzki, P., Jenkin, M., and Lespérance, Y.. 
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ICVS06.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lights and Camera: Intelligently Controlled Multi-channel Pose Estimation System&lt;/a&gt;. In Proc. of the IEEE International Conference on Vision Systems (ICVS&#39;06), paper 42 (8 pages), New York, NY, January, 2006.&lt;/li&gt;
+&lt;li&gt;Cohen, P.R. and Levesque, H.J. 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/0004370290900555&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intention is Choice with Commitment&lt;/a&gt;, Artificial Intelligence, 42 (2-3), 213-261, 1990.&lt;/li&gt;
+&lt;li&gt;G. De Giacomo and H.J. Levesque. 
+&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/Papers/DeLe99ray.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Incremental Interpreter for High-Level Programs with Sensing&lt;/a&gt;. In Logical Foundation for Cognitive Agents: Contributions in Honor of Ray Reiter, Hector J. Levesque and Fiora Pirri, editors, pages 86-102, Springer 1999.&lt;/li&gt;
+&lt;li&gt;Dennett, D. 
+&lt;a href=&#34;https://mitpress.mit.edu/books/intentional-stance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Intentional Stance&lt;/a&gt;, MIT Press, Cambridge, MA, USA, 1987.&lt;/li&gt;
+&lt;li&gt;Lapouchnian, A. and Lespérance, Y.. Interfacing IndiGolog and OAA - A Toolkit for Advanced Multiagent Applications. Applied Artificial Intelligence 16(9-10), 813-829, 2002.&lt;/li&gt;
+&lt;li&gt;Lespérance, Y. and Ng, H.-K. 
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/Cogrobo00.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Integrating Planning into Reactive High-Level Robot Programs&lt;/a&gt;. In Proceedings of the Second International Cognitive Robotics Workshop, 49-54, Berlin, Germany, August, 2000.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2 - Overview of Techniques and Tools for Developing Multiagent Systems</title>
+      <link>https://ssardina.github.io/extras/intagts07/lecture02/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/lecture02/</guid>
+      <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 6, 2007 - Hour 1 and 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Introduction to Autonomous Agents and Multiagent Systems&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Yves Lespérance.&lt;/p&gt;
+&lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
+&lt;p&gt;Please find them 
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/Roma07PhDcourse/slides/lecture1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wooldridge M., 
+&lt;a href=&#34;http://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas//IMAS2e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Multiagent Systems&lt;/a&gt;, Chapter 1 to end of Section 1.2 and Chapter 2 to end of Section 2.5.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bratman, M.E., Israel, D.J., and Pollack, M.E. 
+&lt;a href=&#34;http://citeseer.ist.psu.edu/rd/43480128%2C42160%2C1%2C0.25%2CDownload/http://coblitz.codeen.org:3125/citeseer.ist.psu.edu/cache/papers/cs/1262/http:zSzzSzwww.ai.sri.comzSzpubszSzpaperszSzBrat88-349:PlanszSzdocument.pdf/bratman88plans.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plans and Resource-Bounded Practical Reasoning&lt;/a&gt;. Computational Intelligence , 4, 349-355, 1988.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Borzenko, O., Xu, W., Obsniuk, M., Chopra, A., Jasiobedzki, P., Jenkin, M., and Lespérance, Y.. 
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ICVS06.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lights and Camera: Intelligently Controlled Multi-channel Pose Estimation System&lt;/a&gt;. In Proc. of the IEEE International Conference on Vision Systems (ICVS&#39;06), paper 42 (8 pages), New York, NY, January, 2006.&lt;/li&gt;
+&lt;li&gt;Cohen, P.R. and Levesque, H.J. 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/0004370290900555&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intention is Choice with Commitment&lt;/a&gt;, Artificial Intelligence, 42 (2-3), 213-261, 1990.&lt;/li&gt;
+&lt;li&gt;G. De Giacomo and H.J. Levesque. 
+&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/Papers/DeLe99ray.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Incremental Interpreter for High-Level Programs with Sensing&lt;/a&gt;. In Logical Foundation for Cognitive Agents: Contributions in Honor of Ray Reiter, Hector J. Levesque and Fiora Pirri, editors, pages 86-102, Springer 1999.&lt;/li&gt;
+&lt;li&gt;Dennett, D. 
+&lt;a href=&#34;https://mitpress.mit.edu/books/intentional-stance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Intentional Stance&lt;/a&gt;, MIT Press, Cambridge, MA, USA, 1987.&lt;/li&gt;
+&lt;li&gt;Lapouchnian, A. and Lespérance, Y.. Interfacing IndiGolog and OAA - A Toolkit for Advanced Multiagent Applications. Applied Artificial Intelligence 16(9-10), 813-829, 2002.&lt;/li&gt;
+&lt;li&gt;Lespérance, Y. and Ng, H.-K. 
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/Cogrobo00.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Integrating Planning into Reactive High-Level Robot Programs&lt;/a&gt;. In Proceedings of the Second International Cognitive Robotics Workshop, 49-54, Berlin, Germany, August, 2000.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
