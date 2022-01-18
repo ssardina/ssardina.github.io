@@ -13,44 +13,472 @@
     </image>
     
     <item>
-      <title>CS &amp; AI Videos</title>
+      <title>Latex Info</title>
+      <link>https://ssardina.github.io/extras/resources/latex/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/resources/latex/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.latex-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX&lt;/a&gt; - LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation. LaTeX is the de facto standard for the communication and publication of scientific documents.&lt;/p&gt;
+&lt;h1 id=&#34;useful-links&#34;&gt;Useful links&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://project-awesome.org/egeerardyn/awesome-LaTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awesome LaTeX&lt;/a&gt; - This is a curated list of awesome stuff for the (La)TeX typesetting system.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/@rcpassos/-writing-latex-documents-in-visual-studio-code-with-latex-workshop-d9af6a6b2815&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Writing LaTeX Documents In Visual Studio Code With LaTeX Workshop&lt;/a&gt; - Great essay in medium.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.tug.org/TUGboat/tb35-2/tb110mertz.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Typesetting figures for Computer Science&lt;/a&gt; - by Andrew Mertz, William Slough and Nancy Van Cleave; practical packages for drawing stacks, byte fields, trees, automata, and more.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://blog.typeset.io/the-only-latex-editor-guide-youll-need-in-2018-e63868fae027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What is Latex, why and how?&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://cremeronline.com/LaTeX/minimaltikz.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minimal intro to tikz&lt;/a&gt; - Amazing package for drawing in Latex. Maybe a bit old now but the basic should be more or less unchanged.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.sharelatex.com/blog/2012/10/16/collaborating-with-latex-and-git.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Collaborating with LaTeX and Git&lt;/a&gt; - A pretty good explanation on how to use git version control to collaborate with Latex.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;best-practices--etiquette&#34;&gt;Best practices &amp;amp; Etiquette&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;As in coding, use comments to structure the code and tell what it does — this will help to keep track of your code even when you take a look at it after some time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do not use &lt;code&gt;\\&lt;/code&gt; to break lines, just use enter and leave a line blank. &lt;code&gt;\\&lt;/code&gt; does not do paragraph break and it is cumbersome to see it all over the place.  &lt;code&gt;\\&lt;/code&gt; is used only for certain cases and environments, only then. You say more? Check [here(]https://tex.stackexchange.com/questions/82664/when-to-use-par-and-when-or-blank-lines)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do not do text formatting inside &lt;code&gt;$...$&lt;/code&gt; math mode. Things like &lt;code&gt;$n=1,\ 1=1^2$&lt;/code&gt; should be written &lt;code&gt;$n=1$, $1=1^2$&lt;/code&gt;. Among other things, the comma there should be in normal text, not within math mode. One should avoid any formatting inside math, math is a very special environment. You say more? Check 
+&lt;a href=&#34;https://tex.stackexchange.com/questions/37168/when-to-use-math-mode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Itemizations/enumerations always carry punctuation, either full stop if they are full sentences or semicolon if they are all part of the &amp;ldquo;same long sentence&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you are using something systematically, over and over, then set that up in a &lt;em&gt;general&lt;/em&gt; way, not by just repeating it over and over. Same as in coding. For example, say you want to change the style of enumeration, so then you do:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\begin{enumerate}[label=\roman*)]
+.....
+\end{enumerate}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you are going to use that style all over, then do this in the preamble:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\renewcommand{\theenumi}{\roman{enumi})}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\setenumerate[0]{label=(\roman*))}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Similarly, if you are going to use something in many places, &lt;strong&gt;define a macro&lt;/strong&gt;. For example, suppose your system being reported in your paper is called &lt;code&gt;PINCH&lt;/code&gt;. Then, do not write &lt;code&gt;PINCH&lt;/code&gt; everywhere, but define a macro &lt;code&gt;\pinch&lt;/code&gt; for it: &lt;code&gt;newcommand{\pinch}{PINCH}&lt;/code&gt;. If you ever change the name of your system or want the name to appear in another format, you just change the macro! Similarly, if you will use \textsc{Jon Doe} in many places, define a macro &lt;code&gt;newcommand{\JonDoe}{\textsc{Jon Doe}}&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use more new lines to structure code than less, i.e. prefer:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\newcommand{\mycmd}[1]{%
+\par\addvspace{\baselineskip}%
+\noindent
+My Text:~%
+\parbox[t]{0.6\textwdith}{%
+    \textbf{#1}
+}%
+\par\vspace{\baselineskip}%
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;against&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\newcommand{\mycmd}[1]{%
+\par\addvspace{\baselineskip}\noindent
+My Text:~\parbox[t]{0.6\textwdith}{\textbf{#1}}%
+\par\vspace{\baselineskip}%
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Define options one per line:.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\documentclass[
+ngerman,
+fontsize=12pt,
+draft
+]{scrartcl}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Indent environment contents&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\begin{xyz}
+content
+\end{xyz}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Set equations, floats and any other environments with commented blank lines&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;Some text of a paragraph
+%
+\begin{figure}
+\centering
+FIGURE
+\caption{Nice figure}
+\end{figure}
+%
+more text of tis paragraph
+%
+\[ y = x^2 \]
+%
+last text.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use blank lines to set off headlines from regular text, e.g.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\chapter{My Chapter}
+
+Text
+
+
+\section{My section}
+
+Text
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Set &lt;code&gt;\footnotes&lt;/code&gt; on their own line and indent them – don’t forget to comment the end of the preceding line to suppress the space.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;Text with a footnote%
+\footnote{Text}
+more text
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: some of the above were taken from 
+&lt;a href=&#34;https://tex.stackexchange.com/questions/40775/are-there-any-coding-style-guidelines-for-latex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Do you have anything else that could be added here?&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
       <link>https://ssardina.github.io/extras/resources/links/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
       <guid>https://ssardina.github.io/extras/resources/links/</guid>
-      <description>&lt;h2 id=&#34;general-cs--ai&#34;&gt;General CS &amp;amp; AI&lt;/h2&gt;
+      <description>&lt;h1 id=&#34;cs--ai-research-academia-etc&#34;&gt;CS &amp;amp; AI, Research, Academia, etc.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.thefamouspeople.com/computer-scientists.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vote for Your Favourite Computer Scientists&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://cacm.acm.org/blogs/blog-cacm/181996-the-nips-experiment/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The NIPS Experiment&lt;/a&gt; - An interesting and revealing experiment on conference reviewing.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.aispace.org/index.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Space&lt;/a&gt; - Lots of resources and information about AI&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://plato.stanford.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Standford Encyclopedia of Philosophy&lt;/a&gt;. Learn about anything&amp;hellip; :-)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;students&#34;&gt;Students&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://youtu.be/bzaMyYqJ030]&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The importance of an all rounded CS education for AI students&lt;/a&gt; - Prof. Adnan Darwich&lt;/p&gt;
+&lt;a href=&#34;https://youtu.be/C3im5OV3kcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wittgenstein&amp;rsquo;s papers and Faraday&amp;rsquo;s talks: Maxims for a milk-fed researcher&lt;/a&gt; - Subbarao Kambhampati&amp;rsquo;s talk on how to write good papers and give good talks at the doctoral consortium of IJCAI&#39;13.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://youtu.be/MCjuaQAZG44&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More ethics is &amp;ldquo;the&amp;rdquo; solution? Really?&lt;/a&gt; - Prof. Moshe Vardi&lt;/p&gt;
+&lt;a href=&#34;http://www.businessinsider.com.au/the-illustrated-guide-to-a-phd-2012-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Illustrated Guide To A PhD&lt;/a&gt; - Excellent and quick explanation of what PhD is.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://youtu.be/Unzc731iCUY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to give a talk/lecture&lt;/a&gt; - Prof. Patrick Wiston&lt;/p&gt;
+&lt;a href=&#34;https://youtu.be/VK51E3gHENc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Write Research Articles in Computing and Engineering Disciplines&lt;/a&gt; - By Ivan Stojmenovic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://homes.cs.washington.edu/~mernst/advice/conference-attendance.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attending an academic conference&lt;/a&gt; - Tips on attending conferences and making the best out of them!&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;ai&#34;&gt;AI&lt;/h2&gt;
+&lt;h1 id=&#34;coding&#34;&gt;Coding&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.youtube.com/watch?v=p9cpU_MRrEA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From the Turing test and the summation room to the Winograd challenge&lt;/a&gt; - Prof Hector Levesque&lt;/p&gt;
+&lt;a href=&#34;http://blog.trinket.io/why-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Why Python is a Great First Language&lt;/a&gt; - From trinket&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?time_continue=5989&amp;amp;v=5aP9Bl9hcqI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS50 2016 - Week 8 - Python&lt;/a&gt; - Great lecture on Python!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Mistakes I Made As a Beginner Programmer&lt;/a&gt; - Very well-written and some useful advice too!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2EaopRDxNrw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What programming language I should learn? (VIDEO)&lt;/a&gt; - Great, fun, and informative video on various programming languages and &amp;ldquo;which one&amp;rdquo; to learn.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.informit.com/promotions/promotion.aspx?promo=138930&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Best Programming Advice I Ever Got&lt;/a&gt; - I particularly liked Rob Pike and Obie Fernandez&amp;rsquo;s ones! Think before touching your code and running the debugger!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hyperpolyglot.org/scripting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interpreted Languages: Perl, PHP, Python, Ruby (Sheet One)&lt;/a&gt; - Very nice side-by-side reference sheet&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://matt.might.net/articles/higher-order-list-operations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Higher-order list operations in Racket and Haskell&lt;/a&gt; - Nice blog on higher-order list operations in functional programming.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://matt.might.net/articles/by-example-continuation-passing-style/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Continuation-passing style&lt;/a&gt; - A short description of a style of programming for non-blocking (usually distributed) systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;it&#34;&gt;IT&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://choosealicense.com/licenses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Various Opensource Software Licenses&lt;/a&gt; - Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://stackoverflow.com/questions/4475319/how-to-rebrand-copyright-a-forked-project-gnu-gpl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to rebrand/copyright a forked project (GNU/GPL)?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://software-carpentry.org/lessons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Software carpentry Lessons&lt;/a&gt; - An intensive introduction to basic software development practices for scientists and engineers.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.pluralsight.com/blog/security-professional/modern-password-guidelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Best practices for passwords&lt;/a&gt; - By Richard Harpur&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;git-version-control&#34;&gt;GIT Version Control&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.webfx.com/blog/web-design/git-tutorials-beginners/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Top 10 Git Tutorials for Beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gist.github.com/hofmannsven/6814451&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Cheatsheet&lt;/a&gt; - A nice cheatsheet for git&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sharelatex.com/blog/2012/10/16/collaborating-with-latex-and-git.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Collaborating with LaTeX and Git&lt;/a&gt; - A pretty good explanation on how to use git version control to collaborate with Latex.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.atlassian.com/git/tutorials/merging-vs-rebasing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git: Merge vs Rebase&lt;/a&gt; - Great explanation from 
+&lt;a href=&#34;http://www.atlassian.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.atlassian.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git merge strategies&lt;/a&gt; - Pull Request Merge Strategies: The Great Debate&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nvie.com/posts/a-successful-git-branching-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A successful Git branching model&lt;/a&gt; - Great article on using git seriously!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linux @ RMIT</title>
+      <link>https://ssardina.github.io/extras/resources/linux-rmit/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/resources/linux-rmit/</guid>
+      <description>&lt;p&gt;If you are on Linux at RMIT you may not have much information or support available, so I will try to help a bit and collect here some useful tips, solutions, and processes for running Linux within the RMIT network effectively.&lt;/p&gt;
+&lt;p&gt;If you have solutions to problems that other Linux users may encounter, please forward them to me and I will add them to this page. You can also leave comments at the bottom of this page if you think it can be useful for other readers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note 1:&lt;/strong&gt; some of the sections have become out-dated or not relevant anymore, in big part I believe thanks to RMIT/ITS providing much better and reasonable infrastructure (e.g., allowing ssh to the outside), which is fantastic and welcome!. If you spot an updated or not relevant part, let me know and I will mark 
+it as such.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note 2:&lt;/strong&gt; in July 2021, I migrated the page to a GitHub Gist; and in Jan 2022 to my home page. I have then deleted most of the irrelevant sections that were in the original document](/linux-rmit.git/linux-rmit-old.pdf).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;#linux--rmit&#34;&gt;Linux @ RMIT&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;#printing-at-rmit&#34;&gt;Printing at RMIT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#mounting-your-goannayallara-account-locally&#34;&gt;Mounting your goanna/yallara account locally&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#mydesktop-running-rmit-windows-remotely-from-your-linux-box&#34;&gt;myDesktop: Running RMIT Windows remotely from your Linux Box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#ssh-to-an-outside-machine-via-tunneling&#34;&gt;SSH to an outside machine via tunneling&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;#the-automatic-way---tunneling-via-rmit-http-proxy&#34;&gt;THE AUTOMATIC WAY - TUNNELING VIA RMIT HTTP PROXY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#the-manual-way---tunneling-via-goanna&#34;&gt;THE MANUAL WAY - TUNNELING VIA GOANNA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://youtu.be/ps0NSRFEAE4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Making Room for Machines: Getting Ready for AGI&lt;/a&gt; - Panel discussion on General AI&lt;/p&gt;
+&lt;a href=&#34;#ssh-into-an-rmit-machine-from-outside&#34;&gt;SSH into an RMIT machine from outside&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#accessing-rmit-resources-eg-articles-from-subscribers-etc-from-outside&#34;&gt;Accessing RMIT resources (e.g., articles from subscribers, etc.) from outside&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#mounting-rmit-home-drive&#34;&gt;Mounting RMIT home drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://youtu.be/g3lc8BxTPiU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model-free, Model-based, and General Intelligence&lt;/a&gt; - IJCAI&#39;18 - Prof. Hector Geffner&lt;/p&gt;
+&lt;a href=&#34;#contributors&#34;&gt;Contributors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;printing-at-rmit&#34;&gt;Printing at RMIT&lt;/h2&gt;
+&lt;p&gt;Note (April 2018): Printing now exposes a &lt;code&gt;bonjour/airprint&lt;/code&gt; interface called &lt;code&gt;rmit-global&lt;/code&gt; located on the server &lt;code&gt;pcutprdap02&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;It only seems to work for E number users (not student accounts), but doesn’t require any PaperCut client to be installed as it does the authentication with its own interface. Works without any further configuration on OSX.&lt;/p&gt;
+&lt;p&gt;This is how to print in the new Think Print system (
+&lt;a href=&#34;http://www.rmit.edu.au/its/thinkprintl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.rmit.edu.au/its/thinkprintl&lt;/a&gt; ; you won&amp;rsquo;t find any instructions to Linux systems, Linux is not even mentioned!).&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Get the 
+&lt;a href=&#34;https://www.papercut.com/kb/Main/RunningOnLinux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PaperCut client&lt;/a&gt;. The system uses PaperCut print management software. You then need to run the client in your Linux box. You can download the server+client from PaperCut web site itself, and extract from there the client part. You would need to do some configuration there too though ;-) Or you can just download our zip file package here, which is already configured for RMIT network.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Run the PaperCut client.&lt;/strong&gt; The system uses a &amp;ldquo;popup&amp;rdquo; authentication to match the username with the IP address from where the job originated. Therefore, the PaperCut client needs to be running in the background.  So, just run the pc-client-linux.sh script to start it and use your RMIT username/password.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You may want to replace the script pc-client.linux.sh that comes with it with an improved one that works as symbolic link and also runs in the background so that it doesn&amp;rsquo;t block. Get it at the bottom of this page or clik here and overwrite the default script.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Install LPD Printer.&lt;/strong&gt; Next you need to install a printer queue in your Linux system:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Printer Type: LPD
+Host: `winsprdps01r001.rmit.internal`
+Queue: `Ricoh-Global-Client`
+Driver: Ricoh Aficio MP C3002 PS
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;After the setup, just send a print job and the PaperCut client should &amp;ldquo;popup&amp;rdquo; for username+password. Hopefully, you should get the printout from the nearest printer (after a swipe and few clicks!).&lt;/p&gt;
+&lt;p&gt;Finally, there is a web page to check print history and other bits of info at 
+&lt;a href=&#34;http://pcutprdap01.rmit.internal:9191/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://pcutprdap01.rmit.internal:9191/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Good luck!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Acknowledgement:&lt;/em&gt; the non-trivial research to find all this and make it work is due to PhD student Nitin Yadav, big thanks to him for all of us Linux users!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Comment for Fedora 18, x64:&lt;/strong&gt; I had a few issues when upgrading to Fedora 18, x64 and thought this might be useful to others - It seems the printer queue string is completely ignored in the new GUI. I&amp;rsquo;ve just got it working, manually entering &amp;ldquo;lpd://winsprdps01r001.rmit.internal/Ricoh-Global-Client&amp;rdquo; in the cups config page (http://localhost:631). I&amp;rsquo;m not sure if it&amp;rsquo;s important but I&amp;rsquo;m using the &amp;ldquo;Ricoh Aficio MP C3002 PS&amp;rdquo; driver which came with the F18 distribution and I added myself to the &amp;ldquo;lp&amp;rdquo; group.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comment Kubuntu:&lt;/strong&gt; In order to set-up the printer on Kubuntu (KDE), it is necessary to use &amp;ldquo;system-config-printer&amp;rdquo; in terminal instead of using the GUI (it seems that kcmshell4 ignores the queue in the configuration). The drivers are already available and accessible via system-config-printer and there is no need to include PPD file manually.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mounting-your-goannayallara-account-locally&#34;&gt;Mounting your goanna/yallara account locally&lt;/h2&gt;
+&lt;p&gt;Note: goanna/yallara has been decommissioned as far as I know&amp;hellip; But this would work for other unix-based systems.&lt;/p&gt;
+&lt;p&gt;It is possible and easy to mount directories in &lt;code&gt;goanna.cs&lt;/code&gt; in your Linux box as a user, including your home directory. This will allow you to work on files stored in &lt;code&gt;goanna&lt;/code&gt; as if they were part of your desktop file system. To do that, we can use the FUSE library which mounts file systems in the user space via ssh. This avoids then the complicate use of Samba or NFS shares (which RMIT does not provide anyways!).&lt;/p&gt;
+&lt;p&gt;So, suppose I (user ssardina) want to mount my home directory at &lt;code&gt;goanna.cs&lt;/code&gt; in a local directory called &lt;code&gt;~/goanna-home&lt;/code&gt;. It is as simple as executing the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ sshfs -o uid=`id -u`,gid=`id -g`,workaround=rename,reconnect,follow_symlinks     
+                                  ssardina@goanna.cs.rmit.edu.au:/home/s/ssardina ~/goanna-home
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now, in &lt;code&gt;~/goanna-home&lt;/code&gt; I basically have access to my home directory in &lt;code&gt;goanna.cs&lt;/code&gt; ! So simple&amp;hellip; Observe the permissions you will have on all files and directories there are the very same you would have if you log in into &lt;code&gt;goanna.cs&lt;/code&gt; via ssh interactively (despite the fact that in your filesystem it will appear as if owned everything).&lt;/p&gt;
+&lt;p&gt;Finally, to unmount the directory we can just run:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ fusermount -u ~/goanna-home
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Of course, one can also mount in the same way the directory &lt;code&gt;/research&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Finally, if I do not want to issue the above large sshfs statement every time I want to mount the filesystem, I can add the following line to &lt;code&gt;/etc/fstab&lt;/code&gt; to mount the remote filesystem into local directory &lt;code&gt;/mnt/goanna-ssardina/ssardina&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;sshfs#ssardina@goanna.cs.rmit.edu.au:/home/s/ssardina /mnt/goanna-ssardina/ssardina fuse workaround=rename,user,reconnect,uid=1000,gid=500,follow_symlinks,fsname=sshfs#ssardina@goanna.cs.rmit.edu.au:/home/s/ssardina 0 0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You need to replace the username, &lt;code&gt;uid&lt;/code&gt; and &lt;code&gt;gid&lt;/code&gt; numbers, and mounting location. Then, to mount the filesystem we can just run:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ mount /mnt/goanna-ssardina/ssardina 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Obs: to avoid &lt;code&gt;sshfs&lt;/code&gt; asking for password authentication every time you issue the mounting command, it is best to set up your ssh configuration (in &lt;code&gt;goanna.cs&lt;/code&gt;) so that no password will be required. This involves basically adding the RSA key of your local system into the file &lt;code&gt;~/.ssh/authorized_keys2&lt;/code&gt; at &lt;code&gt;goanna.cs&lt;/code&gt;. [just google &amp;ldquo;no password ssh&amp;rdquo; and will be get lots of pages explaining this].&lt;/p&gt;
+&lt;h2 id=&#34;mydesktop-running-rmit-windows-remotely-from-your-linux-box&#34;&gt;myDesktop: Running RMIT Windows remotely from your Linux Box&lt;/h2&gt;
+&lt;p&gt;You can still run full RMIT Coorporate Windows from your Linux box. To do that you just need to install the Citrix Client. THis worked form me on Linux Mint 18 (Using Ubuntu 16.04) on Feb 2017:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Get the &lt;code&gt;icaclientWeb_13.10.0.20_amd64.deb&lt;/code&gt; package from 
+&lt;a href=&#34;https://www.citrix.com/downloads/citrix-receiver/linux/receiver-for-linux-latest.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Citrix&lt;/a&gt; (version as of March 2021)&lt;/li&gt;
+&lt;li&gt;Install the package: &lt;code&gt;sudo dpkg -i icaclientWeb_13.10.0.20_amd64.deb&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Add more SSL certificates and Chrome pluging by following steps 5 &amp;amp; 9 in 
+&lt;a href=&#34;https://help.ubuntu.com/community/CitrixICAClientHowTo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CitrixICAClientHowTo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Start the Windows system by visiting and logging in into 
+&lt;a href=&#34;http://mydesktop.rmit.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mydesktop.rmit.edu.au&lt;/a&gt; via Chrome&lt;/li&gt;
+&lt;li&gt;Select an application, like Chrome or Firefox or X. It will download an &lt;code&gt;.ica&lt;/code&gt; file.
+&lt;ul&gt;
+&lt;li&gt;for example, my file was named &lt;code&gt;RGVsaXZlcnlDb250cm9sbGVycy5Hb29nbGUgQ2hyb21l.ica&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Either tell the browser to open with the Citrix Receiver Client or download the &lt;code&gt;.ica&lt;/code&gt; file and click on it and the application (e.g., Chrome) should start!
+&lt;ul&gt;
+&lt;li&gt;in Chrome, it seems one has to download the &lt;code&gt;.ica&lt;/code&gt; file and then click on it; in Firefox you can instruct Firefox to open the file with the Citrix Receiver Client.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;ssh-to-an-outside-machine-via-tunneling&#34;&gt;SSH to an outside machine via tunneling&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;NOT RELEVANT ANYMORE (Oct 2017)&lt;/strong&gt; - One can ssh outside without any problem (good!)&lt;/p&gt;
+&lt;p&gt;Suppose you want to ssh from your office Linux desktop to server &lt;code&gt;cs.outofrmit.edu&lt;/code&gt; which is outside RMIT network. Initially, you cannot: you will have to login to &lt;code&gt;goanna.cs&lt;/code&gt; and ssh from there to &lt;code&gt;cs.outofrmit.edu&lt;/code&gt;. We can solve this by creating a permanent &amp;ldquo;tunnel&amp;rdquo; to X via either RMIT http proxy or &lt;code&gt;goanna.cs&lt;/code&gt;. For that there is a clean automatic way and a more &amp;ldquo;manual&amp;rdquo; one:&lt;/p&gt;
+&lt;h3 id=&#34;the-automatic-way---tunneling-via-rmit-http-proxy&#34;&gt;THE AUTOMATIC WAY - TUNNELING VIA RMIT HTTP PROXY&lt;/h3&gt;
+&lt;p&gt;(thanks to Steven Shapiro for coming up with this one!)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Install &lt;code&gt;proxytunnel&lt;/code&gt; application; it is very standard and most distributions have them in their repositories (e.g., Ubuntu).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add this to your &lt;code&gt;~/.ssh/config&lt;/code&gt; file:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Host cs.outofrmit.edu
+ServerAliveInterval 30
+ProxyCommand /usr/bin/proxytunnel -p aproxy.rmit.edu.au:8080 -P &amp;lt;your NDS account&amp;gt;:&amp;lt;your password&amp;gt; -d cs.outofrmit.edu:22
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;ServerAliveInterval&lt;/code&gt; line is used to keep the connection up by sending occasional &lt;code&gt;NULL&lt;/code&gt; packets. Such option depends on the ssh client (in this case OpenSSH) and not &lt;code&gt;proxytunnel&lt;/code&gt; itself, so check your ssh system. If you use Debian-based system the option is called &lt;code&gt;ProtocolKeepAlives&lt;/code&gt; instead (thanks Timothy Jones for pointing that out!).&lt;/p&gt;
+&lt;p&gt;I believe the authentication credentials (option -P) is not required anymore (Jan 2015) and can be dropped.&lt;/p&gt;
+&lt;p&gt;Another, possibly simpler way, is to just add this using nc:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Host *
+    ProxyCommand nc -X connect -x proxy.rmit.edu.au:8080 %h %p
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will tunnel every host, but it can easily be use per host if desired.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;run ssh cs.outofrmit.edu and you should first get something like:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Via &lt;code&gt;aproxy.rmit.edu.au:8080 -&amp;gt; cs.outofrmit.edu:22&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;the-manual-way---tunneling-via-goanna&#34;&gt;THE MANUAL WAY - TUNNELING VIA GOANNA&lt;/h3&gt;
+&lt;p&gt;This are the steps:&lt;/p&gt;
+&lt;p&gt;First, create the tunnel:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ ssh -L 9922:cs.outofrmit.edu:22 goanna.cs.rmit.edu.au
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This of course creates an ssh session to &lt;code&gt;goanna.cs&lt;/code&gt;, but moreover it creates a tunnel from your local port 9922 in your desktop to port 22 at server &lt;code&gt;cs.outofrmit.edu&lt;/code&gt; (where the ssh server should be listening). So, everything that goes to port 9922 of your local machine will be forwarded to port 22 of server &lt;code&gt;cs.outofrmit.edu&lt;/code&gt; via (the ssh-connection to) &lt;code&gt;goanna.cs&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Next, we can ssh into server X by connecting with ssh to our local port 9922:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ ssh localhost -P 9922
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will then open an ssh connecting to the remote server &lt;code&gt;cs.outofrmit.edu&lt;/code&gt; as desired.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; The ssh connection opened in step (a) must remain opened. If it closes, then the ssh connection opened in step (b) will also be broken.&lt;/p&gt;
+&lt;p&gt;Obs: One can create several tunnels in the same ssh connection (a) above, by simply adding more &lt;code&gt;-L&lt;/code&gt; statements. Make sure, though, to use different local ports for each different tunnel.&lt;/p&gt;
+&lt;h2 id=&#34;ssh-into-an-rmit-machine-from-outside&#34;&gt;SSH into an RMIT machine from outside&lt;/h2&gt;
+&lt;p&gt;Suppose now you want to ssh into an internal machine X within RMIT network from outside (e.g., your home). The manual way is to first ssh into an internal server in RMIT that is exposed to the outside world, and then ssh to the specific machine X.&lt;/p&gt;
+&lt;p&gt;You can do that all in one shot by adding the following to &lt;code&gt;~/.ssh/config&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Host myrmit-desktop
+Hostname &amp;lt;IP of the machine to ssh into&amp;gt;
+User &amp;lt;username&amp;gt;
+Ciphers arcfour
+ClearAllForwardings yes
+ProxyCommand ssh &amp;lt;username-at-goanna&amp;gt;@goanna.cs.rmit.edu.au nc %h %p
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here, &lt;code&gt;goanna.cs.rmit.edu.au&lt;/code&gt; is the server inside RMIT that is exposed to the outside (and that you have access to, of course). Now, you can just run &amp;ldquo;&lt;code&gt;ssh myrmit-desktop&lt;/code&gt;&amp;rdquo; and it should work! If you don&amp;rsquo;t have an account in &lt;code&gt;goanna&lt;/code&gt; you can achieve the same thing with &lt;code&gt;yallara&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;accessing-rmit-resources-eg-articles-from-subscribers-etc-from-outside&#34;&gt;Accessing RMIT resources (e.g., articles from subscribers, etc.) from outside&lt;/h2&gt;
+&lt;p&gt;First, if you are trying to get an article as if you were inside RMIT network, just access access it via the proxy by prefixing the URL with this Proxy link:&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://youtu.be/myp_j6F4NvE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;True dialogue needs knowledge beyond stats&lt;/a&gt; - Prof. Phil Cohen&lt;/p&gt;
+&lt;a href=&#34;https://login.ezproxy.lib.rmit.edu.au/login?url=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://login.ezproxy.lib.rmit.edu.au/login?url=&lt;/a&gt;&lt;YOUR ORIGINAL LINK&gt;&lt;/p&gt;
+&lt;p&gt;So, suppose you want to access this paper from off campus:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/8468047/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/document/8468047/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Then you would visit&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://login.ezproxy.lib.rmit.edu.au/login?url=https://ieeexplore.ieee.org/document/8468047/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://login.ezproxy.lib.rmit.edu.au/login?url=https://ieeexplore.ieee.org/document/8468047/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Another example: to get Google Scholar via the RMIT proxy by visiting the link:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://login.ezproxy.lib.rmit.edu.au/login?url=http://scholar.google.com.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://login.ezproxy.lib.rmit.edu.au/login?url=http://scholar.google.com.au/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OR better still:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://scholar-google-com-au.ezproxy.lib.rmit.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar-google-com-au.ezproxy.lib.rmit.edu.au/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For a more general solution, from terminal, set up a port forwarding via some ssh machine inside RMIT that you have access (yeap, you need one!), say &lt;code&gt;coreteaching01.csit.rmit.edu.au&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ ssh -D 9999  coreteaching01.csit.rmit.edu.au
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then, set up the Proxy of your browser (e.g., Chrome, Safari, Firefox) to &lt;code&gt;localhost&lt;/code&gt; on port 9999. All the traffic from your browser will go to port 9999, which will go via &lt;code&gt;coreteaching01.csit.rmit.edu.au&lt;/code&gt; as if you were inside RMIT network.&lt;/p&gt;
+&lt;p&gt;As changing the proxy back and forth in your browser every time you need is painful, you may want to use an extension to do this, such as FoxyProxy (for some reason the FoxyProxy extension for Chome does not seem to work; Firefox works well). Finally, when you visit a page it is like doing it inside the RMIT network.&lt;/p&gt;
+&lt;h2 id=&#34;mounting-rmit-home-drive&#34;&gt;Mounting RMIT home drive&lt;/h2&gt;
+&lt;p&gt;First of all you can access your home directory at 
+&lt;a href=&#34;https://mydrive.rmit.edu.au&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mydrive.rmit.edu.au&lt;/a&gt; using a browser.&lt;/p&gt;
+&lt;p&gt;To mount this directory in your system follow this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Samba server:&lt;/strong&gt; &lt;code&gt;smb://eXXXXX@rmit.internal/USRHome/eh5/eXXXXX&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Domain:&lt;/strong&gt; &lt;code&gt;rmit.internal&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;NOTE: the &amp;ldquo;&lt;code&gt;eh5&lt;/code&gt;&amp;rdquo; component will be different for each user. It is based on the last 2 digits of your e-number:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;We use &lt;code&gt;el&lt;/code&gt; if the second to last digit is between 0 and 5, and &lt;code&gt;eh&lt;/code&gt; if it is between 6 and 9.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Last number is the same as your e-number.
+So, for example:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the path for user &lt;code&gt;e76763&lt;/code&gt; is &amp;ldquo;&lt;code&gt;eh3&lt;/code&gt;&amp;quot;: &amp;ldquo;&lt;code&gt;h&lt;/code&gt;&amp;rdquo; because second to last digit is &lt;code&gt;6&lt;/code&gt; and &lt;code&gt;3&lt;/code&gt; because it is the last digit of the staff number.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the path for user &lt;code&gt;eE05411&lt;/code&gt; would be &amp;ldquo;&lt;code&gt;el1&lt;/code&gt;&amp;rdquo; (&amp;quot;&lt;code&gt;l&lt;/code&gt;&amp;rdquo; because second to last digit is &lt;code&gt;1&lt;/code&gt;).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;The &lt;code&gt;elX/ehX&lt;/code&gt; scheme works the same way for students, except that e is replaced by &lt;code&gt;s&lt;/code&gt; for students. Its easier to just cut and paste it from your &lt;code&gt;mydrive&lt;/code&gt; though :).&lt;/p&gt;
+&lt;p&gt;To set up a more permanent link, you can add this to your &lt;code&gt;/fstab&lt;/code&gt; as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;//rmit.internal/eh&amp;lt;N&amp;gt;/&amp;lt;EXXXX&amp;gt;  /mnt/rmithome cifs  noauto,user,credentials=/home/&amp;lt;username&amp;gt;/.mydrive,uid=&amp;lt;username&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and create a file &lt;code&gt;.mydrive&lt;/code&gt; in your home folder containing one line:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;username=EXXXXX
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Make sure you have &lt;code&gt;mount.cifs&lt;/code&gt; (e.g., install package &lt;code&gt;cifs-utils&lt;/code&gt;)&lt;/p&gt;
+&lt;p&gt;Then, just issue command:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ sudo mount /mnt/rmithome
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This was all taken from Shane Culpepper&amp;rsquo;s and Ron van Schyndel&amp;rsquo;s emails (April 2013). Some later fixes provided by Jessica Rivera Villicana (2014).&lt;/p&gt;
+&lt;h1 id=&#34;contributors&#34;&gt;Contributors&lt;/h1&gt;
+&lt;p&gt;Over time several people have provided me with information to add or improve this support page, including:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Nitin Yadav
+Abhijeet Anand
+Steven Shapiro
+Timothy Jones
+Shane Culpepper
+Ron van Schyndel
+Jessica Rivera Villicana
+Damiano Spina
+Marco Tamassia
+Pyarelal Knowles
+Ali Yavari
+Binsheng Liu
+other anonymous contributors
+a few others I cannot remember, sorry!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;END - If you have useful information on using Linux @ RMIT please forward it to me and I can add it here for others. :-)&lt;/p&gt;
 </description>
     </item>
     
@@ -63,15 +491,11 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://youtu.be/bzaMyYqJ030]&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The importance of an all rounded CS education for AI students&lt;/a&gt; - Prof. Adnan Darwich&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
 &lt;a href=&#34;https://youtu.be/MCjuaQAZG44&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More ethics is &amp;ldquo;the&amp;rdquo; solution? Really?&lt;/a&gt; - Prof. Moshe Vardi&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://youtu.be/Unzc731iCUY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to give a talk/lecture&lt;/a&gt; - Prof. Patrick Wiston&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2EaopRDxNrw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What programming language I should learn?&lt;/a&gt; - Great, fun, and informative video on various programming languages and &amp;ldquo;which one&amp;rdquo; to learn.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;ai&#34;&gt;AI&lt;/h2&gt;
@@ -92,6 +516,22 @@
 &lt;p&gt;
 &lt;a href=&#34;https://youtu.be/myp_j6F4NvE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;True dialogue needs knowledge beyond stats&lt;/a&gt; - Prof. Phil Cohen&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;education-research-academia&#34;&gt;Education, Research, Academia&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/bzaMyYqJ030]&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The importance of an all rounded CS education for AI students&lt;/a&gt; - Prof. Adnan Darwich&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/C3im5OV3kcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wittgenstein&amp;rsquo;s papers and Faraday&amp;rsquo;s talks: Maxims for a milk-fed researcher&lt;/a&gt; - Subbarao Kambhampati&amp;rsquo;s talk on how to write good papers and give good talks at the doctoral consortium of IJCAI&#39;13&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/Unzc731iCUY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to give a talk/lecture&lt;/a&gt; - Prof. Patrick Wiston&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/VK51E3gHENc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Write Research Articles in Computing and Engineering Disciplines&lt;/a&gt; - By Ivan Stojmenovic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;others&#34;&gt;Others&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=MrqqD_Tsy4Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our Story In 2 Minutes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

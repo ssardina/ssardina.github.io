@@ -1,0 +1,1296 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Sebastian Sardina">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="If you are on Linux at RMIT you may not have much information or support available, so I will try to help a bit and collect here some useful tips, solutions, and processes for running Linux within the RMIT network effectively.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ssardina.github.io/extras/resources/linux-rmit/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8845578-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-8845578-5', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://ssardina.github.io/extras/resources/linux-rmit/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@sebsardina">
+  <meta property="twitter:creator" content="@sebsardina">
+  
+  <meta property="og:site_name" content="Prof. Sebastian Sardina">
+  <meta property="og:url" content="https://ssardina.github.io/extras/resources/linux-rmit/">
+  <meta property="og:title" content="Linux @ RMIT | Prof. Sebastian Sardina">
+  <meta property="og:description" content="If you are on Linux at RMIT you may not have much information or support available, so I will try to help a bit and collect here some useful tips, solutions, and processes for running Linux within the RMIT network effectively."><meta property="og:image" content="https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2022-01-18T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2022-01-18T00:00:00&#43;01:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Linux @ RMIT | Prof. Sebastian Sardina</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Prof. Sebastian Sardina</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Prof. Sebastian Sardina</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#students"><span>Students</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#accomplishments"><span>Awards</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#service"><span>Service</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://gist.github.com/ssardina/b685b77b612ce25c7840b3baf844c443#file-linux-rmit-md" target="_blank" rel="noopener"><span>Linux @ RMIT</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/extras/resources/">Overview</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/extras/resources/links/">CS &amp; AI</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/extras/resources/links/">Links</a>
+      </li>
+      
+      <li >
+        <a href="/extras/resources/videos/">Videos</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/extras/resources/latex/">IT</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/extras/resources/latex/">Latex</a>
+      </li>
+      
+      <li class="active">
+        <a href="/extras/resources/linux-rmit/">Linux @ RMIT</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/extras/resources/phd-supervision/">Students</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/extras/resources/phd-supervision/">PhD Supervision</a>
+      </li>
+      
+      <li >
+        <a href="/extras/resources/teaching_faq/">Teaching FAQ</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#printing-at-rmit">Printing at RMIT</a></li>
+    <li><a href="#mounting-your-goannayallara-account-locally">Mounting your goanna/yallara account locally</a></li>
+    <li><a href="#mydesktop-running-rmit-windows-remotely-from-your-linux-box">myDesktop: Running RMIT Windows remotely from your Linux Box</a></li>
+    <li><a href="#ssh-to-an-outside-machine-via-tunneling">SSH to an outside machine via tunneling</a>
+      <ul>
+        <li><a href="#the-automatic-way---tunneling-via-rmit-http-proxy">THE AUTOMATIC WAY - TUNNELING VIA RMIT HTTP PROXY</a></li>
+        <li><a href="#the-manual-way---tunneling-via-goanna">THE MANUAL WAY - TUNNELING VIA GOANNA</a></li>
+      </ul>
+    </li>
+    <li><a href="#ssh-into-an-rmit-machine-from-outside">SSH into an RMIT machine from outside</a></li>
+    <li><a href="#accessing-rmit-resources-eg-articles-from-subscribers-etc-from-outside">Accessing RMIT resources (e.g., articles from subscribers, etc.) from outside</a></li>
+    <li><a href="#mounting-rmit-home-drive">Mounting RMIT home drive</a></li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>Linux @ RMIT</h1>
+
+          <div class="article-style">
+            <p>If you are on Linux at RMIT you may not have much information or support available, so I will try to help a bit and collect here some useful tips, solutions, and processes for running Linux within the RMIT network effectively.</p>
+<p>If you have solutions to problems that other Linux users may encounter, please forward them to me and I will add them to this page. You can also leave comments at the bottom of this page if you think it can be useful for other readers.</p>
+<p><strong>Note 1:</strong> some of the sections have become out-dated or not relevant anymore, in big part I believe thanks to RMIT/ITS providing much better and reasonable infrastructure (e.g., allowing ssh to the outside), which is fantastic and welcome!. If you spot an updated or not relevant part, let me know and I will mark 
+it as such.</p>
+<p><strong>Note 2:</strong> in July 2021, I migrated the page to a GitHub Gist; and in Jan 2022 to my home page. I have then deleted most of the irrelevant sections that were in the original document](/linux-rmit.git/linux-rmit-old.pdf).</p>
+<ul>
+<li>
+<a href="#linux--rmit">Linux @ RMIT</a>
+<ul>
+<li>
+<a href="#printing-at-rmit">Printing at RMIT</a></li>
+<li>
+<a href="#mounting-your-goannayallara-account-locally">Mounting your goanna/yallara account locally</a></li>
+<li>
+<a href="#mydesktop-running-rmit-windows-remotely-from-your-linux-box">myDesktop: Running RMIT Windows remotely from your Linux Box</a></li>
+<li>
+<a href="#ssh-to-an-outside-machine-via-tunneling">SSH to an outside machine via tunneling</a>
+<ul>
+<li>
+<a href="#the-automatic-way---tunneling-via-rmit-http-proxy">THE AUTOMATIC WAY - TUNNELING VIA RMIT HTTP PROXY</a></li>
+<li>
+<a href="#the-manual-way---tunneling-via-goanna">THE MANUAL WAY - TUNNELING VIA GOANNA</a></li>
+</ul>
+</li>
+<li>
+<a href="#ssh-into-an-rmit-machine-from-outside">SSH into an RMIT machine from outside</a></li>
+<li>
+<a href="#accessing-rmit-resources-eg-articles-from-subscribers-etc-from-outside">Accessing RMIT resources (e.g., articles from subscribers, etc.) from outside</a></li>
+<li>
+<a href="#mounting-rmit-home-drive">Mounting RMIT home drive</a></li>
+</ul>
+</li>
+<li>
+<a href="#contributors">Contributors</a></li>
+</ul>
+<h2 id="printing-at-rmit">Printing at RMIT</h2>
+<p>Note (April 2018): Printing now exposes a <code>bonjour/airprint</code> interface called <code>rmit-global</code> located on the server <code>pcutprdap02</code></p>
+<p>It only seems to work for E number users (not student accounts), but doesn’t require any PaperCut client to be installed as it does the authentication with its own interface. Works without any further configuration on OSX.</p>
+<p>This is how to print in the new Think Print system (
+<a href="http://www.rmit.edu.au/its/thinkprintl" target="_blank" rel="noopener">http://www.rmit.edu.au/its/thinkprintl</a> ; you won&rsquo;t find any instructions to Linux systems, Linux is not even mentioned!).</p>
+<ol>
+<li>
+<p>Get the 
+<a href="https://www.papercut.com/kb/Main/RunningOnLinux" target="_blank" rel="noopener">PaperCut client</a>. The system uses PaperCut print management software. You then need to run the client in your Linux box. You can download the server+client from PaperCut web site itself, and extract from there the client part. You would need to do some configuration there too though ;-) Or you can just download our zip file package here, which is already configured for RMIT network.</p>
+</li>
+<li>
+<p><strong>Run the PaperCut client.</strong> The system uses a &ldquo;popup&rdquo; authentication to match the username with the IP address from where the job originated. Therefore, the PaperCut client needs to be running in the background.  So, just run the pc-client-linux.sh script to start it and use your RMIT username/password.</p>
+<ul>
+<li>You may want to replace the script pc-client.linux.sh that comes with it with an improved one that works as symbolic link and also runs in the background so that it doesn&rsquo;t block. Get it at the bottom of this page or clik here and overwrite the default script.</li>
+</ul>
+</li>
+<li>
+<p><strong>Install LPD Printer.</strong> Next you need to install a printer queue in your Linux system:</p>
+<pre><code>Printer Type: LPD
+Host: `winsprdps01r001.rmit.internal`
+Queue: `Ricoh-Global-Client`
+Driver: Ricoh Aficio MP C3002 PS
+</code></pre>
+</li>
+</ol>
+<p>After the setup, just send a print job and the PaperCut client should &ldquo;popup&rdquo; for username+password. Hopefully, you should get the printout from the nearest printer (after a swipe and few clicks!).</p>
+<p>Finally, there is a web page to check print history and other bits of info at 
+<a href="http://pcutprdap01.rmit.internal:9191/" target="_blank" rel="noopener">http://pcutprdap01.rmit.internal:9191/</a></p>
+<p>Good luck!</p>
+<p><em>Acknowledgement:</em> the non-trivial research to find all this and make it work is due to PhD student Nitin Yadav, big thanks to him for all of us Linux users!</p>
+<ul>
+<li><strong>Comment for Fedora 18, x64:</strong> I had a few issues when upgrading to Fedora 18, x64 and thought this might be useful to others - It seems the printer queue string is completely ignored in the new GUI. I&rsquo;ve just got it working, manually entering &ldquo;lpd://winsprdps01r001.rmit.internal/Ricoh-Global-Client&rdquo; in the cups config page (http://localhost:631). I&rsquo;m not sure if it&rsquo;s important but I&rsquo;m using the &ldquo;Ricoh Aficio MP C3002 PS&rdquo; driver which came with the F18 distribution and I added myself to the &ldquo;lp&rdquo; group.</li>
+<li><strong>Comment Kubuntu:</strong> In order to set-up the printer on Kubuntu (KDE), it is necessary to use &ldquo;system-config-printer&rdquo; in terminal instead of using the GUI (it seems that kcmshell4 ignores the queue in the configuration). The drivers are already available and accessible via system-config-printer and there is no need to include PPD file manually.</li>
+</ul>
+<h2 id="mounting-your-goannayallara-account-locally">Mounting your goanna/yallara account locally</h2>
+<p>Note: goanna/yallara has been decommissioned as far as I know&hellip; But this would work for other unix-based systems.</p>
+<p>It is possible and easy to mount directories in <code>goanna.cs</code> in your Linux box as a user, including your home directory. This will allow you to work on files stored in <code>goanna</code> as if they were part of your desktop file system. To do that, we can use the FUSE library which mounts file systems in the user space via ssh. This avoids then the complicate use of Samba or NFS shares (which RMIT does not provide anyways!).</p>
+<p>So, suppose I (user ssardina) want to mount my home directory at <code>goanna.cs</code> in a local directory called <code>~/goanna-home</code>. It is as simple as executing the following command:</p>
+<pre><code class="language-shell">$ sshfs -o uid=`id -u`,gid=`id -g`,workaround=rename,reconnect,follow_symlinks     
+                                  ssardina@goanna.cs.rmit.edu.au:/home/s/ssardina ~/goanna-home
+</code></pre>
+<p>Now, in <code>~/goanna-home</code> I basically have access to my home directory in <code>goanna.cs</code> ! So simple&hellip; Observe the permissions you will have on all files and directories there are the very same you would have if you log in into <code>goanna.cs</code> via ssh interactively (despite the fact that in your filesystem it will appear as if owned everything).</p>
+<p>Finally, to unmount the directory we can just run:</p>
+<pre><code class="language-shell">$ fusermount -u ~/goanna-home
+</code></pre>
+<p>Of course, one can also mount in the same way the directory <code>/research</code></p>
+<p>Finally, if I do not want to issue the above large sshfs statement every time I want to mount the filesystem, I can add the following line to <code>/etc/fstab</code> to mount the remote filesystem into local directory <code>/mnt/goanna-ssardina/ssardina</code>:</p>
+<pre><code class="language-shell">sshfs#ssardina@goanna.cs.rmit.edu.au:/home/s/ssardina /mnt/goanna-ssardina/ssardina fuse workaround=rename,user,reconnect,uid=1000,gid=500,follow_symlinks,fsname=sshfs#ssardina@goanna.cs.rmit.edu.au:/home/s/ssardina 0 0
+</code></pre>
+<p>You need to replace the username, <code>uid</code> and <code>gid</code> numbers, and mounting location. Then, to mount the filesystem we can just run:</p>
+<pre><code class="language-shell">$ mount /mnt/goanna-ssardina/ssardina 
+</code></pre>
+<p>Obs: to avoid <code>sshfs</code> asking for password authentication every time you issue the mounting command, it is best to set up your ssh configuration (in <code>goanna.cs</code>) so that no password will be required. This involves basically adding the RSA key of your local system into the file <code>~/.ssh/authorized_keys2</code> at <code>goanna.cs</code>. [just google &ldquo;no password ssh&rdquo; and will be get lots of pages explaining this].</p>
+<h2 id="mydesktop-running-rmit-windows-remotely-from-your-linux-box">myDesktop: Running RMIT Windows remotely from your Linux Box</h2>
+<p>You can still run full RMIT Coorporate Windows from your Linux box. To do that you just need to install the Citrix Client. THis worked form me on Linux Mint 18 (Using Ubuntu 16.04) on Feb 2017:</p>
+<ol>
+<li>Get the <code>icaclientWeb_13.10.0.20_amd64.deb</code> package from 
+<a href="https://www.citrix.com/downloads/citrix-receiver/linux/receiver-for-linux-latest.html" target="_blank" rel="noopener">Citrix</a> (version as of March 2021)</li>
+<li>Install the package: <code>sudo dpkg -i icaclientWeb_13.10.0.20_amd64.deb</code></li>
+<li>Add more SSL certificates and Chrome pluging by following steps 5 &amp; 9 in 
+<a href="https://help.ubuntu.com/community/CitrixICAClientHowTo" target="_blank" rel="noopener">CitrixICAClientHowTo</a></li>
+<li>Start the Windows system by visiting and logging in into 
+<a href="http://mydesktop.rmit.edu.au/" target="_blank" rel="noopener">mydesktop.rmit.edu.au</a> via Chrome</li>
+<li>Select an application, like Chrome or Firefox or X. It will download an <code>.ica</code> file.
+<ul>
+<li>for example, my file was named <code>RGVsaXZlcnlDb250cm9sbGVycy5Hb29nbGUgQ2hyb21l.ica</code></li>
+</ul>
+</li>
+<li>Either tell the browser to open with the Citrix Receiver Client or download the <code>.ica</code> file and click on it and the application (e.g., Chrome) should start!
+<ul>
+<li>in Chrome, it seems one has to download the <code>.ica</code> file and then click on it; in Firefox you can instruct Firefox to open the file with the Citrix Receiver Client.</li>
+</ul>
+</li>
+</ol>
+<h2 id="ssh-to-an-outside-machine-via-tunneling">SSH to an outside machine via tunneling</h2>
+<p><strong>NOT RELEVANT ANYMORE (Oct 2017)</strong> - One can ssh outside without any problem (good!)</p>
+<p>Suppose you want to ssh from your office Linux desktop to server <code>cs.outofrmit.edu</code> which is outside RMIT network. Initially, you cannot: you will have to login to <code>goanna.cs</code> and ssh from there to <code>cs.outofrmit.edu</code>. We can solve this by creating a permanent &ldquo;tunnel&rdquo; to X via either RMIT http proxy or <code>goanna.cs</code>. For that there is a clean automatic way and a more &ldquo;manual&rdquo; one:</p>
+<h3 id="the-automatic-way---tunneling-via-rmit-http-proxy">THE AUTOMATIC WAY - TUNNELING VIA RMIT HTTP PROXY</h3>
+<p>(thanks to Steven Shapiro for coming up with this one!)</p>
+<ol>
+<li>
+<p>Install <code>proxytunnel</code> application; it is very standard and most distributions have them in their repositories (e.g., Ubuntu).</p>
+</li>
+<li>
+<p>Add this to your <code>~/.ssh/config</code> file:</p>
+<pre><code>Host cs.outofrmit.edu
+ServerAliveInterval 30
+ProxyCommand /usr/bin/proxytunnel -p aproxy.rmit.edu.au:8080 -P &lt;your NDS account&gt;:&lt;your password&gt; -d cs.outofrmit.edu:22
+</code></pre>
+<p>The <code>ServerAliveInterval</code> line is used to keep the connection up by sending occasional <code>NULL</code> packets. Such option depends on the ssh client (in this case OpenSSH) and not <code>proxytunnel</code> itself, so check your ssh system. If you use Debian-based system the option is called <code>ProtocolKeepAlives</code> instead (thanks Timothy Jones for pointing that out!).</p>
+<p>I believe the authentication credentials (option -P) is not required anymore (Jan 2015) and can be dropped.</p>
+<p>Another, possibly simpler way, is to just add this using nc:</p>
+<pre><code>Host *
+    ProxyCommand nc -X connect -x proxy.rmit.edu.au:8080 %h %p
+</code></pre>
+<p>This will tunnel every host, but it can easily be use per host if desired.</p>
+<pre><code>run ssh cs.outofrmit.edu and you should first get something like:
+</code></pre>
+<p>Via <code>aproxy.rmit.edu.au:8080 -&gt; cs.outofrmit.edu:22</code></p>
+</li>
+</ol>
+<h3 id="the-manual-way---tunneling-via-goanna">THE MANUAL WAY - TUNNELING VIA GOANNA</h3>
+<p>This are the steps:</p>
+<p>First, create the tunnel:</p>
+<pre><code class="language-shell">$ ssh -L 9922:cs.outofrmit.edu:22 goanna.cs.rmit.edu.au
+</code></pre>
+<p>This of course creates an ssh session to <code>goanna.cs</code>, but moreover it creates a tunnel from your local port 9922 in your desktop to port 22 at server <code>cs.outofrmit.edu</code> (where the ssh server should be listening). So, everything that goes to port 9922 of your local machine will be forwarded to port 22 of server <code>cs.outofrmit.edu</code> via (the ssh-connection to) <code>goanna.cs</code>.</p>
+<p>Next, we can ssh into server X by connecting with ssh to our local port 9922:</p>
+<pre><code class="language-shell">$ ssh localhost -P 9922
+</code></pre>
+<p>This will then open an ssh connecting to the remote server <code>cs.outofrmit.edu</code> as desired.</p>
+<p><strong>Important:</strong> The ssh connection opened in step (a) must remain opened. If it closes, then the ssh connection opened in step (b) will also be broken.</p>
+<p>Obs: One can create several tunnels in the same ssh connection (a) above, by simply adding more <code>-L</code> statements. Make sure, though, to use different local ports for each different tunnel.</p>
+<h2 id="ssh-into-an-rmit-machine-from-outside">SSH into an RMIT machine from outside</h2>
+<p>Suppose now you want to ssh into an internal machine X within RMIT network from outside (e.g., your home). The manual way is to first ssh into an internal server in RMIT that is exposed to the outside world, and then ssh to the specific machine X.</p>
+<p>You can do that all in one shot by adding the following to <code>~/.ssh/config</code>:</p>
+<pre><code>Host myrmit-desktop
+Hostname &lt;IP of the machine to ssh into&gt;
+User &lt;username&gt;
+Ciphers arcfour
+ClearAllForwardings yes
+ProxyCommand ssh &lt;username-at-goanna&gt;@goanna.cs.rmit.edu.au nc %h %p
+</code></pre>
+<p>Here, <code>goanna.cs.rmit.edu.au</code> is the server inside RMIT that is exposed to the outside (and that you have access to, of course). Now, you can just run &ldquo;<code>ssh myrmit-desktop</code>&rdquo; and it should work! If you don&rsquo;t have an account in <code>goanna</code> you can achieve the same thing with <code>yallara</code>.</p>
+<h2 id="accessing-rmit-resources-eg-articles-from-subscribers-etc-from-outside">Accessing RMIT resources (e.g., articles from subscribers, etc.) from outside</h2>
+<p>First, if you are trying to get an article as if you were inside RMIT network, just access access it via the proxy by prefixing the URL with this Proxy link:</p>
+<p>
+<a href="https://login.ezproxy.lib.rmit.edu.au/login?url=" target="_blank" rel="noopener">https://login.ezproxy.lib.rmit.edu.au/login?url=</a><YOUR ORIGINAL LINK></p>
+<p>So, suppose you want to access this paper from off campus:</p>
+<p>
+<a href="https://ieeexplore.ieee.org/document/8468047/" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/8468047/</a></p>
+<p>Then you would visit</p>
+<p>
+<a href="https://login.ezproxy.lib.rmit.edu.au/login?url=https://ieeexplore.ieee.org/document/8468047/" target="_blank" rel="noopener">https://login.ezproxy.lib.rmit.edu.au/login?url=https://ieeexplore.ieee.org/document/8468047/</a></p>
+<p>Another example: to get Google Scholar via the RMIT proxy by visiting the link:</p>
+<p>
+<a href="https://login.ezproxy.lib.rmit.edu.au/login?url=http://scholar.google.com.au/" target="_blank" rel="noopener">https://login.ezproxy.lib.rmit.edu.au/login?url=http://scholar.google.com.au/</a></p>
+<p>OR better still:</p>
+<p>
+<a href="https://scholar-google-com-au.ezproxy.lib.rmit.edu.au/" target="_blank" rel="noopener">https://scholar-google-com-au.ezproxy.lib.rmit.edu.au/</a></p>
+<p>For a more general solution, from terminal, set up a port forwarding via some ssh machine inside RMIT that you have access (yeap, you need one!), say <code>coreteaching01.csit.rmit.edu.au</code>:</p>
+<pre><code class="language-shell">$ ssh -D 9999  coreteaching01.csit.rmit.edu.au
+</code></pre>
+<p>Then, set up the Proxy of your browser (e.g., Chrome, Safari, Firefox) to <code>localhost</code> on port 9999. All the traffic from your browser will go to port 9999, which will go via <code>coreteaching01.csit.rmit.edu.au</code> as if you were inside RMIT network.</p>
+<p>As changing the proxy back and forth in your browser every time you need is painful, you may want to use an extension to do this, such as FoxyProxy (for some reason the FoxyProxy extension for Chome does not seem to work; Firefox works well). Finally, when you visit a page it is like doing it inside the RMIT network.</p>
+<h2 id="mounting-rmit-home-drive">Mounting RMIT home drive</h2>
+<p>First of all you can access your home directory at 
+<a href="https://mydrive.rmit.edu.au" target="_blank" rel="noopener">https://mydrive.rmit.edu.au</a> using a browser.</p>
+<p>To mount this directory in your system follow this:</p>
+<ul>
+<li><strong>Samba server:</strong> <code>smb://eXXXXX@rmit.internal/USRHome/eh5/eXXXXX</code></li>
+<li><strong>Domain:</strong> <code>rmit.internal</code></li>
+</ul>
+<p>NOTE: the &ldquo;<code>eh5</code>&rdquo; component will be different for each user. It is based on the last 2 digits of your e-number:</p>
+<ul>
+<li>
+<p>We use <code>el</code> if the second to last digit is between 0 and 5, and <code>eh</code> if it is between 6 and 9.</p>
+</li>
+<li>
+<p>Last number is the same as your e-number.
+So, for example:</p>
+</li>
+<li>
+<p>the path for user <code>e76763</code> is &ldquo;<code>eh3</code>&quot;: &ldquo;<code>h</code>&rdquo; because second to last digit is <code>6</code> and <code>3</code> because it is the last digit of the staff number.</p>
+</li>
+<li>
+<p>the path for user <code>eE05411</code> would be &ldquo;<code>el1</code>&rdquo; (&quot;<code>l</code>&rdquo; because second to last digit is <code>1</code>).</p>
+</li>
+</ul>
+<p>The <code>elX/ehX</code> scheme works the same way for students, except that e is replaced by <code>s</code> for students. Its easier to just cut and paste it from your <code>mydrive</code> though :).</p>
+<p>To set up a more permanent link, you can add this to your <code>/fstab</code> as follows:</p>
+<pre><code>//rmit.internal/eh&lt;N&gt;/&lt;EXXXX&gt;  /mnt/rmithome cifs  noauto,user,credentials=/home/&lt;username&gt;/.mydrive,uid=&lt;username&gt;
+</code></pre>
+<p>and create a file <code>.mydrive</code> in your home folder containing one line:</p>
+<pre><code>username=EXXXXX
+</code></pre>
+<p>Make sure you have <code>mount.cifs</code> (e.g., install package <code>cifs-utils</code>)</p>
+<p>Then, just issue command:</p>
+<pre><code class="language-shell">$ sudo mount /mnt/rmithome
+</code></pre>
+<p><strong>Note:</strong> This was all taken from Shane Culpepper&rsquo;s and Ron van Schyndel&rsquo;s emails (April 2013). Some later fixes provided by Jessica Rivera Villicana (2014).</p>
+<h1 id="contributors">Contributors</h1>
+<p>Over time several people have provided me with information to add or improve this support page, including:</p>
+<pre><code>Nitin Yadav
+Abhijeet Anand
+Steven Shapiro
+Timothy Jones
+Shane Culpepper
+Ron van Schyndel
+Jessica Rivera Villicana
+Damiano Spina
+Marco Tamassia
+Pyarelal Knowles
+Ali Yavari
+Binsheng Liu
+other anonymous contributors
+a few others I cannot remember, sorry!
+</code></pre>
+<p>END - If you have useful information on using Linux @ RMIT please forward it to me and I can add it here for others. :-)</p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/extras/resources/links/" rel="next">Links</a>
+  </div>
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="/extras/resources/videos/" rel="prev">CS &amp; AI Videos</a>
+  </div>
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on 18 Jan 2022</p>
+
+          
+
+
+
+
+
+
+  
+  
+
+<p class="edit-page">
+  <a href="https://github.com/ssardina/personal-web/edit/main/content/extras/resources/linux-rmit.md">
+    <i class="fas fa-pen pr-2"></i>Edit this page
+  </a>
+</p>
+
+
+
+
+          
+
+
+          
+
+
+  
+  
+
+
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    2022
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.4aaf2d64e50f8e54cf66dcc54147a22e.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
