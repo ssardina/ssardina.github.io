@@ -227,6 +227,48 @@ more text
     </item>
     
     <item>
+      <title>Lecture 2 - Overview of Techniques and Tools for Developing Multiagent Systems</title>
+      <link>https://ssardina.github.io/extras/intagts07/lecture03/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/lecture03/</guid>
+      <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 6, 2007 - Hour 1 and 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Introduction to Autonomous Agents and Multiagent Systems&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Yves Lespérance.&lt;/p&gt;
+&lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
+&lt;p&gt;Please find them 
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/Roma07PhDcourse/slides/lecture2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wooldridge M., 
+&lt;a href=&#34;http://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas//IMAS2e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Multiagent Systems&lt;/a&gt;, Chapter 8 to end of Section 2.2 and Chapter 9 to end of Section 9.2.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bellifemine F., Poggi, A., and Rimassa, G. 
+&lt;a href=&#34;https://jmvidal.cse.sc.edu/library/bellifemine01a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Developing Multi-Agent Systems with a FIPA-Compliant Agent Framework Software: Practice and Experience&lt;/a&gt;, 31 (2), 103-128, 2000.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.fipa.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FIPA home page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://jade.cselt.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JADE home page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cs.yorku.ca/~erickm/ig-jade/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Martinez&amp;rsquo;s IndiGolog-JADE page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.ai.sri.com/~oaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SRI OAA home page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cs.yorku.ca/~alexei/ig-oaa/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IgOAAlib home page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Cohen, P.R. and Levesque, H.J. 
+&lt;a href=&#34;https://researchmgt.monash.edu/ws/portalfiles/portal/262315026/260773172.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rational Interaction as the Basis for Communication&lt;/a&gt;. In Intentions in Communication, P.R. Cohen, J. Morgan, and M.E. Pollack (eds.), 221-256, MIT Press, Cambridge MA, 1990.&lt;/li&gt;
+&lt;li&gt;Smith, R.G. 
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/1675516&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The CONTRACT NET: A Formalism for the Control of Distributed Problem Solving&lt;/a&gt;. In Proc. of the 5th Int. Joint Conf. on Artificial Intelligence (IJCAI-77), Cambridge, MA, 1977.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Links</title>
       <link>https://ssardina.github.io/extras/resources/links/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
