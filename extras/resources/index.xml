@@ -190,6 +190,7 @@ more text
 &lt;a href=&#34;https://software-carpentry.org/lessons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Software carpentry Lessons&lt;/a&gt; - An intensive introduction to basic software development practices for scientists and engineers.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.pluralsight.com/blog/security-professional/modern-password-guidelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Best practices for passwords&lt;/a&gt; - By Richard Harpur&lt;/li&gt;
+&lt;li&gt;[Markdown Cheatsheet(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;git-version-control&#34;&gt;GIT Version Control&lt;/h2&gt;
 &lt;ul&gt;
@@ -550,7 +551,13 @@ simulator and a few agent system controllers.&lt;/li&gt;
       <link>https://ssardina.github.io/extras/resources/videos/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
       <guid>https://ssardina.github.io/extras/resources/videos/</guid>
-      <description>&lt;h2 id=&#34;general-cs--ai&#34;&gt;General CS &amp;amp; AI&lt;/h2&gt;
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MCjuaQAZG44&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+More ethics is &amp;ldquo;the&amp;rdquo; solution? Really?&lt;/p&gt;
+&lt;h2 id=&#34;general-cs--ai&#34;&gt;General CS &amp;amp; AI&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
