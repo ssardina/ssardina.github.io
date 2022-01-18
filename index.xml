@@ -432,7 +432,7 @@ more text
 &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Yves Lespérance.&lt;/p&gt;
 &lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
 &lt;p&gt;Please find them 
-&lt;a href=&#34;slides/lecture2.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../slides/lecture2.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Wooldridge M., 
@@ -503,7 +503,7 @@ more text
 &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Yves Lespérance.&lt;/p&gt;
 &lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
 &lt;p&gt;Please find them 
-&lt;a href=&#34;slides/lecture4.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../slides/lecture4.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
 &lt;p&gt;Just read the lecture transparencies ahead of time.&lt;/p&gt;
 &lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
@@ -524,12 +524,12 @@ more text
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
       <guid>https://ssardina.github.io/extras/intagts07/lecture05/</guid>
       <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 20, 2007 - Hour 7 and 8&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Sensing and Planning under Incomplete Information and Dynamic Evironments&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 20, 2007 - Hour 9 and 10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Sensing and Planning under Incomplete Information and Dynamic Environments&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Yves Lespérance.&lt;/p&gt;
 &lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
 &lt;p&gt;Please find them 
-&lt;a href=&#34;slides/lecture5.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../slides/lecture5.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
 &lt;p&gt;Just read the lecture transparencies ahead of time.&lt;/p&gt;
 &lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
@@ -602,6 +602,97 @@ more text
 &lt;p&gt;[VasLev07] Stavros Vassos, Hector J. Levesque: Progression of Situation Calculus Action Theories with Incomplete Information. &lt;em&gt;Proc. IJCAI 2007&lt;/em&gt;, 2029-2024.&lt;/p&gt;
 &lt;p&gt;[WCG01] Brian C. Williams, Seung Chung, Vineet Gupta, Mode Estimation of Model-based Programs, &lt;em&gt;Proc. IJCAI 2001:&lt;/em&gt; 579-590.&lt;/p&gt;
 &lt;p&gt;[WooJen95] Wooldridge M. and Jennings, N.R., Intelligent Agents: Theory and Practice, &lt;em&gt;Knowledge Engineering Review&lt;/em&gt;, &lt;strong&gt;10&lt;/strong&gt; (2), 115-152, 1995&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6 - Practical Reasoning</title>
+      <link>https://ssardina.github.io/extras/intagts07/lecture06/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/lecture06/</guid>
+      <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 22, 2007 - Hour 11 and 12&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Practical Reasoning&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Dr. Sebastian Sardina&lt;/p&gt;
+&lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
+&lt;p&gt;Please find them 
+&lt;a href=&#34;../slides/lect06-handouts-practical_reasoning.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bratman, M. E., Israel, D. J., and Pollack, M. E. (1988). Plans and resource-bounded practical reasoning. Computational Intelligence, 4:349-355.&lt;/li&gt;
+&lt;li&gt;Georgeff, M. P. and Lansky, A. L. (1987). Reactive reasoning and planning. In Proceedings of the Sixth National Conference on Artificial Intelligence (AAAI-87), pages 677-682, Seattle, WA.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Koen V. Hindriks, Frank S. de Boer, Wiebe van der Hoek, John-Jules Ch. Meyer: Agent Programming in 3APL. Autonomous Agents and Multi-Agent Systems 2(4): 357-401 (1999).&lt;/li&gt;
+&lt;li&gt;Frank S. de Boer, Koen V. Hindriks, Wiebe van der Hoek, John-Jules Ch. Meyer: A verification framework for agent programming with declarative goals. J. Applied Logic 5(2): 277-302 (2007).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8 - Declarative Goals and Planning in BDI Programming Systems</title>
+      <link>https://ssardina.github.io/extras/intagts07/lecture08/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/lecture08/</guid>
+      <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 20, 2007 - Hour 15 and 16&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Declarative Goals and Planning in BDI Programming Systems&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Dr. Sebastian Sardina&lt;/p&gt;
+&lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
+&lt;p&gt;Please find them 
+&lt;a href=&#34;slides/lect07-handout_bdi-programming.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sebastian Sardina, Lavindra de Silva, Lin Padgham: Hierarchical planning in BDI agent programming languages: a formal approach. AAMAS 2006: 1001-1008.&lt;/li&gt;
+&lt;li&gt;Dana S. Nau, Tsz-Chiu Au, Okhtay Ilghami, Ugur Kuter, J. William Murdock, Dan Wu, Fusun Yaman: SHOP2: An HTN Planning System. J. Artif. Intell. Res. (JAIR) 20: 379-404 (2003).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kutluhan Erol, James A. Hendler, Dana S. Nau: Complexity Results for HTN Planning. Ann. Math. Artif. Intell. 18(1): 69-93 (1996).&lt;/li&gt;
+&lt;li&gt;Birna van Riemsdijk, Mehdi Dastani, Frank Dignum, John-Jules Ch. Meyer: Dynamics of Declarative Goals in Agent Programming. DALT 2004: 1-18.&lt;/li&gt;
+&lt;li&gt;Jurgen Dix, Hector Munoz-Avila, Dana S. Nau, Lingling Zhang: IMPACTing SHOP: Putting an AI Planner Into a Multi-Agent Environment. Ann. Math. Artif. Intell. 37(4): 381-407 (2003).&lt;/li&gt;
+&lt;li&gt;Jomi Fred Hubner, Rafael H. Bordini, Michael Wooldridge: Programming Declarative Goals Using Plan Patterns. DALT 2006: 123-140.&lt;/li&gt;
+&lt;li&gt;Sebastian Sardina and Lin Padgham. Goals in the context of BDI plan failure and planning. In Proceedings of Autonomous Agents and Multi-Agent Systems (AAMAS), Hawaii, USA, May 2007. ACM Press.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9 - Practical BDI Agent Programming I</title>
+      <link>https://ssardina.github.io/extras/intagts07/lecture09/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/lecture09/</guid>
+      <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  December 4, 2007 - Hour 17 and 18&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Declarative Goals and Planning in BDI Programming Systems&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Dr. Sebastian Sardina&lt;/p&gt;
+&lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
+&lt;p&gt;Please find them 
+&lt;a href=&#34;slides/lect09-handout_jackbdi.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sebastian Sardina, Lavindra de Silva, Lin Padgham: Hierarchical planning in BDI agent programming languages: a formal approach. AAMAS 2006: 1001-1008.&lt;/li&gt;
+&lt;li&gt;Dana S. Nau, Tsz-Chiu Au, Okhtay Ilghami, Ugur Kuter, J. William Murdock, Dan Wu, Fusun Yaman: SHOP2: An HTN Planning System. J. Artif. Intell. Res. (JAIR) 20: 379-404 (2003).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Paolo Busetta, Ralph Ronnquist, Andrew Hodgson, and Andrew Lucas. 
+&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.30.6936&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JACK Intelligent Agents Components for Intelligent Agents in Java&lt;/a&gt;, 1999.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.agent-software.com.au/shared/products/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JACK web page.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://jason.sourceforge.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason web page.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://vsis-www.informatik.uni-hamburg.de/projects/jadex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jadex web page.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cs.uu.nl/3apl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3APL web page.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.ai.sri.com/~spark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARK web page.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
