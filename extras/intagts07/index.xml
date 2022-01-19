@@ -498,6 +498,31 @@ Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA.&lt;
     </item>
     
     <item>
+      <title>Lecture 7 - Models of BDI Agent Programming</title>
+      <link>https://ssardina.github.io/extras/intagts07/lecture07/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/lecture07/</guid>
+      <description>&lt;h2 id=&#34;general-info&#34;&gt;General Info&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  November 27, 2007 - Hour 13 and 14&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Models of BDI Agent Programming&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Dr. Sebastian Sardina&lt;/p&gt;
+&lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
+&lt;p&gt;Please find them 
+&lt;a href=&#34;slides/lect07-handout_bdi-programming.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A. S. Rao. AgentSpeak(L): BDI agents speak out in a logical computable language. In Proceedings of the Seventh European Workshop on Modelling Autonomous Agents in a Multi-Agent World, volume 1038 of LNCS, pages 4255. 1996. (Sections 1-2).&lt;/li&gt;
+&lt;li&gt;M. Winikoff, L. Padgham, J. Harland, and J. Thangarajah. Declarative &amp;amp; Procedural Goals in Intelligent Agent Systems. In Proceedings of the Eighth International Conference on Principles and Knowledge Representation and Reasoning, pages 470481. 2002. (Sections 1-3).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Koen V. Hindriks, Frank S. de Boer, Wiebe van der Hoek, John-Jules Ch. Meyer: Agent Programming in 3APL. Autonomous Agents and Multi-Agent Systems 2(4): 357-401 (1999).&lt;/li&gt;
+&lt;li&gt;Frank S. de Boer, Koen V. Hindriks, Wiebe van der Hoek, John-Jules Ch. Meyer: A verification framework for agent programming with declarative goals. J. Applied Logic 5(2): 277-302 (2007).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lecture 8 - Declarative Goals and Planning in BDI Programming Systems</title>
       <link>https://ssardina.github.io/extras/intagts07/lecture08/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
@@ -508,7 +533,7 @@ Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA.&lt;
 &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Dr. Sebastian Sardina&lt;/p&gt;
 &lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
 &lt;p&gt;Please find them 
-&lt;a href=&#34;slides/lect07-handout_bdi-programming.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../slides/lect08-handout_decgoals-and-planning.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Sebastian Sardina, Lavindra de Silva, Lin Padgham: Hierarchical planning in BDI agent programming languages: a formal approach. AAMAS 2006: 1001-1008.&lt;/li&gt;
@@ -536,7 +561,7 @@ Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA.&lt;
 &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Dr. Sebastian Sardina&lt;/p&gt;
 &lt;h2 id=&#34;lecture-transparencies&#34;&gt;Lecture transparencies&lt;/h2&gt;
 &lt;p&gt;Please find them 
-&lt;a href=&#34;slides/lect09-handout_jackbdi.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../slides/lect09-handout_jackbdi.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;required-readings&#34;&gt;Required readings&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Sebastian Sardina, Lavindra de Silva, Lin Padgham: Hierarchical planning in BDI agent programming languages: a formal approach. AAMAS 2006: 1001-1008.&lt;/li&gt;
