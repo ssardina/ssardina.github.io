@@ -551,42 +551,35 @@ simulator and a few agent system controllers.&lt;/li&gt;
       <link>https://ssardina.github.io/extras/resources/videos/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
       <guid>https://ssardina.github.io/extras/resources/videos/</guid>
-      <description>
+      <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/MCjuaQAZG44&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MCjuaQAZG44&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;More ethics is &amp;#34;the&amp;#34; solution? Really?&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;general-cs--ai&#34;&gt;General CS &amp;amp; AI&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://youtu.be/MCjuaQAZG44&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More ethics is &amp;ldquo;the&amp;rdquo; solution? Really?&lt;/a&gt; - Prof. Moshe Vardi&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://youtu.be/MCjuaQAZG44&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More ethics is &amp;ldquo;the&amp;rdquo; solution? Really?&lt;/a&gt; - Prof. Moshe Vardi&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.youtube.com/watch?v=2EaopRDxNrw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What programming language I should learn?&lt;/a&gt; - Great, fun, and informative video on various programming languages and &amp;ldquo;which one&amp;rdquo; to learn.&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=2EaopRDxNrw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What programming language I should learn?&lt;/a&gt; - Great, fun, and informative video on various programming languages and &amp;ldquo;which one&amp;rdquo; to learn.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;ai&#34;&gt;AI&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.youtube.com/watch?v=p9cpU_MRrEA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From the Turing test and the summation room to the Winograd challenge&lt;/a&gt; - Prof Hector Levesque&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=p9cpU_MRrEA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From the Turing test and the summation room to the Winograd challenge&lt;/a&gt; - Prof Hector Levesque&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://youtu.be/ps0NSRFEAE4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Making Room for Machines: Getting Ready for AGI&lt;/a&gt; - Panel discussion on General AI&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://youtu.be/ps0NSRFEAE4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Making Room for Machines: Getting Ready for AGI&lt;/a&gt; - Panel discussion on General AI&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://youtu.be/g3lc8BxTPiU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model-free, Model-based, and General Intelligence&lt;/a&gt; - IJCAI&#39;18 - Prof. Hector Geffner&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://youtu.be/g3lc8BxTPiU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model-free, Model-based, and General Intelligence&lt;/a&gt; - IJCAI&#39;18 - Prof. Hector Geffner&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://youtu.be/myp_j6F4NvE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;True dialogue needs knowledge beyond stats&lt;/a&gt; - Prof. Phil Cohen&lt;/p&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://youtu.be/myp_j6F4NvE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;True dialogue needs knowledge beyond stats&lt;/a&gt; - Prof. Phil Cohen&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;education-research-academia&#34;&gt;Education, Research, Academia&lt;/h1&gt;
+&lt;h2 id=&#34;education-research-academia&#34;&gt;Education, Research, Academia&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://youtu.be/bzaMyYqJ030]&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The importance of an all rounded CS education for AI students&lt;/a&gt; - Prof. Adnan Darwich&lt;/li&gt;
@@ -597,7 +590,7 @@ simulator and a few agent system controllers.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://youtu.be/VK51E3gHENc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Write Research Articles in Computing and Engineering Disciplines&lt;/a&gt; - By Ivan Stojmenovic&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;others&#34;&gt;Others&lt;/h1&gt;
+&lt;h2 id=&#34;others&#34;&gt;Others&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=MrqqD_Tsy4Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our Story In 2 Minutes&lt;/a&gt;&lt;/li&gt;
