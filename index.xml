@@ -13,6 +13,35 @@
     </image>
     
     <item>
+      <title>AOS&#39;17 Material</title>
+      <link>https://ssardina.github.io/extras/aos/2017/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/extras/aos/2017/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 26 &amp;amp; 27, 2017  at AOS (
+&lt;a href=&#34;http://aosgrp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://aosgrp.com/&lt;/a&gt;)&lt;/p&gt;
+&lt;h1 id=&#34;day-1---october-26&#34;&gt;Day 1 - October 26&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AM:&lt;/strong&gt; Agent fundamentals, motivation, background/history, theoretical foundation of practical reasoning. 
+&lt;a href=&#34;../2017/AOScourse17-part01-practreason.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PM:&lt;/strong&gt; BDI programming and architecture. 
+&lt;a href=&#34;../2017/AOScourse17-part02-BDI_programming.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;day-2---october-27&#34;&gt;DAY 2 - October 27&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AM:&lt;/strong&gt; BDI programming in JACK; BDI Agent-oriented software engineering (Prometheus). 
+&lt;a href=&#34;../2017/AOScourse17-part03-BDI_design.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PM:&lt;/strong&gt; 
+&lt;a href=&#34;http://www.aosgrp.com/documentation/jack/practicals/jack_jde/html/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JACK Practicals&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;elevator-project&#34;&gt;Elevator project:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simulator (our much extended and improved version) and 
+&lt;a href=&#34;https://github.com/ssardina-agts/elevator-sarl-base&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL Agent controllers&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Latex Info</title>
       <link>https://ssardina.github.io/extras/resources/latex/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
@@ -944,6 +973,55 @@ More ethics is &amp;ldquo;the&amp;rdquo; solution? Really?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=MrqqD_Tsy4Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our Story In 2 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AOS&#39;19 Material</title>
+      <link>https://ssardina.github.io/extras/aos/2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/extras/aos/2019/</guid>
+      <description>&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;  January 15 &amp;amp; 17, 2019 at AOS (
+&lt;a href=&#34;http://aosgrp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://aosgrp.com/&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;day-1---january-15&#34;&gt;Day 1 - January 15&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AM:&lt;/strong&gt; Agent fundamentals: motivation, background, concepts, terminology, IRMA architecture for practical reasoning. 
+&lt;a href=&#34;../2019/AOScourse19-part01-practreason-FINAL.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PM:&lt;/strong&gt; BDI programming and architecture; JACK agent programming language. 
+&lt;a href=&#34;../2019/AOScourse19-part02-BDI_programming-FINAL.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;day-2---january-17&#34;&gt;DAY 2 - January 17&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AM:&lt;/strong&gt; BDI Agent-oriented software engineering via TDF. Demo (Rick).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PM:&lt;/strong&gt; Agents in City domain: discussion and brainstorming on designing a BDI system for the domain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-related-resources&#34;&gt;Other related resources:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.aosgrp.com/documentation/jack/Agent_Manual_WEB/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JACK Manual and JACK Practicals&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://tdfagents.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tactics Development Framework (TDF) Design Tool&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://multiagentcontest.org/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agents in City&lt;/a&gt; domain from International Multi-agent Contest:
+&lt;ul&gt;
+&lt;li&gt;2017 Github release: 
+&lt;a href=&#34;https://github.com/agentcontest/massim/tree/massim-2017-1.7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/agentcontest/massim/tree/massim-2017-1.7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017 Scenario description: 
+&lt;a href=&#34;https://github.com/agentcontest/massim/blob/massim-2017-1.7/docs/scenario.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/agentcontest/massim/blob/massim-2017-1.7/docs/scenario.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SARL + SWI based implementation:
+&lt;ul&gt;
+&lt;li&gt;SARL Agents in City 2017 middleware: 
+&lt;a href=&#34;https://github.com/ssardina-agts/agtcity-sarl-mw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ssardina-agts/agtcity-sarl-mw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Base 2017 template system: 
+&lt;a href=&#34;https://github.com/ssardina-agts/sarl-agtcity-base&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ssardina-agts/sarl-agtcity-base&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ssardina-agts/sarl-prolog-cap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL-PROLOG-CAP&lt;/a&gt; capability/skill: provides Prolog capability to SARL agents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
