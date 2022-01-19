@@ -509,13 +509,19 @@ a few others I cannot remember, sorry!
 &lt;a href=&#34;https://github.com/ssardina-teaching/git-hw-submissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Submission Management Support Scripts&lt;/a&gt; - Various tools to manage student submissions via git.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;logic-programming&#34;&gt;Logic Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jpl7.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JPL&lt;/a&gt;: bio-directional interface Java-Prolog. (Contributor).&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;planning--synthesis&#34;&gt;Planning &amp;amp; Synthesis&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://github.com/ssardina-planning/p4-simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;P4-Simulator&lt;/a&gt; - Python Path Planning Project - A path planning simulator using movingai benchmarks (
 &lt;a href=&#34;http://movingai.com/benchmarks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://movingai.com/benchmarks/&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://github.com/ssardina-planning/apparate-simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APPARATE&lt;/a&gt; is an application package to code, simulate, and visualise various path planning algorithms, such as A*, Real-time A* or incremental path planners like D* or Moving Target.&lt;/li&gt;
+&lt;a href=&#34;https://github.com/ssardina-planning/apparate-simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APPARATE &amp;amp; JPATHPLAN&lt;/a&gt; is an application package to code, simulate, and visualise various path planning algorithms, such as A*, Real-time A* or incremental path planners like D* or Moving Target. Check 
+&lt;a href=&#34;https://www.youtube.com/watch?v=UDjp0jNFjIY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://github.com/ssardina-planning/nugat-0.6.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NuGAT v0.6.0&lt;/a&gt; - This is the upgraded version of NuGAT game solver (
 &lt;a href=&#34;https://es.fbk.eu/technologies/nugat-game-solver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://es.fbk.eu/technologies/nugat-game-solver&lt;/a&gt;) for compatibility with next generation v2.6.0 of NuSMV. Developed as part of Lorenzo Lorenzo Dibenedetto Master Thesis.&lt;/li&gt;
@@ -524,7 +530,7 @@ a few others I cannot remember, sorry!
 &lt;a href=&#34;https://es.fbk.eu/technologies/nugat-game-solver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://es.fbk.eu/technologies/nugat-game-solver&lt;/a&gt;) extended to deal with coalition of agents. Developed as part of Lorenzo Lorenzo Dibenedetto Master Thesis.
 simulator and a few agent system controllers.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://github.com/ssardina-planning/allegro-composition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALLEGRO Composer&lt;/a&gt; - A system for solving and benchmarking Behavior Composition problems (developed as part of Nitin Yadav&amp;rsquo;s Master Program)&lt;/li&gt;
+&lt;a href=&#34;https://github.com/ssardina-planning/allegro-composition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALLEGRO Composer&lt;/a&gt; - A system for solving and benchmarking Behavior Composition problems (developed as part of Nitin Yadav&amp;rsquo;s Master Program).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;agent-programming&#34;&gt;Agent Programming&lt;/h2&gt;
 &lt;ul&gt;
@@ -534,21 +540,26 @@ simulator and a few agent system controllers.&lt;/li&gt;
 &lt;a href=&#34;https://github.com/ssardina-agts/elevator-simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elevator Simulator and Controllers&lt;/a&gt; - An elevator&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://github.com/ssardina-agts/agtcity-server&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMIT Agents in City Server&lt;/a&gt;: a modified and extended server for Agents in City game.&lt;/li&gt;
+&lt;li&gt;RMIT BDI-Learning Agent Kit (BLAK). This is the experimental plataform used in our AAMAS&#39;10, JRA&#39;10, and IJCAI&#39;11 papers on Learning in BDI systems. It uses Weka and JACK agent system libraries (as jar files) . Get whole package used 
+&lt;a href=&#34;../systems/blak.tgz&#34;&gt;here&lt;/a&gt; and latest Git repo 
+&lt;a href=&#34;https://github.com/ssardina-agts/BLAK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;sarl&#34;&gt;SARL&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://github.com/ssardina-agts/sarl-prolog-cap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL Prolog Capacity &amp;amp; Skill&lt;/a&gt;: skill to connect SARL agents with SWI-Prolog.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://github.com/ssardina-agts/elevator-sarl-base&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL Base Controllers for Elevator Simulator&lt;/a&gt;.&lt;/li&gt;
+&lt;a href=&#34;https://github.com/ssardina-agts/elevator-sarl-base&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL Base Controllers for Elevator Simulator&lt;/a&gt;. Video 
+&lt;a href=&#34;https://www.youtube.com/watch?v=rl7YRjPi5pc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://github.com/ssardina-agts/agtcity-sarl-base&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL Base Controllers for Agents in City&lt;/a&gt;.&lt;/li&gt;
+&lt;a href=&#34;https://github.com/ssardina-agts/agtcity-sarl-base&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARL Base Controllers for Agents in City&lt;/a&gt;. Video 
+&lt;a href=&#34;https://www.youtube.com/watch?v=W6lp0Hkpq1Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;logic-programming&#34;&gt;Logic Programming&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://jpl7.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JPL&lt;/a&gt;: bio-directional interface Java-Prolog. (Contributor).&lt;/li&gt;
-&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/W6lp0Hkpq1Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -937,14 +948,6 @@ simulator and a few agent system controllers.&lt;/li&gt;
 &lt;p&gt;Check Rusell &amp;amp; Norving 
 &lt;a href=&#34;http://aima.cs.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modern AI&lt;/a&gt; book to have an idea of typical topics covered in an AI intro course.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ssardina.github.io/extras/resources/student-projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/extras/resources/student-projects/</guid>
-      <description></description>
     </item>
     
   </channel>
