@@ -180,17 +180,12 @@ more text
 &lt;li&gt;
 &lt;a href=&#34;http://matt.might.net/articles/by-example-continuation-passing-style/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Continuation-passing style&lt;/a&gt; - A short description of a style of programming for non-blocking (usually distributed) systems.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;it&#34;&gt;IT&lt;/h2&gt;
+&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://choosealicense.com/licenses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Various Opensource Software Licenses&lt;/a&gt; - Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software.&lt;/li&gt;
+&lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown Cheatsheet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://stackoverflow.com/questions/4475319/how-to-rebrand-copyright-a-forked-project-gnu-gpl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to rebrand/copyright a forked project (GNU/GPL)?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://software-carpentry.org/lessons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Software carpentry Lessons&lt;/a&gt; - An intensive introduction to basic software development practices for scientists and engineers.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.pluralsight.com/blog/security-professional/modern-password-guidelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Best practices for passwords&lt;/a&gt; - By Richard Harpur&lt;/li&gt;
-&lt;li&gt;[Markdown Cheatsheet(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)&lt;/li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/67519642/youtube-video-size-in-markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;youtube video size in markdown&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;git-version-control&#34;&gt;GIT Version Control&lt;/h2&gt;
 &lt;ul&gt;
@@ -207,6 +202,17 @@ more text
 &lt;a href=&#34;https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git merge strategies&lt;/a&gt; - Pull Request Merge Strategies: The Great Debate&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://nvie.com/posts/a-successful-git-branching-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A successful Git branching model&lt;/a&gt; - Great article on using git seriously!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;general-it--se&#34;&gt;General IT &amp;amp; SE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://choosealicense.com/licenses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Various Opensource Software Licenses&lt;/a&gt; - Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://stackoverflow.com/questions/4475319/how-to-rebrand-copyright-a-forked-project-gnu-gpl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to rebrand/copyright a forked project (GNU/GPL)?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://software-carpentry.org/lessons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Software carpentry Lessons&lt;/a&gt; - An intensive introduction to basic software development practices for scientists and engineers.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.pluralsight.com/blog/security-professional/modern-password-guidelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Best practices for passwords&lt;/a&gt; - By Richard Harpur&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -556,11 +562,11 @@ simulator and a few agent system controllers.&lt;/li&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/MCjuaQAZG44&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
  --&gt;
-
+&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/MCjuaQAZG44&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;More ethics is &amp;#34;the&amp;#34; solution? Really?&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
+ --&gt;
 &lt;h2 id=&#34;general-cs--ai&#34;&gt;General CS &amp;amp; AI&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
