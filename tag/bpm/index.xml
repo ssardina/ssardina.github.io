@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BPM | Prof. Sebastian Sardina</title>
+    <link>https://ssardina.github.io/tag/bpm/</link>
+      <atom:link href="https://ssardina.github.io/tag/bpm/index.xml" rel="self" type="application/rss+xml" />
+    <description>BPM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>BPM</title>
+      <link>https://ssardina.github.io/tag/bpm/</link>
+    </image>
+    
+    <item>
+      <title>Business Processes &amp; AI</title>
+      <link>https://ssardina.github.io/project/bpm/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/project/bpm/</guid>
+      <description>&lt;p&gt;In this area we combine AI and Business Processes processes together.&lt;/p&gt;
+&lt;p&gt;One line of work involves using AI planning and agent-oriented systems to obtain more powerful BPM frameworks, for example, by enhancing dynamic adaptation or performing conformance checking.&lt;/p&gt;
+&lt;p&gt;Another line of work involves using BPM models and techniques for cost-based goal recognition, which allows us to perform intention recognition without a plan library or PDDL models.&lt;/p&gt;
+&lt;p&gt;Some representative papers are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artem Polyvyanyy, Zihang Su, Nir Lipovetzky, Sebastian Sardiña:
+Goal Recognition Using Off-The-Shelf Process Mining Techniques. AAMAS 2020: 1072-1080&lt;/li&gt;
+&lt;li&gt;Andrea Marella, Massimo Mecella, and Sebastian Sardina. Intelligent process adaptation in the SmartPM system. ACM Transactions on Intelligent Systems and Technology (ACM TIST) 8(2): 25:1-25:43 (2017).&lt;/li&gt;
+&lt;li&gt;Giuseppe De Giacomo, Fabrizio Maria Maggi, Andrea Marrella, Sebastian Sardiña: Computing Trace Alignment against Declarative Process Models through Planning. ICAPS 2016: 367-375.&lt;/li&gt;
+&lt;li&gt;Andrea Marrella, Massimo Mecella, and Sebastian Sardina. SmartPM: An adaptive process management system through situation calculus, indigolog, and classical planning. In Chitta Baral and Giuseppe De Giacomo, editors, Proceedings of Principles of Knowledge Representation and Reasoning (KR), pages 518-527, Vienna, Austria, 2014.&lt;/li&gt;
+&lt;li&gt;Giuseppe De Giacomo, Fabrizio Maria Maggi, Andrea Marrella, and Sebastian Sardina. Computing trace alignment against declarative process models through planning. In Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS), pages 367&amp;ndash;375, 2016.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
