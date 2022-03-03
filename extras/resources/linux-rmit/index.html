@@ -792,6 +792,10 @@
     <li><a href="#accessing-rmit-resources-eg-articles-from-subscribers-etc-from-outside">Accessing RMIT resources (e.g., articles from subscribers, etc.) from outside</a></li>
     <li><a href="#mounting-rmit-home-drive">Mounting RMIT home drive</a></li>
   </ul>
+
+  <ul>
+    <li><a href="#end---if-you-have-useful-information-on-using-linux--rmit-please-forward-it-to-me-and-i-can-add-it-here-for-others--">END - If you have useful information on using Linux @ RMIT please forward it to me and I can add it here for others. :-)</a></li>
+  </ul>
 </nav>
 
       
@@ -957,7 +961,7 @@ ProxyCommand /usr/bin/proxytunnel -p aproxy.rmit.edu.au:8080 -P &lt;your NDS acc
 <h2 id="ssh-into-an-rmit-machine-from-outside">SSH into an RMIT machine from outside</h2>
 <p>Suppose now you want to ssh into an internal machine X within RMIT network from outside (e.g., your home). The manual way is to first ssh into an internal server in RMIT that is exposed to the outside world, and then ssh to the specific machine X.</p>
 <p>You can do that all in one shot by adding the following to <code>~/.ssh/config</code>:</p>
-<pre><code>Host myrmit-desktop
+<pre><code class="language-quote">Host myrmit-desktop
 Hostname &lt;IP of the machine to ssh into&gt;
 User &lt;username&gt;
 Ciphers arcfour
@@ -967,11 +971,11 @@ ProxyCommand ssh &lt;username-at-goanna&gt;@goanna.cs.rmit.edu.au nc %h %p
 <p>Here, <code>goanna.cs.rmit.edu.au</code> is the server inside RMIT that is exposed to the outside (and that you have access to, of course). Now, you can just run &ldquo;<code>ssh myrmit-desktop</code>&rdquo; and it should work! If you don&rsquo;t have an account in <code>goanna</code> you can achieve the same thing with <code>yallara</code>.</p>
 <h2 id="accessing-rmit-resources-eg-articles-from-subscribers-etc-from-outside">Accessing RMIT resources (e.g., articles from subscribers, etc.) from outside</h2>
 <p>First, if you are trying to get an article as if you were inside RMIT network, just access access it via the proxy by prefixing the URL with this Proxy link:</p>
-<p>
-<a href="https://login.ezproxy.lib.rmit.edu.au/login?url=" target="_blank" rel="noopener">https://login.ezproxy.lib.rmit.edu.au/login?url=</a><YOUR ORIGINAL LINK></p>
+<pre><code>https://login.ezproxy.lib.rmit.edu.au/login?url=&lt;YOUR ORIGINAL LINK&gt;
+</code></pre>
 <p>So, suppose you want to access this paper from off campus:</p>
-<p>
-<a href="https://ieeexplore.ieee.org/document/8468047/" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/8468047/</a></p>
+<pre><code>https://ieeexplore.ieee.org/document/8468047/
+</code></pre>
 <p>Then you would visit</p>
 <p>
 <a href="https://login.ezproxy.lib.rmit.edu.au/login?url=https://ieeexplore.ieee.org/document/8468047/" target="_blank" rel="noopener">https://login.ezproxy.lib.rmit.edu.au/login?url=https://ieeexplore.ieee.org/document/8468047/</a></p>
@@ -1037,9 +1041,9 @@ Pyarelal Knowles
 Ali Yavari
 Binsheng Liu
 other anonymous contributors
-a few others I cannot remember, sorry!
 </code></pre>
-<p>END - If you have useful information on using Linux @ RMIT please forward it to me and I can add it here for others. :-)</p>
+<p>and a few others I cannot remember, sorry!</p>
+<h2 id="end---if-you-have-useful-information-on-using-linux--rmit-please-forward-it-to-me-and-i-can-add-it-here-for-others--">END - If you have useful information on using Linux @ RMIT please forward it to me and I can add it here for others. :-)</h2>
 
           </div>
 

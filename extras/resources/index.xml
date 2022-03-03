@@ -183,9 +183,18 @@ more text
 &lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;a href=&#34;https://www.markdownguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everything you need to learn Markdown.&lt;/a&gt;: excellent; has everything!&lt;/li&gt;
+&lt;li&gt;
 &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown Cheatsheet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://stackoverflow.com/questions/67519642/youtube-video-size-in-markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;youtube video size in markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Editors:
+&lt;ul&gt;
+&lt;li&gt;Online: 
+&lt;a href=&#34;https://dillinger.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dillinger.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;git-version-control&#34;&gt;GIT Version Control&lt;/h2&gt;
 &lt;ul&gt;
@@ -202,6 +211,13 @@ more text
 &lt;a href=&#34;https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git merge strategies&lt;/a&gt; - Pull Request Merge Strategies: The Great Debate&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://nvie.com/posts/a-successful-git-branching-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A successful Git branching model&lt;/a&gt; - Great article on using git seriously!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;latex&#34;&gt;Latex&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=fCzF5gDy60g&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTex Tutorial for Beginners Full Course&lt;/a&gt;: a full course on Latex from zero!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://latex-tutorial.com/tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A simple guide to LaTeX – Step by Step&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;general-it--se&#34;&gt;General IT &amp;amp; SE&lt;/h2&gt;
 &lt;ul&gt;
@@ -373,7 +389,7 @@ ProxyCommand /usr/bin/proxytunnel -p aproxy.rmit.edu.au:8080 -P &amp;lt;your NDS
 &lt;h2 id=&#34;ssh-into-an-rmit-machine-from-outside&#34;&gt;SSH into an RMIT machine from outside&lt;/h2&gt;
 &lt;p&gt;Suppose now you want to ssh into an internal machine X within RMIT network from outside (e.g., your home). The manual way is to first ssh into an internal server in RMIT that is exposed to the outside world, and then ssh to the specific machine X.&lt;/p&gt;
 &lt;p&gt;You can do that all in one shot by adding the following to &lt;code&gt;~/.ssh/config&lt;/code&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Host myrmit-desktop
+&lt;pre&gt;&lt;code class=&#34;language-quote&#34;&gt;Host myrmit-desktop
 Hostname &amp;lt;IP of the machine to ssh into&amp;gt;
 User &amp;lt;username&amp;gt;
 Ciphers arcfour
@@ -383,11 +399,11 @@ ProxyCommand ssh &amp;lt;username-at-goanna&amp;gt;@goanna.cs.rmit.edu.au nc %h 
 &lt;p&gt;Here, &lt;code&gt;goanna.cs.rmit.edu.au&lt;/code&gt; is the server inside RMIT that is exposed to the outside (and that you have access to, of course). Now, you can just run &amp;ldquo;&lt;code&gt;ssh myrmit-desktop&lt;/code&gt;&amp;rdquo; and it should work! If you don&amp;rsquo;t have an account in &lt;code&gt;goanna&lt;/code&gt; you can achieve the same thing with &lt;code&gt;yallara&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;accessing-rmit-resources-eg-articles-from-subscribers-etc-from-outside&#34;&gt;Accessing RMIT resources (e.g., articles from subscribers, etc.) from outside&lt;/h2&gt;
 &lt;p&gt;First, if you are trying to get an article as if you were inside RMIT network, just access access it via the proxy by prefixing the URL with this Proxy link:&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://login.ezproxy.lib.rmit.edu.au/login?url=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://login.ezproxy.lib.rmit.edu.au/login?url=&lt;/a&gt;&lt;YOUR ORIGINAL LINK&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;https://login.ezproxy.lib.rmit.edu.au/login?url=&amp;lt;YOUR ORIGINAL LINK&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;So, suppose you want to access this paper from off campus:&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://ieeexplore.ieee.org/document/8468047/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/document/8468047/&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;https://ieeexplore.ieee.org/document/8468047/
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Then you would visit&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://login.ezproxy.lib.rmit.edu.au/login?url=https://ieeexplore.ieee.org/document/8468047/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://login.ezproxy.lib.rmit.edu.au/login?url=https://ieeexplore.ieee.org/document/8468047/&lt;/a&gt;&lt;/p&gt;
@@ -453,9 +469,9 @@ Pyarelal Knowles
 Ali Yavari
 Binsheng Liu
 other anonymous contributors
-a few others I cannot remember, sorry!
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;END - If you have useful information on using Linux @ RMIT please forward it to me and I can add it here for others. :-)&lt;/p&gt;
+&lt;p&gt;and a few others I cannot remember, sorry!&lt;/p&gt;
+&lt;h2 id=&#34;end---if-you-have-useful-information-on-using-linux--rmit-please-forward-it-to-me-and-i-can-add-it-here-for-others--&#34;&gt;END - If you have useful information on using Linux @ RMIT please forward it to me and I can add it here for others. :-)&lt;/h2&gt;
 </description>
     </item>
     
