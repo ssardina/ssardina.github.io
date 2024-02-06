@@ -5,7 +5,7 @@
     <link>https://ssardina.github.io/extras/intagts07/</link>
       <atom:link href="https://ssardina.github.io/extras/intagts07/index.xml" rel="self" type="application/rss+xml" />
     <description>Autonomous Agents and Multiagent Systems - ROME, Italy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Autonomous Agents and Multiagent Systems - ROME, Italy</title>
@@ -206,7 +206,7 @@
 &lt;p&gt;[LinRei94] F. Lin and R. Reiter. State Constraints Revisited. J_ournal of Logic and Computation,_ &lt;strong&gt;4&lt;/strong&gt;(5):655-678, Special Issue on Action and Processes, 1994.&lt;/p&gt;
 &lt;p&gt;[LiuLev05] Yongmei Liu, Hector J. Levesque: Tractable Reasoning with Incomplete First-Order Knowledge in Dynamic Systems with Context-Dependent Actions. &lt;em&gt;Proc. IJCAI 2005&lt;/em&gt;, 522-527.&lt;/p&gt;
 &lt;p&gt;[McCarthy63] McCarthy, John. &lt;em&gt;Situations, Actions, and Causal Laws,&lt;/em&gt; Technical Report, Stanford University, 1963; reprinted in Semantic Information Processing, Minsky, M. (ed.), 410-417, MIT Press, Cambridge, MA, 1968.&lt;/p&gt;
-&lt;p&gt;[MciSch00] McIlraith, S. and Scherl, R. ``What Sensing Tells Us: Towards a Formal Theory of Testing for Dynamical Systems&amp;rsquo;&#39;, &lt;em&gt;Proc. of the Seventeenth National Conference on Artificial Intelligence (AAAI&#39;2000),&lt;/em&gt; 483-490, August, 2000.&lt;/p&gt;
+&lt;p&gt;[MciSch00] McIlraith, S. and Scherl, R. ``What Sensing Tells Us: Towards a Formal Theory of Testing for Dynamical Systems&amp;rsquo;&amp;rsquo;, &lt;em&gt;Proc. of the Seventeenth National Conference on Artificial Intelligence (AAAI&#39;2000),&lt;/em&gt; 483-490, August, 2000.&lt;/p&gt;
 &lt;p&gt;[MarLes04a] E. Martinez and Y. Lesp�rance. IG-JADE-PKSlib: An Agent-Based Framework for Advanced Web Service Composition and Provisioning. In &lt;em&gt;Proc. of the AAMAS 2004 Workshop on Web-services and Agent-based Engineering&lt;/em&gt;, 2-10, New York, NY, USA, July, 2004.&lt;/p&gt;
 &lt;p&gt;[MarLes04b] E. Martinez and Y. Lesp�rance. Web Service Composition as a Planning Task: Experiments using Knowledge-Based Planning. In &lt;em&gt;Proc. of the ICAPS-2004 Workshop on Planning and Scheduling for Web and Grid Services&lt;/em&gt;, 62-69, Whistler, BC, June, 2004.&lt;/p&gt;
 &lt;p&gt;[Nic+98] Nickerson, B., Jasiobedzki, P., Wilkes, D., Jenkin, M., Milios, E., Tsotsos, J., Jepson, A. and Bains, O.N.,  The ARK project: Autonomous Mobile Robots for Known Industrial Environments, &lt;em&gt;Robotics and Autonomous Systems&lt;/em&gt;, &lt;strong&gt;25&lt;/strong&gt;, 83-104, 1998.&lt;/p&gt;
@@ -254,8 +254,8 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Bratman, M. E. (1987). Intentions, Plans, and Practical Reason. Harvard University Press: Cambridge, MA. 
-Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA. 
+&lt;li&gt;Bratman, M. E. (1987). Intentions, Plans, and Practical Reason. Harvard University Press: Cambridge, MA.
+Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA.
 Cohen, P. R. and Levesque, H. J. (1990a). Intention is choice with commitment. Artificial Intelligence, 42:213-261.&lt;/li&gt;
 &lt;li&gt;Rao, A. S. and Georgeff, M. P. (1991b). Modeling rational agents within a BDI-architecture. In Fikes, R. and Sandewall, E., editors, Proceedings of Knowledge Representation and Reasoning (KR&amp;amp;R-91), pages 473-484. Morgan Kaufmann Publishers: San Mateo, CA.&lt;/li&gt;
 &lt;li&gt;Francois F. Ingrand , Michael P. Georgeff , Anand S. Rao, An architecture for Real-Time Reasoning and System Control, IEEE Expert: Intelligent Systems and Their Applications, v.7 n.6, p.34-44, December 1992.&lt;/li&gt;
@@ -355,29 +355,46 @@ Cohen, P. R. and Levesque, H. J. (1990a). Intention is choice with commitment. A
     </item>
     
     <item>
-      <title>Mirror Page</title>
+      <title></title>
       <link>https://ssardina.github.io/extras/intagts07/mirror/</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ssardina.github.io/extras/intagts07/mirror/</guid>
-      <description>&lt;h1 id=&#34;fall-2007&#34;&gt;PhD Course&lt;br&gt;
-Autonomous Agents and Multiagent Systems&lt;br&gt;
+      <description>&lt;h1 id=&#34;course-title-summary-and-position&#34;&gt;Course title, summary, and position.&lt;/h1&gt;
+&lt;p&gt;linktitle: Mirrored Page
+summary: Prof. Lesperance&amp;rsquo;s page of the course&lt;/p&gt;
+&lt;h1 id=&#34;page-metadata&#34;&gt;Page metadata.&lt;/h1&gt;
+&lt;p&gt;title: Mirror Page
+date: &amp;ldquo;2022-01-18T00:00:00Z&amp;rdquo;
+lastmod: &amp;ldquo;2022-01-18T00:00:00Z&amp;rdquo;
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.&lt;/p&gt;
+&lt;h1 id=&#34;add-menu-entry-to-sidebar&#34;&gt;Add menu entry to sidebar.&lt;/h1&gt;
+&lt;h1 id=&#34;--name-declare-this-menu-item-as-a-parent-with-id-name&#34;&gt;- name: Declare this menu item as a parent with ID &lt;code&gt;name&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;--weight-position-of-link-in-menu&#34;&gt;- weight: Position of link in menu.&lt;/h1&gt;
+&lt;h2 id=&#34;weight-1rm&#34;&gt;menu:
+spnz07:
+name: Overview
+weight: 1rm&lt;/h2&gt;
+&lt;h1 id=&#34;fall-2007&#34;&gt;PhD Course
+Autonomous Agents and Multiagent Systems
 Fall 2007&lt;/h1&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://www.dis.uniroma1.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dipartamento di Informatica e Sistemistica,&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.dis.uniroma1.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dipartamento di Informatica e Sistemistica,&lt;/a&gt;
 
 &lt;a href=&#34;http://www.uniroma1.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universita di Roma &amp;ldquo;La Sapienza&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;brief-description&#34;&gt;Brief Description&lt;/h3&gt;
 &lt;p&gt;One of the central concerns of Artificial Intelligence is the design and implementation of &lt;em&gt;intelligent/autonomous agents&lt;/em&gt; - active entities that perceive their environment, reason, plan and execute appropriate actions to achieve their goals (in service of their users), react to external changes, and have social abilities that allow them to communicate and interact with other agents and users. These may be robots or intelligent software agents that &amp;ldquo;live&amp;rdquo; on the Internet. Agent-based approaches are good for building &lt;em&gt;open systems&lt;/em&gt; where components can come and go, and work together in &lt;em&gt;flexible&lt;/em&gt; ways. This course focusses on agent programming languages (such as the situation calculus-based Golog and BDI programming languages such as AgentSpeak, 3APL, GOAL, CAN, and JACK). We also cover issues in agent architecture (such as reasoning about action and planning, how to balance reactivity and pro-activeness, etc.), logical models of agency, agent communication languages, multiagent coordination infrastructures and protocols, and applications of intelligent agents.&lt;/p&gt;
 &lt;h3 id=&#34;instructors&#34;&gt;Instructors&lt;/h3&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://www.cs.yorku.ca/%7Elesperan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Yves Lespérance&lt;/a&gt;&lt;br&gt;
-Office: B213&lt;br&gt;
-Tel: ext. 35012&lt;br&gt;
+&lt;a href=&#34;http://www.cs.yorku.ca/%7Elesperan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Yves Lespérance&lt;/a&gt;
+Office: B213
+Tel: ext. 35012
 Email: lesperan at cse.yorku.ca&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/~ssardina/home.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sebastian Sardina&lt;/a&gt;&lt;br&gt;
-Office: B213&lt;br&gt;
-Tel: 35012&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/~ssardina/home.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sebastian Sardina&lt;/a&gt;
+Office: B213
+Tel: 35012
 Email: ssardina at cs.rmit.edu.au&lt;/p&gt;
 &lt;h3 id=&#34;lectures&#34;&gt;Lectures&lt;/h3&gt;
 &lt;p&gt;Tuesday 17:30-19:00 and Thursday from 14:00 to 15:30 to in A3.&lt;/p&gt;
@@ -419,171 +436,171 @@ Email: ssardina at cs.rmit.edu.au&lt;/p&gt;
 &lt;h2 id=&#34;readings-and-lecture-transparencies&#34;&gt;Readings and Lecture Transparencies&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 1 (Hour 1 and Hour 2)(November 6): Introduction to Autonomous Agents and Multiagent Systems [Lespérance].&lt;br&gt;
+&lt;p&gt;Lecture 1 (Hour 1 and Hour 2)(November 6): Introduction to Autonomous Agents and Multiagent Systems [Lespérance].
 
-&lt;a href=&#34;slides/lecture1.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-Wooldridge M., &lt;em&gt;Introduction to Multiagent Systems,&lt;/em&gt; Chapter 1 to end of Section 1.2 and Chapter 2 to end of Section 2.5.&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;slides/lecture1.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+Wooldridge M., &lt;em&gt;Introduction to Multiagent Systems,&lt;/em&gt; Chapter 1 to end of Section 1.2 and Chapter 2 to end of Section 2.5.
+&lt;em&gt;Optional readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://citeseer.ist.psu.edu/rd/43480128%2C42160%2C1%2C0.25%2CDownload/http://coblitz.codeen.org:3125/citeseer.ist.psu.edu/cache/papers/cs/1262/http:zSzzSzwww.ai.sri.comzSzpubszSzpaperszSzBrat88-349:PlanszSzdocument.pdf/bratman88plans.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bratman, M.E., Israel, D.J., and Pollack, M.E. Plans and Resource-Bounded Practical Reasoning. &lt;em&gt;Computational Intelligence&lt;/em&gt; , &lt;strong&gt;4&lt;/strong&gt;, 349-355, 1988.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://citeseer.ist.psu.edu/rd/43480128%2C42160%2C1%2C0.25%2CDownload/http://coblitz.codeen.org:3125/citeseer.ist.psu.edu/cache/papers/cs/1262/http:zSzzSzwww.ai.sri.comzSzpubszSzpaperszSzBrat88-349:PlanszSzdocument.pdf/bratman88plans.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bratman, M.E., Israel, D.J., and Pollack, M.E. Plans and Resource-Bounded Practical Reasoning. &lt;em&gt;Computational Intelligence&lt;/em&gt; , &lt;strong&gt;4&lt;/strong&gt;, 349-355, 1988.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
 
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ICVS06.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Borzenko, O., Xu, W., Obsniuk, M., Chopra, A., Jasiobedzki, P., Jenkin, M., and Lespérance, Y.. Lights and Camera: Intelligently Controlled Multi-channel Pose Estimation System. In &lt;em&gt;Proc. of the IEEE International Conference on Vision Systems (ICVS&#39;06)&lt;/em&gt;, paper 42 (8 pages), New York, NY, January, 2006.&lt;/a&gt;&lt;br&gt;
-Cohen, P.R. and Levesque, H.J. Intention is Choice with Commitment, &lt;em&gt;Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;42&lt;/strong&gt; (2-3), 213-261, 1990.&lt;br&gt;
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ICVS06.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Borzenko, O., Xu, W., Obsniuk, M., Chopra, A., Jasiobedzki, P., Jenkin, M., and Lespérance, Y.. Lights and Camera: Intelligently Controlled Multi-channel Pose Estimation System. In &lt;em&gt;Proc. of the IEEE International Conference on Vision Systems (ICVS&#39;06)&lt;/em&gt;, paper 42 (8 pages), New York, NY, January, 2006.&lt;/a&gt;
+Cohen, P.R. and Levesque, H.J. Intention is Choice with Commitment, &lt;em&gt;Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;42&lt;/strong&gt; (2-3), 213-261, 1990.
 
-&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/Papers/DeLe99ray.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. De Giacomo and H.J. Levesque. An Incremental Interpreter for High-Level Programs with Sensing. In &lt;em&gt;Logical Foundation for Cognitive Agents: Contributions in Honor of Ray Reiter&lt;/em&gt;, Hector J. Levesque and Fiora Pirri, editors, pages 86-102, Springer 1999.&lt;/a&gt;&lt;br&gt;
-Dennett, D. &lt;em&gt;The Intentional Stance&lt;/em&gt;, MIT Press, Cambridge, MA, USA, 1987.&lt;br&gt;
-Lapouchnian, A. and Lespérance, Y.. Interfacing IndiGolog and OAA - A Toolkit for Advanced Multiagent Applications. &lt;em&gt;Applied Artificial Intelligence&lt;/em&gt; &lt;strong&gt;16&lt;/strong&gt;(9-10), 813-829, 2002.&lt;br&gt;
+&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/Papers/DeLe99ray.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. De Giacomo and H.J. Levesque. An Incremental Interpreter for High-Level Programs with Sensing. In &lt;em&gt;Logical Foundation for Cognitive Agents: Contributions in Honor of Ray Reiter&lt;/em&gt;, Hector J. Levesque and Fiora Pirri, editors, pages 86-102, Springer 1999.&lt;/a&gt;
+Dennett, D. &lt;em&gt;The Intentional Stance&lt;/em&gt;, MIT Press, Cambridge, MA, USA, 1987.
+Lapouchnian, A. and Lespérance, Y.. Interfacing IndiGolog and OAA - A Toolkit for Advanced Multiagent Applications. &lt;em&gt;Applied Artificial Intelligence&lt;/em&gt; &lt;strong&gt;16&lt;/strong&gt;(9-10), 813-829, 2002.
 
 &lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/Cogrobo00.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lespérance, Y. and Ng, H.-K. Integrating Planning into Reactive High-Level Robot Programs. In &lt;em&gt;Proceedings of the Second International Cognitive Robotics Workshop&lt;/em&gt;, 49-54, Berlin, Germany, August, 2000.&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 2 (Hour 3 and Hour 4)(November 8): Overview of Techniques and Tools for Developing Multiagent Systems [Lespérance].&lt;br&gt;
+&lt;p&gt;Lecture 2 (Hour 3 and Hour 4)(November 8): Overview of Techniques and Tools for Developing Multiagent Systems [Lespérance].
 
-&lt;a href=&#34;slides/lecture2.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-Wooldridge M., &lt;em&gt;Introduction to Multiagent Systems,&lt;/em&gt; Chapter 8 to end of Section 2.2 and Chapter 9 to end of Section 9.2.&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;slides/lecture2.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+Wooldridge M., &lt;em&gt;Introduction to Multiagent Systems,&lt;/em&gt; Chapter 8 to end of Section 2.2 and Chapter 9 to end of Section 9.2.
+&lt;em&gt;Optional readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://www3.interscience.wiley.com/cgi-bin/abstract/76504934/ABSTRACT?CRETRY=1&amp;amp;SRETRY=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bellifemine F., Poggi, A., and Rimassa, G. Developing Multi-Agent Systems with a FIPA-Compliant Agent Framework &lt;em&gt;Software: Practice and Experience&lt;/em&gt;, &lt;strong&gt;31&lt;/strong&gt; (2), 103-128, 2000.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://www3.interscience.wiley.com/cgi-bin/abstract/76504934/ABSTRACT?CRETRY=1&amp;amp;SRETRY=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bellifemine F., Poggi, A., and Rimassa, G. Developing Multi-Agent Systems with a FIPA-Compliant Agent Framework &lt;em&gt;Software: Practice and Experience&lt;/em&gt;, &lt;strong&gt;31&lt;/strong&gt; (2), 103-128, 2000.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
 
-&lt;a href=&#34;http://www.fipa.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FIPA home page&lt;/a&gt;.&lt;br&gt;
+&lt;a href=&#34;http://www.fipa.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FIPA home page&lt;/a&gt;.
 
-&lt;a href=&#34;http://jade.cselt.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JADE home page&lt;/a&gt;.&lt;br&gt;
+&lt;a href=&#34;http://jade.cselt.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JADE home page&lt;/a&gt;.
 
-&lt;a href=&#34;http://www.cs.yorku.ca/~erickm/ig-jade/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Martinez&amp;rsquo;s IndiGolog-JADE page&lt;/a&gt;.&lt;br&gt;
+&lt;a href=&#34;http://www.cs.yorku.ca/~erickm/ig-jade/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Martinez&amp;rsquo;s IndiGolog-JADE page&lt;/a&gt;.
 
-&lt;a href=&#34;http://www.ai.sri.com/~oaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAA home page&lt;/a&gt;.&lt;br&gt;
+&lt;a href=&#34;http://www.ai.sri.com/~oaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAA home page&lt;/a&gt;.
 
-&lt;a href=&#34;http://www.cs.yorku.ca/~alexei/ig-oaa/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IgOAAlib home page&lt;/a&gt;,&lt;br&gt;
-Cohen, P.R. and Levesque, H.J. Rational Interaction as the Basis for Communication. In &lt;em&gt;Intentions in Communication&lt;/em&gt;, P.R. Cohen, J. Morgan, and M.E. Pollack (eds.), 221-256, MIT Press, Cambridge MA, 1990.&lt;br&gt;
+&lt;a href=&#34;http://www.cs.yorku.ca/~alexei/ig-oaa/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IgOAAlib home page&lt;/a&gt;,
+Cohen, P.R. and Levesque, H.J. Rational Interaction as the Basis for Communication. In &lt;em&gt;Intentions in Communication&lt;/em&gt;, P.R. Cohen, J. Morgan, and M.E. Pollack (eds.), 221-256, MIT Press, Cambridge MA, 1990.
 Smith, R.G. The CONTRACT NET: A Formalism for the Control of Distributed Problem Solving. In &lt;em&gt;Proc. of the 5th Int. Joint Conf. on Artificial Intelligence (IJCAI-77),&lt;/em&gt; Cambridge, MA, 1977.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 3 (Hour 5 and Hour 6)(November 13): Reasoning About Action in the Situation Calculus [Lespérance].&lt;br&gt;
+&lt;p&gt;Lecture 3 (Hour 5 and Hour 6)(November 13): Reasoning About Action in the Situation Calculus [Lespérance].
 
-&lt;a href=&#34;slides/BLch14-15-4pp.pdf&#34;&gt;Lecture transparencies from Brachman &amp;amp; Levesque Ch. 14 &amp;amp; 15.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-Just read the lecture transparencies ahead of time.&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;slides/BLch14-15-4pp.pdf&#34;&gt;Lecture transparencies from Brachman &amp;amp; Levesque Ch. 14 &amp;amp; 15.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+Just read the lecture transparencies ahead of time.
+&lt;em&gt;Optional readings:&lt;/em&gt;
 Chapter 14 and Section 15.1 of 
-&lt;a href=&#34;http://books.elsevier.com/us//mk/us/subindex.asp?maintarget=&amp;amp;isbn=&amp;amp;country=United&amp;#43;States&amp;amp;srccode=&amp;amp;ref=&amp;amp;subcode=&amp;amp;head=&amp;amp;pdf=&amp;amp;basiccode=&amp;amp;txtSearch=&amp;amp;SearchField=&amp;amp;operator=&amp;amp;order=&amp;amp;community=mk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ronald J. Brachman and Hector J. Levesque, &lt;em&gt;Knowledge Representation and Reasoning,&lt;/em&gt; Elsevier/Morgan Kaufmann, 2004; copies can be obtained from the instructor.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
-McCarthy, J. and Hayes, P.J. Some Philosophical Problems from the Standpoint of Artificial Intelligence. In &lt;em&gt;Machine Intelligence 4&lt;/em&gt;, B. Meltzer and D. Michie (eds.), 463-502, Edinburgh Univ. Press, Edinburgh, 1969.&lt;br&gt;
+&lt;a href=&#34;http://books.elsevier.com/us//mk/us/subindex.asp?maintarget=&amp;amp;isbn=&amp;amp;country=United&amp;#43;States&amp;amp;srccode=&amp;amp;ref=&amp;amp;subcode=&amp;amp;head=&amp;amp;pdf=&amp;amp;basiccode=&amp;amp;txtSearch=&amp;amp;SearchField=&amp;amp;operator=&amp;amp;order=&amp;amp;community=mk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ronald J. Brachman and Hector J. Levesque, &lt;em&gt;Knowledge Representation and Reasoning,&lt;/em&gt; Elsevier/Morgan Kaufmann, 2004; copies can be obtained from the instructor.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
+McCarthy, J. and Hayes, P.J. Some Philosophical Problems from the Standpoint of Artificial Intelligence. In &lt;em&gt;Machine Intelligence 4&lt;/em&gt;, B. Meltzer and D. Michie (eds.), 463-502, Edinburgh Univ. Press, Edinburgh, 1969.
 Reiter, R., &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems,&lt;/em&gt; MIT Press, 2001. 
 &lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262182181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher,&lt;/a&gt; 
 &lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/kia/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book home page&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 4 (Hour 7 and Hour 8)(November 15): High-Level Programming in the Situation Calculus: Golog and ConGolog [Lespérance].&lt;br&gt;
+&lt;p&gt;Lecture 4 (Hour 7 and Hour 8)(November 15): High-Level Programming in the Situation Calculus: Golog and ConGolog [Lespérance].
 
-&lt;a href=&#34;slides/lecture4.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-Just read the lecture transparencies ahead of time.&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;slides/lecture4.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+Just read the lecture transparencies ahead of time.
+&lt;em&gt;Optional readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ConGologAIJ.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Giacomo, G., Lespérance, Y., and Levesque, H.J.. ConGolog, a concurrent programming language based on the situation calculus. &lt;em&gt;Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;121&lt;/strong&gt;, 109-169, 2000.&lt;/a&gt; (Sections 7 and 8, the appendix, and proofs can be skipped.)&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ConGologAIJ.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Giacomo, G., Lespérance, Y., and Levesque, H.J.. ConGolog, a concurrent programming language based on the situation calculus. &lt;em&gt;Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;121&lt;/strong&gt;, 109-169, 2000.&lt;/a&gt; (Sections 7 and 8, the appendix, and proofs can be skipped.)
+&lt;em&gt;References:&lt;/em&gt;
 Reiter, R., &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems,&lt;/em&gt; MIT Press, 2001. 
 &lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262182181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher,&lt;/a&gt; 
 &lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/kia/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book home page&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 5 (Hour 9 and Hour 10)(November 20): Sensing and Planning under Incomplete Information and Dynamic Evironments [Lespérance].&lt;br&gt;
+&lt;p&gt;Lecture 5 (Hour 9 and Hour 10)(November 20): Sensing and Planning under Incomplete Information and Dynamic Evironments [Lespérance].
 
-&lt;a href=&#34;slides/lecture5.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;slides/lecture5.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/AMAI04.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. De Giacomo, Y. Lespérance, H.J. Levesque, and S. Sardina. On the Semantics of Deliberation in IndiGolog - From Theory to Implementation. &lt;em&gt;Annals of Mathematics and Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;41&lt;/strong&gt;&lt;em&gt;(2-4)&lt;/em&gt;, 259-299, August, 2004.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/AMAI04.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. De Giacomo, Y. Lespérance, H.J. Levesque, and S. Sardina. On the Semantics of Deliberation in IndiGolog - From Theory to Implementation. &lt;em&gt;Annals of Mathematics and Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;41&lt;/strong&gt;&lt;em&gt;(2-4)&lt;/em&gt;, 259-299, August, 2004.&lt;/a&gt;
 
 &lt;a href=&#34;slides/lecture5refs.html&#34;&gt;References.&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 6 (Hour 11 and Hour 12)(November 22): Practical Reasoning [Sardina].&lt;br&gt;
+&lt;p&gt;Lecture 6 (Hour 11 and Hour 12)(November 22): Practical Reasoning [Sardina].
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/lect06-handouts-practical_reasoning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/lect06-handouts-practical_reasoning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/bratman88plans-IRMA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bratman, M. E., Israel, D. J., and Pollack, M. E. (1988). Plans and resource-bounded practical reasoning. Computational Intelligence, 4:349-355.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/bratman88plans-IRMA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bratman, M. E., Israel, D. J., and Pollack, M. E. (1988). Plans and resource-bounded practical reasoning. Computational Intelligence, 4:349-355.&lt;/a&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/ractive-reasoning-PRS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Georgeff, M. P. and Lansky, A. L. (1987). Reactive reasoning and planning. In Proceedings of the Sixth National Conference on Artificial Intelligence (AAAI-87), pages 677-682, Seattle, WA.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-Bratman, M. E. (1987). Intentions, Plans, and Practical Reason. Harvard University Press: Cambridge, MA.&lt;br&gt;
-Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA.&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/ractive-reasoning-PRS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Georgeff, M. P. and Lansky, A. L. (1987). Reactive reasoning and planning. In Proceedings of the Sixth National Conference on Artificial Intelligence (AAAI-87), pages 677-682, Seattle, WA.&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
+Bratman, M. E. (1987). Intentions, Plans, and Practical Reason. Harvard University Press: Cambridge, MA.
+Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA.
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/cohenlevesque-intention-aij90.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cohen, P. R. and Levesque, H. J. (1990a). Intention is choice with commitment. Artificial Intelligence, 42:213-261.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/cohenlevesque-intention-aij90.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cohen, P. R. and Levesque, H. J. (1990a). Intention is choice with commitment. Artificial Intelligence, 42:213-261.&lt;/a&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/rao-modelingBDI-kr91.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rao, A. S. and Georgeff, M. P. (1991b). Modeling rational agents within a BDI-architecture. In Fikes, R. and Sandewall, E., editors, Proceedings of Knowledge Representation and Reasoning (KR&amp;amp;R-91), pages 473-484. Morgan Kaufmann Publishers: San Mateo, CA.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/rao-modelingBDI-kr91.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rao, A. S. and Georgeff, M. P. (1991b). Modeling rational agents within a BDI-architecture. In Fikes, R. and Sandewall, E., editors, Proceedings of Knowledge Representation and Reasoning (KR&amp;amp;R-91), pages 473-484. Morgan Kaufmann Publishers: San Mateo, CA.&lt;/a&gt;
 
 &lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/ieee-exp92-PRS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Francois F. Ingrand , Michael P. Georgeff , Anand S. Rao, An architecture for Real-Time Reasoning and System Control, IEEE Expert: Intelligent Systems and Their Applications, v.7 n.6, p.34-44, December 1992.&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 7 (Hour 13 and Hour 14)(November 27): Models of BDI Agent Programming [Sardina].&lt;br&gt;
+&lt;p&gt;Lecture 7 (Hour 13 and Hour 14)(November 27): Models of BDI Agent Programming [Sardina].
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/handout_bdi-programming.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/handout_bdi-programming.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/rao96agentspeakl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. S. Rao. AgentSpeak(L): BDI agents speak out in a logical computable language. In Proceedings of the Seventh European Workshop on Modelling Autonomous Agents in a Multi-Agent World, volume 1038 of LNCS, pages 4255. 1996. (Sections 1-2).&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/rao96agentspeakl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. S. Rao. AgentSpeak(L): BDI agents speak out in a logical computable language. In Proceedings of the Seventh European Workshop on Modelling Autonomous Agents in a Multi-Agent World, volume 1038 of LNCS, pages 4255. 1996. (Sections 1-2).&lt;/a&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/kr02-CAN.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Winikoff, L. Padgham, J. Harland, and J. Thangarajah. Declarative &amp;amp; Procedural Goals in Intelligent Agent Systems. In Proceedings of the Eighth International Conference on Principles and Knowledge Representation and Reasoning, pages 470481. 2002. (Sections 1-3).&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/kr02-CAN.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Winikoff, L. Padgham, J. Harland, and J. Thangarajah. Declarative &amp;amp; Procedural Goals in Intelligent Agent Systems. In Proceedings of the Eighth International Conference on Principles and Knowledge Representation and Reasoning, pages 470481. 2002. (Sections 1-3).&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/3APL-journal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koen V. Hindriks, Frank S. de Boer, Wiebe van der Hoek, John-Jules Ch. Meyer: Agent Programming in 3APL. Autonomous Agents and Multi-Agent Systems 2(4): 357-401 (1999).&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/3APL-journal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koen V. Hindriks, Frank S. de Boer, Wiebe van der Hoek, John-Jules Ch. Meyer: Agent Programming in 3APL. Autonomous Agents and Multi-Agent Systems 2(4): 357-401 (1999).&lt;/a&gt;
 
 &lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/agentverification-jal5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank S. de Boer, Koen V. Hindriks, Wiebe van der Hoek, John-Jules Ch. Meyer: A verification framework for agent programming with declarative goals. J. Applied Logic 5(2): 277-302 (2007).&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 8 (Hour 15 and Hour 16)(November 29): Declarative Goals and Planning in BDI Programming Systems [Sardina].&lt;br&gt;
+&lt;p&gt;Lecture 8 (Hour 15 and Hour 16)(November 29): Declarative Goals and Planning in BDI Programming Systems [Sardina].
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/handout_decgoals-and-planning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/handout_decgoals-and-planning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/aamas06-SDSP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian Sardina, Lavindra de Silva, Lin Padgham: Hierarchical planning in BDI agent programming languages: a formal approach. AAMAS 2006: 1001-1008.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/aamas06-SDSP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian Sardina, Lavindra de Silva, Lin Padgham: Hierarchical planning in BDI agent programming languages: a formal approach. AAMAS 2006: 1001-1008.&lt;/a&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/shop2-nau03a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dana S. Nau, Tsz-Chiu Au, Okhtay Ilghami, Ugur Kuter, J. William Murdock, Dan Wu, Fusun Yaman: SHOP2: An HTN Planning System. J. Artif. Intell. Res. (JAIR) 20: 379-404 (2003).&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/shop2-nau03a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dana S. Nau, Tsz-Chiu Au, Okhtay Ilghami, Ugur Kuter, J. William Murdock, Dan Wu, Fusun Yaman: SHOP2: An HTN Planning System. J. Artif. Intell. Res. (JAIR) 20: 379-404 (2003).&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/complex-express-htn.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kutluhan Erol, James A. Hendler, Dana S. Nau: Complexity Results for HTN Planning. Ann. Math. Artif. Intell. 18(1): 69-93 (1996).&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/complex-express-htn.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kutluhan Erol, James A. Hendler, Dana S. Nau: Complexity Results for HTN Planning. Ann. Math. Artif. Intell. 18(1): 69-93 (1996).&lt;/a&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/dignum_04_dynamics_of_decl_goals.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Birna van Riemsdijk, Mehdi Dastani, Frank Dignum, John-Jules Ch. Meyer: Dynamics of Declarative Goals in Agent Programming. DALT 2004: 1-18.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/dignum_04_dynamics_of_decl_goals.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Birna van Riemsdijk, Mehdi Dastani, Frank Dignum, John-Jules Ch. Meyer: Dynamics of Declarative Goals in Agent Programming. DALT 2004: 1-18.&lt;/a&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/IMPACT_SHOP-amai-2003.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jurgen Dix, Hector Munoz-Avila, Dana S. Nau, Lingling Zhang: IMPACTing SHOP: Putting an AI Planner Into a Multi-Agent Environment. Ann. Math. Artif. Intell. 37(4): 381-407 (2003).&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/IMPACT_SHOP-amai-2003.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jurgen Dix, Hector Munoz-Avila, Dana S. Nau, Lingling Zhang: IMPACTing SHOP: Putting an AI Planner Into a Multi-Agent Environment. Ann. Math. Artif. Intell. 37(4): 381-407 (2003).&lt;/a&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/plan-patterns-aamas06-bordini.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jomi Fred Hubner, Rafael H. Bordini, Michael Wooldridge: Programming Declarative Goals Using Plan Patterns. DALT 2006: 123-140.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/plan-patterns-aamas06-bordini.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jomi Fred Hubner, Rafael H. Bordini, Michael Wooldridge: Programming Declarative Goals Using Plan Patterns. DALT 2006: 123-140.&lt;/a&gt;
 
 &lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/aamas07-SP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian Sardina and Lin Padgham. Goals in the context of BDI plan failure and planning. In Proceedings of Autonomous Agents and Multi-Agent Systems (AAMAS), Hawaii, USA, May 2007. ACM Press.&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 9 (Hour 17 and Hour 18)(December 4): Practical BDI Agent Programming I [Sardina].&lt;br&gt;
+&lt;p&gt;Lecture 9 (Hour 17 and Hour 18)(December 4): Practical BDI Agent Programming I [Sardina].
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect09/handout_jackbdi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect09/handout_jackbdi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect09/busetta99jack.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paolo Busetta, Ralph Ronnquist, Andrew Hodgson, and Andrew Lucas. JACK Intelligent Agents Components for Intelligent Agents in Java, 1999.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect09/busetta99jack.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paolo Busetta, Ralph Ronnquist, Andrew Hodgson, and Andrew Lucas. JACK Intelligent Agents Components for Intelligent Agents in Java, 1999.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
 
-&lt;a href=&#34;http://www.agent-software.com.au/shared/products/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JACK web page.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.agent-software.com.au/shared/products/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JACK web page.&lt;/a&gt;
 [Jason web page.](
-&lt;a href=&#34;http://jason.sourceforge.net/JasonWebSite/Jason&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://jason.sourceforge.net/JasonWebSite/Jason&lt;/a&gt; Home.php)&lt;br&gt;
+&lt;a href=&#34;http://jason.sourceforge.net/JasonWebSite/Jason&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://jason.sourceforge.net/JasonWebSite/Jason&lt;/a&gt; Home.php)
 
-&lt;a href=&#34;http://vsis-www.informatik.uni-hamburg.de/projects/jadex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jadex web page.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://vsis-www.informatik.uni-hamburg.de/projects/jadex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jadex web page.&lt;/a&gt;
 
-&lt;a href=&#34;http://www.cs.uu.nl/3apl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3APL web page.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.cs.uu.nl/3apl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3APL web page.&lt;/a&gt;
 
 &lt;a href=&#34;http://www.ai.sri.com/~spark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARK web page.&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lecture 10 (Hour 19 and Hour 20)(December 6): Practical BDI Agent Programming II [Sardina].&lt;br&gt;
+&lt;p&gt;Lecture 10 (Hour 19 and Hour 20)(December 6): Practical BDI Agent Programming II [Sardina].
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/handout_pdt.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Readings:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/handout_pdt.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Readings:&lt;/em&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/Jennings_1999.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. R. Jennings. On agent-based software engineering. Artificial Intelligence, March, 2000, vol. 117, no. 2, p. 277-296.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/Jennings_1999.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. R. Jennings. On agent-based software engineering. Artificial Intelligence, March, 2000, vol. 117, no. 2, p. 277-296.&lt;/a&gt;
 
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/oopsla02.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lin Padgham and Michael Winikoff. Prometheus: A Pragmatic Methodology for Engineering Intelligent Agents. In Proc. of the workshop on Agent-oriented methodologies at OOPSLA 2002. November 4, 2002, Seattle.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/oopsla02.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lin Padgham and Michael Winikoff. Prometheus: A Pragmatic Methodology for Engineering Intelligent Agents. In Proc. of the workshop on Agent-oriented methodologies at OOPSLA 2002. November 4, 2002, Seattle.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
 
 &lt;a href=&#34;http://www.science.unitn.it/~recla/aose/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AOSE Methodologies web page.&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;

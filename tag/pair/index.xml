@@ -5,7 +5,7 @@
     <link>https://ssardina.github.io/tag/pair/</link>
       <atom:link href="https://ssardina.github.io/tag/pair/index.xml" rel="self" type="application/rss+xml" />
     <description>PAIR</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>PAIR</title>
@@ -19,7 +19,7 @@
       <guid>https://ssardina.github.io/project/gr/</guid>
       <description>&lt;p&gt;The goal/intention recognition problem is the task of identifying an agent’s intent by observing its behaviour. Traditionally, the problem has involved matching a sequence of observations to a plan in a pre-defined plan library; the winning plan being the one that &amp;ldquo;best&amp;rdquo; matches the observations.&lt;/p&gt;
 &lt;p&gt;Recent developments dispense with the overhead of a plan library and instead&amp;mdash;based on the assumption that the observed agent is behaving rationally&amp;mdash;take a cost-based approach and uses classical planning technology to generate candidate plans as needed over a domain model.&lt;/p&gt;
-&lt;p&gt;In a series of work, we have extended and improved the cost-based approach to goal recognition, both for general task planning and path planning. We have worked on how to make recognition faster and more robust to irrational/erratic observed behavior. We have also looked at its&#39; dual problem: &lt;em&gt;deceptive behavior&lt;/em&gt;, the problem of generating behavior that is as deceptive as possible, while still achieving the intended objective.&lt;/p&gt;
+&lt;p&gt;In a series of work, we have extended and improved the cost-based approach to goal recognition, both for general task planning and path planning. We have worked on how to make recognition faster and more robust to irrational/erratic observed behavior. We have also looked at its&amp;rsquo; dual problem: &lt;em&gt;deceptive behavior&lt;/em&gt;, the problem of generating behavior that is as deceptive as possible, while still achieving the intended objective.&lt;/p&gt;
 &lt;p&gt;Some representative papers are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Peta Masters, Sebastian Sardiña: 

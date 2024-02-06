@@ -5,7 +5,7 @@
     <link>https://ssardina.github.io/</link>
       <atom:link href="https://ssardina.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Prof. Sebastian Sardina</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ssardina.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Prof. Sebastian Sardina</title>
@@ -368,7 +368,7 @@ more text
 &lt;p&gt;[LinRei94] F. Lin and R. Reiter. State Constraints Revisited. J_ournal of Logic and Computation,_ &lt;strong&gt;4&lt;/strong&gt;(5):655-678, Special Issue on Action and Processes, 1994.&lt;/p&gt;
 &lt;p&gt;[LiuLev05] Yongmei Liu, Hector J. Levesque: Tractable Reasoning with Incomplete First-Order Knowledge in Dynamic Systems with Context-Dependent Actions. &lt;em&gt;Proc. IJCAI 2005&lt;/em&gt;, 522-527.&lt;/p&gt;
 &lt;p&gt;[McCarthy63] McCarthy, John. &lt;em&gt;Situations, Actions, and Causal Laws,&lt;/em&gt; Technical Report, Stanford University, 1963; reprinted in Semantic Information Processing, Minsky, M. (ed.), 410-417, MIT Press, Cambridge, MA, 1968.&lt;/p&gt;
-&lt;p&gt;[MciSch00] McIlraith, S. and Scherl, R. ``What Sensing Tells Us: Towards a Formal Theory of Testing for Dynamical Systems&amp;rsquo;&#39;, &lt;em&gt;Proc. of the Seventeenth National Conference on Artificial Intelligence (AAAI&#39;2000),&lt;/em&gt; 483-490, August, 2000.&lt;/p&gt;
+&lt;p&gt;[MciSch00] McIlraith, S. and Scherl, R. ``What Sensing Tells Us: Towards a Formal Theory of Testing for Dynamical Systems&amp;rsquo;&amp;rsquo;, &lt;em&gt;Proc. of the Seventeenth National Conference on Artificial Intelligence (AAAI&#39;2000),&lt;/em&gt; 483-490, August, 2000.&lt;/p&gt;
 &lt;p&gt;[MarLes04a] E. Martinez and Y. Lesp�rance. IG-JADE-PKSlib: An Agent-Based Framework for Advanced Web Service Composition and Provisioning. In &lt;em&gt;Proc. of the AAMAS 2004 Workshop on Web-services and Agent-based Engineering&lt;/em&gt;, 2-10, New York, NY, USA, July, 2004.&lt;/p&gt;
 &lt;p&gt;[MarLes04b] E. Martinez and Y. Lesp�rance. Web Service Composition as a Planning Task: Experiments using Knowledge-Based Planning. In &lt;em&gt;Proc. of the ICAPS-2004 Workshop on Planning and Scheduling for Web and Grid Services&lt;/em&gt;, 62-69, Whistler, BC, June, 2004.&lt;/p&gt;
 &lt;p&gt;[Nic+98] Nickerson, B., Jasiobedzki, P., Wilkes, D., Jenkin, M., Milios, E., Tsotsos, J., Jepson, A. and Bains, O.N.,  The ARK project: Autonomous Mobile Robots for Known Industrial Environments, &lt;em&gt;Robotics and Autonomous Systems&lt;/em&gt;, &lt;strong&gt;25&lt;/strong&gt;, 83-104, 1998.&lt;/p&gt;
@@ -416,8 +416,8 @@ more text
 &lt;/ul&gt;
 &lt;h2 id=&#34;optional-readings&#34;&gt;Optional readings&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Bratman, M. E. (1987). Intentions, Plans, and Practical Reason. Harvard University Press: Cambridge, MA. 
-Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA. 
+&lt;li&gt;Bratman, M. E. (1987). Intentions, Plans, and Practical Reason. Harvard University Press: Cambridge, MA.
+Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA.
 Cohen, P. R. and Levesque, H. J. (1990a). Intention is choice with commitment. Artificial Intelligence, 42:213-261.&lt;/li&gt;
 &lt;li&gt;Rao, A. S. and Georgeff, M. P. (1991b). Modeling rational agents within a BDI-architecture. In Fikes, R. and Sandewall, E., editors, Proceedings of Knowledge Representation and Reasoning (KR&amp;amp;R-91), pages 473-484. Morgan Kaufmann Publishers: San Mateo, CA.&lt;/li&gt;
 &lt;li&gt;Francois F. Ingrand , Michael P. Georgeff , Anand S. Rao, An architecture for Real-Time Reasoning and System Control, IEEE Expert: Intelligent Systems and Their Applications, v.7 n.6, p.34-44, December 1992.&lt;/li&gt;
@@ -577,7 +577,7 @@ Cohen, P. R. and Levesque, H. J. (1990a). Intention is choice with commitment. A
 &lt;a href=&#34;https://www.sharelatex.com/blog/2012/10/16/collaborating-with-latex-and-git.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Collaborating with LaTeX and Git&lt;/a&gt; - A pretty good explanation on how to use git version control to collaborate with Latex.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.atlassian.com/git/tutorials/merging-vs-rebasing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git: Merge vs Rebase&lt;/a&gt; - Great explanation from 
-&lt;a href=&#34;http://www.atlassian.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.atlassian.com&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.atlassian.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.atlassian.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git merge strategies&lt;/a&gt; - Pull Request Merge Strategies: The Great Debate&lt;/li&gt;
 &lt;li&gt;
@@ -611,7 +611,7 @@ Cohen, P. R. and Levesque, H. J. (1990a). Intention is choice with commitment. A
       <guid>https://ssardina.github.io/extras/resources/linux-rmit/</guid>
       <description>&lt;p&gt;If you are on Linux at RMIT you may not have much information or support available, so I will try to help a bit and collect here some useful tips, solutions, and processes for running Linux within the RMIT network effectively.&lt;/p&gt;
 &lt;p&gt;If you have solutions to problems that other Linux users may encounter, please forward them to me and I will add them to this page. You can also leave comments at the bottom of this page if you think it can be useful for other readers.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note 1:&lt;/strong&gt; some of the sections have become out-dated or not relevant anymore, in big part I believe thanks to RMIT/ITS providing much better and reasonable infrastructure (e.g., allowing ssh to the outside), which is fantastic and welcome!. If you spot an updated or not relevant part, let me know and I will mark 
+&lt;p&gt;&lt;strong&gt;Note 1:&lt;/strong&gt; some of the sections have become out-dated or not relevant anymore, in big part I believe thanks to RMIT/ITS providing much better and reasonable infrastructure (e.g., allowing ssh to the outside), which is fantastic and welcome!. If you spot an updated or not relevant part, let me know and I will mark
 it as such.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note 2:&lt;/strong&gt; in July 2021, I migrated the page to a GitHub Gist; and in Jan 2022 to my home page. I have then deleted most of the irrelevant sections that were in the original document](/linux-rmit.git/linux-rmit-old.pdf).&lt;/p&gt;
 &lt;ul&gt;
@@ -807,10 +807,10 @@ ProxyCommand ssh &amp;lt;username-at-goanna&amp;gt;@goanna.cs.rmit.edu.au nc %h 
 So, for example:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;the path for user &lt;code&gt;e76763&lt;/code&gt; is &amp;ldquo;&lt;code&gt;eh3&lt;/code&gt;&amp;quot;: &amp;ldquo;&lt;code&gt;h&lt;/code&gt;&amp;rdquo; because second to last digit is &lt;code&gt;6&lt;/code&gt; and &lt;code&gt;3&lt;/code&gt; because it is the last digit of the staff number.&lt;/p&gt;
+&lt;p&gt;the path for user &lt;code&gt;e76763&lt;/code&gt; is &amp;ldquo;&lt;code&gt;eh3&lt;/code&gt;&amp;rdquo;: &amp;ldquo;&lt;code&gt;h&lt;/code&gt;&amp;rdquo; because second to last digit is &lt;code&gt;6&lt;/code&gt; and &lt;code&gt;3&lt;/code&gt; because it is the last digit of the staff number.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;the path for user &lt;code&gt;eE05411&lt;/code&gt; would be &amp;ldquo;&lt;code&gt;el1&lt;/code&gt;&amp;rdquo; (&amp;quot;&lt;code&gt;l&lt;/code&gt;&amp;rdquo; because second to last digit is &lt;code&gt;1&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;the path for user &lt;code&gt;eE05411&lt;/code&gt; would be &amp;ldquo;&lt;code&gt;el1&lt;/code&gt;&amp;rdquo; (&amp;quot;&lt;code&gt;l&lt;/code&gt;&amp;quot; because second to last digit is &lt;code&gt;1&lt;/code&gt;).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The &lt;code&gt;elX/ehX&lt;/code&gt; scheme works the same way for students, except that e is replaced by &lt;code&gt;s&lt;/code&gt; for students. Its easier to just cut and paste it from your &lt;code&gt;mydrive&lt;/code&gt; though :).&lt;/p&gt;
@@ -1052,122 +1052,9 @@ simulator and a few agent system controllers.&lt;/li&gt;
     </item>
     
     <item>
-      <title>PhD Application</title>
-      <link>https://ssardina.github.io/extras/resources/phd-supervision/</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
-      <guid>https://ssardina.github.io/extras/resources/phd-supervision/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Are you interested in applying for a PhD with our school?&lt;/em&gt; If so, you must then read this!&lt;/p&gt;
-&lt;p&gt;Most of the requests I receive about PhD supervision/application are &lt;strong&gt;spam&lt;/strong&gt; or &lt;strong&gt;mass non-targeted requests&lt;/strong&gt; (i.e., messages sent to many academics). I will only respond to you if I believe they are &lt;em&gt;genuine and informed requests&lt;/em&gt;. For that you should show that you &lt;strong&gt;know my research interests/expertise&lt;/strong&gt; and that &lt;strong&gt;you have similar interests&lt;/strong&gt;; otherwise you may &lt;strong&gt;never receive a reply&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Unfortunately, I &lt;strong&gt;do not generally have funding for students&lt;/strong&gt;. When I have funding, I advertise them explicitly. There are some scholarship available at RMIT University (see point 7 below), but note these are &lt;strong&gt;extremely competitive for international applicants&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Potential student interns: I do not usually have funding for internships. When I do, I try to recruit from good RMIT students. I am unable to consider any requests for paid internships.&lt;/p&gt;
-&lt;p&gt;If you have any questions about PhD application (including funding), you can contact me or HDR Coordinators 
-&lt;a href=&#34;https://jeffreychan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A/Prof. Jeffrey Chan&lt;/a&gt; or 
-&lt;a href=&#34;http://www.xiuzhenzhang.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Xiuzhen (Jenny) Zhang&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
-&lt;p&gt;There are basically &lt;strong&gt;four steps&lt;/strong&gt; to apply to PhD program:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Check for &lt;strong&gt;eligibility&lt;/strong&gt;: can you do a doctorate program?&lt;/li&gt;
-&lt;li&gt;Identify your &lt;strong&gt;topic-project and potential supervisor&lt;/strong&gt;. In your application you will need that.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Contact the potential supervisor&lt;/strong&gt;, explain your case: &lt;em&gt;why you want to do PhD in that area and with him/her&lt;/em&gt;. If you don&amp;rsquo;t get his/her potential interest then it makes no sense to continue.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Apply&lt;/strong&gt; for entrance to the PhD program. This is done in &lt;em&gt;two phases&lt;/em&gt;:
-&lt;ol&gt;
-&lt;li&gt;Submission of &lt;strong&gt;Expression of interest (EOI)&lt;/strong&gt;. This will depend on step 2 above.&lt;/li&gt;
-&lt;li&gt;Submission of &lt;strong&gt;Full Application&lt;/strong&gt;, if EOI is approved.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Apply&lt;/strong&gt; for Scholarship to fund the program or part of it.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;All this is done via 
-&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/how-to-apply&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;this centralized RMIT system&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;So, the major first step is 3.1 which requires step 2: &lt;em&gt;&lt;strong&gt;identify a potential supervisor and a potential topic/project&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;The list of projects are here: 
-&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/find-a-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rmit.edu.au/research/research-degrees/find-a-project&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Note these are some ideas of projects. As long as you find an area, topic, or problem that you are interested in, have the background needed to carry work there (e.g., math background), and is compatible with the potential supervisor, it is OK.  The projects can be adapted, changed, or even added to the list!&lt;/p&gt;
-&lt;h3 id=&#34;expression-of-interest&#34;&gt;Expression of Interest&lt;/h3&gt;
-&lt;p&gt;So, if you are &lt;strong&gt;interested in my supervision&lt;/strong&gt;, you must do the following to produce an EOI and eventually the full application (step 4 above):&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;First, &lt;strong&gt;familiarize yourself&lt;/strong&gt; with the 
-&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/levels-of-study/research-programs/phd/dr221&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DR221 PhD (Computer Science)&lt;/a&gt; program at RMIT and make sure you meet the 
-&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/levels-of-study/research-programs/phd/dr221&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entry Requirements&lt;/a&gt; for such program. Also be very mindful of the funding of your program, see item 7 below.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Then, &lt;strong&gt;check and study&lt;/strong&gt; well 
-&lt;a href=&#34;https://ssardina.github.io/#projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my areas of work&lt;/a&gt; and 
-&lt;a href=&#34;https://ssardina.github.io/#projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my publications&lt;/a&gt; and find a common interest.  Otherwise, you may need to look for 
-&lt;a href=&#34;https://www.rmit.edu.au/about/schools-colleges/computing-technologies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;some other staff member in the school&lt;/a&gt;. I do not take students working areas that I don&amp;rsquo;t have expertise &lt;em&gt;and&lt;/em&gt; interest in.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Contact me&lt;/strong&gt; to check if I am taking students at that moment. You need to tell me:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The area/topic that you would like to pursue PhD under my supervision (e.g., path planning, reasoning about action, automated planning, agent oriented programming, goal recognition, etc) and what experience you have on them, if any.&lt;/li&gt;
-&lt;li&gt;My 2-3 papers that got your attention and you would be interested in working around. Please explain &lt;strong&gt;what you liked about those papers&lt;/strong&gt; and what &lt;strong&gt;you think can be improved or studied further&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;A title and one small paragraph of a problem/project you would like to work on. Some possible projects are listed on 
-&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/find-a-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this page&lt;/a&gt;,but &lt;strong&gt;you are not limited to them at all&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If all goes well, then your next step is to then your next step is to &lt;strong&gt;develop a 1-2 page research proposal&lt;/strong&gt; describing a potential research project (including aims, methodology, expected outcomes, etc).&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The purpose of this is to allow me/us to evaluate the suitability of your project, the overlap with my research, and its chance of success.&lt;/li&gt;
-&lt;li&gt;The proposal must be &lt;strong&gt;original&lt;/strong&gt;, that is, the product of your own work, and aligned with my areas of work and my publications.&lt;/li&gt;
-&lt;li&gt;Being just a proposal, it does not have to contain technical content or amazing ideas, it is not your PhD, it is just an expression of interest for doing a PhD. However, it should not just be &amp;ldquo;hand-waving&amp;rdquo; or general concepts that cannot be trivially extracted from existing material (e.g., from my papers!). For example, writing things like: &lt;em&gt;&amp;ldquo;I will develop a more powerful system that will help the agent make smarter decisions and in less time&amp;rdquo;&lt;/em&gt; is probably too vague and general. However, saying things like: &lt;em&gt;&amp;ldquo;One limitation of the current approaches is X because R1, R2 and R2. I will investigate how to overcome such limitation by incorporating Y so that A1 and A2 happens, etc.&amp;quot;&lt;/em&gt; is in the right direction.&lt;/li&gt;
-&lt;li&gt;The proposal will also indicate your &lt;strong&gt;ability to communicate effectively&lt;/strong&gt;, so make sure it is written well and with care for detail. Remember a PhD is carried out by high-performing students after a great Honour thesis, so you are meant to show good written communication.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Once you have your proposal written, you can &lt;strong&gt;send it to me&lt;/strong&gt; and I will let you know whether it is reasonable for me to be your potential supervisor in your application.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;While the proposal is part of the application, it is not a &amp;ldquo;contract&amp;rdquo; with the supervisor and you should be &lt;strong&gt;flexible&lt;/strong&gt; on the topic and specific problem.&lt;/li&gt;
-&lt;li&gt;Do not put down my name (or that of any other academic staff!) before following all the above steps. That will most probably significantly reduce your chances to be accepted.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Once you have the above (potential supervisor and a research proposal), you can then start your application via the 
-&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/how-to-apply&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMIT submission process&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
-&lt;p&gt;Acceptance to the PhD program does not directly mean you will be supported financially, both for tuition fees and living expenses during your program.&lt;/p&gt;
-&lt;p&gt;You can search the RMIT site to find the webpages for these scholarships:&lt;/p&gt;
-&lt;p&gt;For &lt;strong&gt;international students&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/international-students/apply-to-rmit-international-students/fees-and-scholarships/scholarships&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scholarships for commencing international students&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://data61.csiro.au/en/Our-Network/Students/Scholarship-Program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data61 PhD Scholarship Program&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.rmit.edu.au/students/careers-opportunities/scholarships/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Tuition Fee Scholarships&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.atn.edu.au/scholarships-grants/atn-latam-scholarships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ATN – LATAM Research Scholarships&lt;/a&gt; (for Latin American citizens).&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/international-students/apply-to-rmit-international-students/fees-and-scholarships/scholarships/colfuturo-rmit-university-joint-scholarship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLFUTURO-RMIT University Joint Scholarship&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://internationaleducation.gov.au/scholarships/scholarships-and-fellowships/pages/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Endeavour Leadership Program&lt;/a&gt;: this covers both full PhD program but also long/short term mobility exchanges.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For &lt;strong&gt;local students (PR or Citizens)&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/terms-and-conditions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terms and Conditions of various scholarships&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://data61.csiro.au/en/Our-Network/Students/Scholarship-Program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data61 PhD Scholarship Program&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.rmit.edu.au/students/careers-opportunities/scholarships/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grants and Scholarships&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.rmit.edu.au/students/careers-opportunities/scholarships/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Stipend Scholarships&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.dese.gov.au/research-block-grants/research-training-program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Training Program (RTP)&lt;/a&gt; - (APA before)&lt;/li&gt;
-&lt;li&gt;Other funding/scholarships: 
-&lt;a href=&#34;https://www.rmit.edu.au/students/work-study-opportunities/scholarships&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rmit.edu.au/students/work-study-opportunities/scholarships&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When applying for the program, you &lt;strong&gt;should tick the box&lt;/strong&gt; in the application on which PhD scholarships he/she wishes to apply for.&lt;/p&gt;
-&lt;p&gt;Unfortunately, I must warn you that scholarships for international applicants are unfortunately extremely limited and difficult to obtain. :-( You need to have a top grades but may also need publications already to have some chance.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Teaching FAQ</title>
       <link>https://ssardina.github.io/extras/resources/teaching_faq/</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0100</pubDate>
       <guid>https://ssardina.github.io/extras/resources/teaching_faq/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
@@ -1176,7 +1063,7 @@ simulator and a few agent system controllers.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;#what-courses-do-you-usually-teach&#34;&gt;What courses do you (usually) teach?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;#what-courses-will-you-teach-in-2022&#34;&gt;What courses will you teach in 2022?&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;#what-courses-will-you-teach-in-2024&#34;&gt;What courses will you teach in 2024?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;#your-courses-do-not-show-up-in-the-enrolment-system-have-they-been-discontinued&#34;&gt;Your courses do not show up in the enrolment system, have they been discontinued?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -1222,7 +1109,7 @@ simulator and a few agent system controllers.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;#is-the-ai-practical-or-theoretically-oriented&#34;&gt;Is the AI practical or theoretically oriented?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;#what-programming-languages-is-used-in-the-ai-course&#34;&gt;What programming languages is used in the AI course?&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;#what-programming-languages-and-tools-are-used-in-the-ai-course&#34;&gt;What programming languages and tools are used in the AI course?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;#i-am-not-enrolled-in-any-program-and-do-not-intent-to-can-i-take-the-ai-course&#34;&gt;I am not enrolled in any program and do not intent to, can I take the AI course?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -1247,10 +1134,18 @@ simulator and a few agent system controllers.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;http://bit.ly/rmit-aopd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COSC2780 Intelligent Decision Making (IDM)&lt;/a&gt;, Master level, core.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;what-courses-will-you-teach-in-2022&#34;&gt;What courses will you teach in 2022?&lt;/h2&gt;
-&lt;p&gt;This is not still decided fully but most probable I will teach MC and IDM in Semester 1, and AI in Semester 2.&lt;/p&gt;
+&lt;h2 id=&#34;what-courses-will-you-teach-in-2024&#34;&gt;What courses will you teach in 2024?&lt;/h2&gt;
+&lt;p&gt;In 2024 I will teach:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www1.rmit.edu.au/browse;ID=053578heparta;STATUS=A?QRY=%2Btype%3Dflexible%20%2Bsubtype%3Dheparta%20%2Btitle%3D%28intelligent%20decision%20making%29%20&amp;amp;STYPE=ENTIRE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COSC2780/2973 Intelligent Decision Making&lt;/a&gt; (Semester 1)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www1.rmit.edu.au/courses/004123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COSC1127/1125 Artificial Inteligence&lt;/a&gt; (Semester 2)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www1.rmit.edu.au/browse;ID=054076heparta;STATUS=A?QRY=%2Btype%3Dflexible%20%2Bsubtype%3Dheparta%20%2Btitle%3D%28mathematics%20for%20computing%29%20&amp;amp;STYPE=ENTIRE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MATH2411 Mathematics for Computing 1&lt;/a&gt; (Semester 2)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;your-courses-do-not-show-up-in-the-enrolment-system-have-they-been-discontinued&#34;&gt;Your courses do not show up in the enrolment system, have they been discontinued?&lt;/h2&gt;
-&lt;p&gt;I am not in charge of the enrolment system in any way, but I am aware of courses not showing as options in students&#39; enrolment system. This may not mean they are not available for you to take (as long as you met the pre-req or get an exemption for them).&lt;/p&gt;
+&lt;p&gt;I am not in charge of the enrolment system in any way, but I am aware of courses not showing as options in students&amp;rsquo; enrolment system. This may not mean they are not available for you to take (as long as you met the pre-req or get an exemption for them).&lt;/p&gt;
 &lt;p&gt;So, if you the course is indeed running but you cannot see it in your enrolment system, and you think you want &lt;em&gt;and&lt;/em&gt; can take it, please &lt;strong&gt;contact Enrolment at RMIT and/or your Program Manager&lt;/strong&gt;, be Computer Science, Software Engineering or IT. There is usually a way to enrol outside the web system in those cases.&lt;/p&gt;
 &lt;h2 id=&#34;i-would-like-one-of-the-pre-req-to-be-waived-i-took-a-similar-course-elsewhere-what-should-i-do&#34;&gt;I would like one of the pre-req to be waived (I took a similar course elsewhere), what should I do?&lt;/h2&gt;
 &lt;p&gt;I do not manage credits or pre-req waivers directly. You need to submit a formal request for a &lt;strong&gt;Requisite Waiver&lt;/strong&gt; from Academic Services; please check 
@@ -1356,25 +1251,27 @@ simulator and a few agent system controllers.&lt;/li&gt;
 &lt;h2 id=&#34;why-is-algorithm-and-analysis-aa-a-pre-req-for-ai&#34;&gt;Why is Algorithm and Analysis (A&amp;amp;A) a pre-req for AI?&lt;/h2&gt;
 &lt;p&gt;As you can see from the 
 &lt;a href=&#34;http://www1.rmit.edu.au/courses/004123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course overview&lt;/a&gt;, course 
-&lt;a href=&#34;http://www1.rmit.edu.au/courses/004302&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COSC2123 Algorithms &amp;amp; Analysis&lt;/a&gt; is a pre-req. This is because, during the course, many AI algorithmic techniques will be seen, compared, and analysed, so it is expected that students taking the course have a good grasp of existing useful algorithms (and data structures) and ways of analysing algorithmic solutions, such as being able to obtain bounds on time and space usage of an algorithm (e.g., big-O notation).&lt;/p&gt;
+&lt;a href=&#34;http://www1.rmit.edu.au/courses/004302&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COSC2123 Algorithms &amp;amp; Analysis&lt;/a&gt; is a pre-req. This is because, during the course, many AI algorithmic techniques will be seen, compared, and analysed theoretically, so it is expected that students taking the course have a good grasp of existing useful algorithms (and data structures) and ways of analysing algorithmic solutions, such as being able to obtain bounds on time and space usage of an algorithm (e.g., big-O notation, dynamic programming, etc.).&lt;/p&gt;
 &lt;p&gt;Also, many of the techniques covered in the course build on generic algorithms and data-structures, such as brute-force, iterative improvement, greedy algorithms, and lists, trees, and queues. All those algorithmic and data concepts will not be covered and it is important to know (and master!) them.&lt;/p&gt;
-&lt;p&gt;Note that it is &lt;strong&gt;not&lt;/strong&gt; possible to take AI while taking A&amp;amp;A at the same time:&lt;/p&gt;
+&lt;p&gt;Note all this are NOT covered by standard programming courses, like Bootcamp or Studio.&lt;/p&gt;
+&lt;p&gt;Note also that, unless you are enrolled in Master of AI, it is &lt;strong&gt;not&lt;/strong&gt; possible to take AI while taking A&amp;amp;A at the same time:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The reason why A&amp;amp;A is a pre-req (and not a co-req) is that we believe students must know the content of A&amp;amp;A &lt;em&gt;before&lt;/em&gt; they start AI. For example, already in week 1 we cover tree traversal and different complexities in big-O notation. That&amp;rsquo;s why A&amp;amp;A is a second year course, and AI is a third year course.  :-)&lt;/li&gt;
 &lt;li&gt;Some students enrolled in A&amp;amp;A may claim that they already know the content of A&amp;amp;A, though they are planning to take A&amp;amp;A and AI together. This appears inconsistent and may signal some problem with program planning: why are they taking a course if they already known its content? In those cases, it may be wise to talk to the corresponding Program Manager to take the best of the program.&lt;/li&gt;
 &lt;li&gt;Finally, we should note that both courses AI and A&amp;amp;A are very &lt;em&gt;intense&lt;/em&gt; and &lt;em&gt;demanding&lt;/em&gt;, so doing them at the same time is not great.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;If you think you have covered the topics of A&amp;amp;A in a &lt;em&gt;previous degree&lt;/em&gt; or &lt;em&gt;another university&lt;/em&gt;, you may be able to &lt;em&gt;claim exception from the pre-req&lt;/em&gt;. See above (General section) how to do so.&lt;/p&gt;
+&lt;p&gt;So, if your program does not include A&amp;amp;A, you need to plan ahead and take it as an elective before taking AI. Said so, if you think you have covered the topics of A&amp;amp;A in a &lt;em&gt;previous degree&lt;/em&gt; or &lt;em&gt;another university&lt;/em&gt;, you may be able to &lt;em&gt;claim exception from the pre-req&lt;/em&gt;. See above (General section) how to do so.&lt;/p&gt;
 &lt;h2 id=&#34;i-need-you-to-approve-the-waiver-for-the-pre-req-for-ai&#34;&gt;I need you to approve the waiver for the pre-req for AI&lt;/h2&gt;
 &lt;p&gt;You need to contact the Program Manager of your program, as he/she will be the ultimately making the decision. You need to send the Program Manager all the information required demonstrating that you have evidence to get the exception; for example that you have taken and passed a similar course to Algorithms and Analysis. The Program Manager knows the whole context within your program and &lt;strong&gt;he/she will then contact me&lt;/strong&gt; for advise if needed. This also reduces the chances of misunderstandings, errors,  and contradictions caused by different email threads with different people.&lt;/p&gt;
 &lt;h2 id=&#34;will-ai-be-offered-in-semester-1&#34;&gt;Will AI be offered in Semester 1?&lt;/h2&gt;
 &lt;p&gt;In the past it was offered in Semester 1, but with some changes in programs the course was moved to Semester 2. As far as I can tell, there are no current plans to run it in Semester 1. Of course, things change and I am not the one who decides when a course runs, but at this point the course runs in Semester 2.&lt;/p&gt;
 &lt;h2 id=&#34;is-the-ai-practical-or-theoretically-oriented&#34;&gt;Is the AI practical or theoretically oriented?&lt;/h2&gt;
 &lt;p&gt;Both. This course has both significant programming as well as significant theoretical content. During the course you will need to program standard AI algorithms (like A*, alpha-beta pruning, RL, or even code in Prolog programming language), but you will also have to calculate conditional probabilities using a Bayesian Network, understand the computational complexity of search algorithms (why is A* exponential in the worst case?), and even be able to mathematically prove why A* algorithm with an admissible heuristic will output an optimal solution. Note these examples are nor pre-req, the course will cover them, but we would expect students to be able to do achieve those tasks. To do so, you need programming and SE skills  as well as mathematical and algorithmic backgrounds.  That&amp;rsquo;s why the pre-reqs&amp;hellip; ;-)&lt;/p&gt;
-&lt;h2 id=&#34;what-programming-languages-is-used-in-the-ai-course&#34;&gt;What programming languages is used in the AI course?&lt;/h2&gt;
-&lt;p&gt;It depends on each edition, but since 2017 we have used Python. Before that, we have used C and some Java. Nonetheless, at this stage of the program, students are supposed to be proficient and flexible at programming. For example, many students had their first encounter with Python in this AI course, and they learnt it as part of the course, no problem.&lt;/p&gt;
-&lt;p&gt;The fact is that while being already proficient at the language used may provide benefits and speed up things, the course will not require extremely advanced features and techniques of a particular language that you cannot pick them up during the course itself.&lt;/p&gt;
-&lt;p&gt;There is indeed significant programming work in the course and we expect students, at this stage, to know how to program beyond basic programming.&lt;/p&gt;
+&lt;h2 id=&#34;what-programming-languages-and-tools-are-used-in-the-ai-course&#34;&gt;What programming languages and tools are used in the AI course?&lt;/h2&gt;
+&lt;p&gt;The course is not static and tends to change, adapt, evolve from year to year. So, the tools and programming languages to be used depend on each edition, and therefore the exact details will be stated in Week 1. If a technology is used, it is because it will be reasonable to assume that the student either should already know it OR has the skills to grasp it.&lt;/p&gt;
+&lt;p&gt;For example, students taking AI will be assumed to be proficient at handling version control, and in particular GIT and GitHub, as well as development frameworks like VS Code.&lt;/p&gt;
+&lt;p&gt;In terms of programming, at the stage of this course, students are supposed to be &lt;em&gt;proficient&lt;/em&gt; and &lt;em&gt;flexible&lt;/em&gt; at programming, and hence be able to apply programming techniques in new programming languages. For example, many students had their first encounter with Python in this AI course, and they learnt it as part of the course, no problem! In some editions of the course, it will be part of the course to learn Prolog, a logic-programming language that most students would have never seen! The fact is that while being already proficient at the language used may provide benefits and speed up things, the course will not require extremely advanced features and techniques of a particular language that you cannot pick them up during the course itself.&lt;/p&gt;
+&lt;p&gt;Note that there is indeed significant programming work in the course, and we expect students, at this stage, to know how to program beyond basic programming.&lt;/p&gt;
 &lt;h2 id=&#34;i-am-not-enrolled-in-any-program-and-do-not-intent-to-can-i-take-the-ai-course&#34;&gt;I am not enrolled in any program and do not intent to, can I take the AI course?&lt;/h2&gt;
 &lt;p&gt;See question &amp;ldquo;*I am not enrolled in any program and do not intent to, can I take course X?
 *&amp;rdquo; above under General.&lt;/p&gt;
@@ -1383,6 +1280,119 @@ simulator and a few agent system controllers.&lt;/li&gt;
 &lt;p&gt;Said so, being an intro course to AI, the topics will at least cover the usual ones in any standard AI intro course: &lt;em&gt;search techniques (including A*), knowledge representation &amp;amp; reasoning, probabilities to reason about uncertainty, and some intro to machine learning&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Check Rusell &amp;amp; Norving 
 &lt;a href=&#34;http://aima.cs.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modern AI&lt;/a&gt; book to have an idea of typical topics covered in an AI intro course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Application</title>
+      <link>https://ssardina.github.io/extras/resources/phd-supervision/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://ssardina.github.io/extras/resources/phd-supervision/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Are you interested in applying for a PhD with our school?&lt;/em&gt; If so, you must then read this!&lt;/p&gt;
+&lt;p&gt;Most of the requests I receive about PhD supervision/application are &lt;strong&gt;spam&lt;/strong&gt; or &lt;strong&gt;mass non-targeted requests&lt;/strong&gt; (i.e., messages sent to many academics). I will only respond to you if I believe they are &lt;em&gt;genuine and informed requests&lt;/em&gt;. For that you should show that you &lt;strong&gt;know my research interests/expertise&lt;/strong&gt; and that &lt;strong&gt;you have similar interests&lt;/strong&gt;; otherwise you may &lt;strong&gt;never receive a reply&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Unfortunately, I &lt;strong&gt;do not generally have funding for students&lt;/strong&gt;. When I have funding, I advertise them explicitly. There are some scholarship available at RMIT University (see point 7 below), but note these are &lt;strong&gt;extremely competitive for international applicants&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Potential student interns: I do not usually have funding for internships. When I do, I try to recruit from good RMIT students. I am unable to consider any requests for paid internships.&lt;/p&gt;
+&lt;p&gt;If you have any questions about PhD application (including funding), you can contact me or HDR Coordinators 
+&lt;a href=&#34;https://jeffreychan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A/Prof. Jeffrey Chan&lt;/a&gt; or 
+&lt;a href=&#34;http://www.xiuzhenzhang.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Xiuzhen (Jenny) Zhang&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;There are basically &lt;strong&gt;four steps&lt;/strong&gt; to apply to PhD program:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Check for &lt;strong&gt;eligibility&lt;/strong&gt;: can you do a doctorate program?&lt;/li&gt;
+&lt;li&gt;Identify your &lt;strong&gt;topic-project and potential supervisor&lt;/strong&gt;. In your application you will need that.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact the potential supervisor&lt;/strong&gt;, explain your case: &lt;em&gt;why you want to do PhD in that area and with him/her&lt;/em&gt;. If you don&amp;rsquo;t get his/her potential interest then it makes no sense to continue.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apply&lt;/strong&gt; for entrance to the PhD program. This is done in &lt;em&gt;two phases&lt;/em&gt;:
+&lt;ol&gt;
+&lt;li&gt;Submission of &lt;strong&gt;Expression of interest (EOI)&lt;/strong&gt;. This will depend on step 2 above.&lt;/li&gt;
+&lt;li&gt;Submission of &lt;strong&gt;Full Application&lt;/strong&gt;, if EOI is approved.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apply&lt;/strong&gt; for Scholarship to fund the program or part of it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;All this is done via 
+&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/how-to-apply&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;this centralized RMIT system&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So, the major first step is 3.1 which requires step 2: &lt;em&gt;&lt;strong&gt;identify a potential supervisor and a potential topic/project&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The list of projects are here: 
+&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/find-a-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rmit.edu.au/research/research-degrees/find-a-project&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note these are some ideas of projects. As long as you find an area, topic, or problem that you are interested in, have the background needed to carry work there (e.g., math background), and is compatible with the potential supervisor, it is OK.  The projects can be adapted, changed, or even added to the list!&lt;/p&gt;
+&lt;h3 id=&#34;expression-of-interest&#34;&gt;Expression of Interest&lt;/h3&gt;
+&lt;p&gt;So, if you are &lt;strong&gt;interested in my supervision&lt;/strong&gt;, you must do the following to produce an EOI and eventually the full application (step 4 above):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;First, &lt;strong&gt;familiarize yourself&lt;/strong&gt; with the 
+&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/levels-of-study/research-programs/phd/dr221&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DR221 PhD (Computer Science)&lt;/a&gt; program at RMIT and make sure you meet the 
+&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/levels-of-study/research-programs/phd/dr221&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entry Requirements&lt;/a&gt; for such program. Also be very mindful of the funding of your program, see item 7 below.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Then, &lt;strong&gt;check and study&lt;/strong&gt; well 
+&lt;a href=&#34;https://ssardina.github.io/#projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my areas of work&lt;/a&gt; and 
+&lt;a href=&#34;https://dblp.uni-trier.de/pid/09/129.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my publications&lt;/a&gt; and find a common interest.  Otherwise, you may need to look for 
+&lt;a href=&#34;https://www.rmit.edu.au/about/schools-colleges/computing-technologies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;some other staff member in the school&lt;/a&gt;. I do not take students working areas that I don&amp;rsquo;t have expertise &lt;em&gt;and&lt;/em&gt; interest in.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Contact me&lt;/strong&gt; to check if I am taking students at that moment. You need to tell me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The area/topic that you would like to pursue PhD under my supervision (e.g., path planning, reasoning about action, automated planning, agent oriented programming, goal recognition, etc) and what experience you have on them, if any.&lt;/li&gt;
+&lt;li&gt;My 2-3 papers that got your attention and you would be interested in working around. Please explain &lt;strong&gt;what you liked about those papers&lt;/strong&gt; and what &lt;strong&gt;you think can be improved or studied further&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;A title and one small paragraph of a problem/project you would like to work on. Some possible projects are listed on 
+&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/find-a-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this page&lt;/a&gt;,but &lt;strong&gt;you are not limited to them at all&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If all goes well, then your next step is to then your next step is to &lt;strong&gt;develop a 1-2 page research proposal&lt;/strong&gt; describing a potential research project (including aims, methodology, expected outcomes, etc).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The purpose of this is to allow me/us to evaluate the suitability of your project, the overlap with my research, and its chance of success.&lt;/li&gt;
+&lt;li&gt;The proposal must be &lt;strong&gt;original&lt;/strong&gt;, that is, the product of your own work, and aligned with my areas of work and my publications.&lt;/li&gt;
+&lt;li&gt;Being just a proposal, it does not have to contain technical content or amazing ideas, it is not your PhD, it is just an expression of interest for doing a PhD. However, it should not just be &amp;ldquo;hand-waving&amp;rdquo; or general concepts that cannot be trivially extracted from existing material (e.g., from my papers!). For example, writing things like: &lt;em&gt;&amp;ldquo;I will develop a more powerful system that will help the agent make smarter decisions and in less time&amp;rdquo;&lt;/em&gt; is probably too vague and general. However, saying things like: &lt;em&gt;&amp;ldquo;One limitation of the current approaches is X because R1, R2 and R2. I will investigate how to overcome such limitation by incorporating Y so that A1 and A2 happens, etc.&amp;rdquo;&lt;/em&gt; is in the right direction.&lt;/li&gt;
+&lt;li&gt;The proposal will also indicate your &lt;strong&gt;ability to communicate effectively&lt;/strong&gt;, so make sure it is written well and with care for detail. Remember a PhD is carried out by high-performing students after a great Honour thesis, so you are meant to show good written communication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Once you have your proposal written, you can &lt;strong&gt;send it to me&lt;/strong&gt; and I will let you know whether it is reasonable for me to be your potential supervisor in your application.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While the proposal is part of the application, it is not a &amp;ldquo;contract&amp;rdquo; with the supervisor and you should be &lt;strong&gt;flexible&lt;/strong&gt; on the topic and specific problem.&lt;/li&gt;
+&lt;li&gt;Do not put down my name (or that of any other academic staff!) before following all the above steps. That will most probably significantly reduce your chances to be accepted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Once you have the above (potential supervisor and a research proposal), you can then start your application via the 
+&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/how-to-apply&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMIT submission process&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;p&gt;Acceptance to the PhD program does not directly mean you will be supported financially, both for tuition fees and living expenses during your program.&lt;/p&gt;
+&lt;p&gt;You can search the RMIT site to find the webpages for these scholarships:&lt;/p&gt;
+&lt;p&gt;For &lt;strong&gt;international students&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/international-students/apply-to-rmit-international-students/fees-and-scholarships/scholarships&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scholarships for commencing international students&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://data61.csiro.au/en/Our-Network/Students/Scholarship-Program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data61 PhD Scholarship Program&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.rmit.edu.au/students/careers-opportunities/scholarships/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Tuition Fee Scholarships&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.atn.edu.au/scholarships-grants/atn-latam-scholarships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ATN – LATAM Research Scholarships&lt;/a&gt; (for Latin American citizens).&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/international-students/apply-to-rmit-international-students/fees-and-scholarships/scholarships/colfuturo-rmit-university-joint-scholarship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLFUTURO-RMIT University Joint Scholarship&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://internationaleducation.gov.au/scholarships/scholarships-and-fellowships/pages/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Endeavour Leadership Program&lt;/a&gt;: this covers both full PhD program but also long/short term mobility exchanges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For &lt;strong&gt;local students (PR or Citizens)&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.rmit.edu.au/research/research-degrees/terms-and-conditions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terms and Conditions of various scholarships&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://data61.csiro.au/en/Our-Network/Students/Scholarship-Program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data61 PhD Scholarship Program&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.rmit.edu.au/students/careers-opportunities/scholarships/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grants and Scholarships&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.rmit.edu.au/students/careers-opportunities/scholarships/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Stipend Scholarships&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.dese.gov.au/research-block-grants/research-training-program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Training Program (RTP)&lt;/a&gt; - (APA before)&lt;/li&gt;
+&lt;li&gt;Other funding/scholarships: 
+&lt;a href=&#34;https://www.rmit.edu.au/students/work-study-opportunities/scholarships&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rmit.edu.au/students/work-study-opportunities/scholarships&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When applying for the program, you &lt;strong&gt;should tick the box&lt;/strong&gt; in the application on which PhD scholarships he/she wishes to apply for.&lt;/p&gt;
+&lt;p&gt;Unfortunately, I must warn you that scholarships for international applicants are unfortunately extremely limited and difficult to obtain. :-( You need to have a top grades but may also need publications already to have some chance.&lt;/p&gt;
 </description>
     </item>
     
@@ -1405,243 +1415,6 @@ simulator and a few agent system controllers.&lt;/li&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mirror Page</title>
-      <link>https://ssardina.github.io/extras/intagts07/mirror/</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ssardina.github.io/extras/intagts07/mirror/</guid>
-      <description>&lt;h1 id=&#34;fall-2007&#34;&gt;PhD Course&lt;br&gt;
-Autonomous Agents and Multiagent Systems&lt;br&gt;
-Fall 2007&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.dis.uniroma1.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dipartamento di Informatica e Sistemistica,&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www.uniroma1.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universita di Roma &amp;ldquo;La Sapienza&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;brief-description&#34;&gt;Brief Description&lt;/h3&gt;
-&lt;p&gt;One of the central concerns of Artificial Intelligence is the design and implementation of &lt;em&gt;intelligent/autonomous agents&lt;/em&gt; - active entities that perceive their environment, reason, plan and execute appropriate actions to achieve their goals (in service of their users), react to external changes, and have social abilities that allow them to communicate and interact with other agents and users. These may be robots or intelligent software agents that &amp;ldquo;live&amp;rdquo; on the Internet. Agent-based approaches are good for building &lt;em&gt;open systems&lt;/em&gt; where components can come and go, and work together in &lt;em&gt;flexible&lt;/em&gt; ways. This course focusses on agent programming languages (such as the situation calculus-based Golog and BDI programming languages such as AgentSpeak, 3APL, GOAL, CAN, and JACK). We also cover issues in agent architecture (such as reasoning about action and planning, how to balance reactivity and pro-activeness, etc.), logical models of agency, agent communication languages, multiagent coordination infrastructures and protocols, and applications of intelligent agents.&lt;/p&gt;
-&lt;h3 id=&#34;instructors&#34;&gt;Instructors&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.cs.yorku.ca/%7Elesperan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Yves Lespérance&lt;/a&gt;&lt;br&gt;
-Office: B213&lt;br&gt;
-Tel: ext. 35012&lt;br&gt;
-Email: lesperan at cse.yorku.ca&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/~ssardina/home.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sebastian Sardina&lt;/a&gt;&lt;br&gt;
-Office: B213&lt;br&gt;
-Tel: 35012&lt;br&gt;
-Email: ssardina at cs.rmit.edu.au&lt;/p&gt;
-&lt;h3 id=&#34;lectures&#34;&gt;Lectures&lt;/h3&gt;
-&lt;p&gt;Tuesday 17:30-19:00 and Thursday from 14:00 to 15:30 to in A3.&lt;/p&gt;
-&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
-&lt;p&gt;If you are taking the course for credit, see the instructors to arrange evaluation.&lt;/p&gt;
-&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Lecture 1 (Hour 1 and Hour 2)(November 6): Introduction to Autonomous Agents and Multiagent Systems [Lespérance].&lt;/li&gt;
-&lt;li&gt;Lecture 2 (Hour 3 and Hour 4)(November 8): Overview of Techniques and Tools for Developing Multiagent Systems [Lespérance].&lt;/li&gt;
-&lt;li&gt;Lecture 3 (Hour 5 and Hour 6)(November 13): Reasoning About Action in the Situation Calculus [Lespérance].&lt;/li&gt;
-&lt;li&gt;Lecture 4 (Hour 7 and Hour 8)(November 15): ConGolog, an Agent Programming Language Based on the Situation Calculus [Lespérance].&lt;/li&gt;
-&lt;li&gt;Lecture 5 (Hour 9 and Hour 10)(November 20): Sensing and Planning under Incomplete Information and Dynamic Evironments [Lespérance].&lt;/li&gt;
-&lt;li&gt;Lecture 6 (Hour 11 and Hour 12)(November 22): Practical Reasoning [Sardina].&lt;/li&gt;
-&lt;li&gt;Lecture 7 (Hour 13 and Hour 14)(November 27): Models of BDI Agent Programming [Sardina].&lt;/li&gt;
-&lt;li&gt;Lecture 8 (Hour 15 and Hour 16)((November 29): Declarative Goals and Planning in BDI Agent Programming Systems [Sardina].&lt;/li&gt;
-&lt;li&gt;Lecture 9 (Hour 17 and Hour 18)(December 4): Practical BDI Agent Programming I [Sardina].&lt;/li&gt;
-&lt;li&gt;Lecture 10 (Hour 19 and Hour 20)(December 6): Practical BDI Agent Programming II [Sardina].&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references-and-links&#34;&gt;References and Links&lt;/h2&gt;
-&lt;h4 id=&#34;general-references&#34;&gt;General References&lt;/h4&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.csc.liv.ac.uk/%7Emjw/pubs/imas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wooldridge M., &lt;em&gt;An Introduction to Multiagent Systems,&lt;/em&gt; Wiley, 2002.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Reiter, R., &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems,&lt;/em&gt; MIT Press, 2001. 
-&lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262182181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher&lt;/a&gt;, 
-&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/kia/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book home page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://books.elsevier.com/us//mk/us/subindex.asp?maintarget=&amp;amp;isbn=&amp;amp;country=United&amp;#43;States&amp;amp;srccode=&amp;amp;ref=&amp;amp;subcode=&amp;amp;head=&amp;amp;pdf=&amp;amp;basiccode=&amp;amp;txtSearch=&amp;amp;SearchField=&amp;amp;operator=&amp;amp;order=&amp;amp;community=mk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ronald J. Brachman and Hector J. Levesque, &lt;em&gt;Knowledge Representation and Reasoning,&lt;/em&gt; Elsevier/Morgan Kaufmann, 2004.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Weiss, Gerhard (Ed.), &lt;em&gt;Multiagent Systems, A Modern Approach to Distributed Artificial Intelligence&lt;/em&gt;, MIT Press, 1999. 
-&lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262731312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Huhns, M.N. and Singh, M.P. (Eds.), &lt;em&gt;Readings in Agents,&lt;/em&gt; Morgan Kaufmann, San Francisco, CA, 1997.&lt;/p&gt;
-&lt;p&gt;Wooldridge M. and Jennings, N.R., Intelligent Agents: Theory and Practice, &lt;em&gt;Knowledge Engineering Review,&lt;/em&gt; &lt;strong&gt;10&lt;/strong&gt; (2), 115-152, 1995; 
-&lt;a href=&#34;http://www.csc.liv.ac.uk/%7Emjw/pubs/ker95/ker95.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF version&lt;/a&gt;, 
-&lt;a href=&#34;http://www.csc.liv.ac.uk/%7Emjw/pubs/ker95/ker95-html.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML version.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bradshaw, J. (Ed.), &lt;em&gt;Software Agents,&lt;/em&gt; AAAI Press/MIT Press, Cambridge, MA, 1997.&lt;/p&gt;
-&lt;p&gt;Jennings, N.R. and Wooldridge, M. (Eds.), &lt;em&gt;Agent Technology: Foundations, Applications, and Markets,&lt;/em&gt; Springer Verlag, Berlin, 1998.&lt;/p&gt;
-&lt;p&gt;Wooldridge, M. and Rao, A. (Eds.), &lt;em&gt;Foundations of Rational Agency,&lt;/em&gt; Applied Logic Series, Vol. 14, Kluwer, Dordrecht, 1999.&lt;/p&gt;
-&lt;p&gt;Clocksin, W.F. and Mellish, C.S., &lt;em&gt;Programming in Prolog,&lt;/em&gt; Springer Verlag, New York, 1987. Third edition.&lt;/p&gt;
-&lt;p&gt;Russell, S.J. and Norvig, P., &lt;em&gt;Artificial Intelligence: A Modern Approach, 2nd Edition&lt;/em&gt; Prentice Hall, 2003.&lt;/p&gt;
-&lt;h2 id=&#34;readings-and-lecture-transparencies&#34;&gt;Readings and Lecture Transparencies&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 1 (Hour 1 and Hour 2)(November 6): Introduction to Autonomous Agents and Multiagent Systems [Lespérance].&lt;br&gt;
-
-&lt;a href=&#34;slides/lecture1.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-Wooldridge M., &lt;em&gt;Introduction to Multiagent Systems,&lt;/em&gt; Chapter 1 to end of Section 1.2 and Chapter 2 to end of Section 2.5.&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://citeseer.ist.psu.edu/rd/43480128%2C42160%2C1%2C0.25%2CDownload/http://coblitz.codeen.org:3125/citeseer.ist.psu.edu/cache/papers/cs/1262/http:zSzzSzwww.ai.sri.comzSzpubszSzpaperszSzBrat88-349:PlanszSzdocument.pdf/bratman88plans.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bratman, M.E., Israel, D.J., and Pollack, M.E. Plans and Resource-Bounded Practical Reasoning. &lt;em&gt;Computational Intelligence&lt;/em&gt; , &lt;strong&gt;4&lt;/strong&gt;, 349-355, 1988.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ICVS06.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Borzenko, O., Xu, W., Obsniuk, M., Chopra, A., Jasiobedzki, P., Jenkin, M., and Lespérance, Y.. Lights and Camera: Intelligently Controlled Multi-channel Pose Estimation System. In &lt;em&gt;Proc. of the IEEE International Conference on Vision Systems (ICVS&#39;06)&lt;/em&gt;, paper 42 (8 pages), New York, NY, January, 2006.&lt;/a&gt;&lt;br&gt;
-Cohen, P.R. and Levesque, H.J. Intention is Choice with Commitment, &lt;em&gt;Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;42&lt;/strong&gt; (2-3), 213-261, 1990.&lt;br&gt;
-
-&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/Papers/DeLe99ray.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. De Giacomo and H.J. Levesque. An Incremental Interpreter for High-Level Programs with Sensing. In &lt;em&gt;Logical Foundation for Cognitive Agents: Contributions in Honor of Ray Reiter&lt;/em&gt;, Hector J. Levesque and Fiora Pirri, editors, pages 86-102, Springer 1999.&lt;/a&gt;&lt;br&gt;
-Dennett, D. &lt;em&gt;The Intentional Stance&lt;/em&gt;, MIT Press, Cambridge, MA, USA, 1987.&lt;br&gt;
-Lapouchnian, A. and Lespérance, Y.. Interfacing IndiGolog and OAA - A Toolkit for Advanced Multiagent Applications. &lt;em&gt;Applied Artificial Intelligence&lt;/em&gt; &lt;strong&gt;16&lt;/strong&gt;(9-10), 813-829, 2002.&lt;br&gt;
-
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/Cogrobo00.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lespérance, Y. and Ng, H.-K. Integrating Planning into Reactive High-Level Robot Programs. In &lt;em&gt;Proceedings of the Second International Cognitive Robotics Workshop&lt;/em&gt;, 49-54, Berlin, Germany, August, 2000.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 2 (Hour 3 and Hour 4)(November 8): Overview of Techniques and Tools for Developing Multiagent Systems [Lespérance].&lt;br&gt;
-
-&lt;a href=&#34;slides/lecture2.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-Wooldridge M., &lt;em&gt;Introduction to Multiagent Systems,&lt;/em&gt; Chapter 8 to end of Section 2.2 and Chapter 9 to end of Section 9.2.&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www3.interscience.wiley.com/cgi-bin/abstract/76504934/ABSTRACT?CRETRY=1&amp;amp;SRETRY=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bellifemine F., Poggi, A., and Rimassa, G. Developing Multi-Agent Systems with a FIPA-Compliant Agent Framework &lt;em&gt;Software: Practice and Experience&lt;/em&gt;, &lt;strong&gt;31&lt;/strong&gt; (2), 103-128, 2000.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www.fipa.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FIPA home page&lt;/a&gt;.&lt;br&gt;
-
-&lt;a href=&#34;http://jade.cselt.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JADE home page&lt;/a&gt;.&lt;br&gt;
-
-&lt;a href=&#34;http://www.cs.yorku.ca/~erickm/ig-jade/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Martinez&amp;rsquo;s IndiGolog-JADE page&lt;/a&gt;.&lt;br&gt;
-
-&lt;a href=&#34;http://www.ai.sri.com/~oaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAA home page&lt;/a&gt;.&lt;br&gt;
-
-&lt;a href=&#34;http://www.cs.yorku.ca/~alexei/ig-oaa/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IgOAAlib home page&lt;/a&gt;,&lt;br&gt;
-Cohen, P.R. and Levesque, H.J. Rational Interaction as the Basis for Communication. In &lt;em&gt;Intentions in Communication&lt;/em&gt;, P.R. Cohen, J. Morgan, and M.E. Pollack (eds.), 221-256, MIT Press, Cambridge MA, 1990.&lt;br&gt;
-Smith, R.G. The CONTRACT NET: A Formalism for the Control of Distributed Problem Solving. In &lt;em&gt;Proc. of the 5th Int. Joint Conf. on Artificial Intelligence (IJCAI-77),&lt;/em&gt; Cambridge, MA, 1977.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 3 (Hour 5 and Hour 6)(November 13): Reasoning About Action in the Situation Calculus [Lespérance].&lt;br&gt;
-
-&lt;a href=&#34;slides/BLch14-15-4pp.pdf&#34;&gt;Lecture transparencies from Brachman &amp;amp; Levesque Ch. 14 &amp;amp; 15.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-Just read the lecture transparencies ahead of time.&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-Chapter 14 and Section 15.1 of 
-&lt;a href=&#34;http://books.elsevier.com/us//mk/us/subindex.asp?maintarget=&amp;amp;isbn=&amp;amp;country=United&amp;#43;States&amp;amp;srccode=&amp;amp;ref=&amp;amp;subcode=&amp;amp;head=&amp;amp;pdf=&amp;amp;basiccode=&amp;amp;txtSearch=&amp;amp;SearchField=&amp;amp;operator=&amp;amp;order=&amp;amp;community=mk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ronald J. Brachman and Hector J. Levesque, &lt;em&gt;Knowledge Representation and Reasoning,&lt;/em&gt; Elsevier/Morgan Kaufmann, 2004; copies can be obtained from the instructor.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
-McCarthy, J. and Hayes, P.J. Some Philosophical Problems from the Standpoint of Artificial Intelligence. In &lt;em&gt;Machine Intelligence 4&lt;/em&gt;, B. Meltzer and D. Michie (eds.), 463-502, Edinburgh Univ. Press, Edinburgh, 1969.&lt;br&gt;
-Reiter, R., &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems,&lt;/em&gt; MIT Press, 2001. 
-&lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262182181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher,&lt;/a&gt; 
-&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/kia/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book home page&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 4 (Hour 7 and Hour 8)(November 15): High-Level Programming in the Situation Calculus: Golog and ConGolog [Lespérance].&lt;br&gt;
-
-&lt;a href=&#34;slides/lecture4.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-Just read the lecture transparencies ahead of time.&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ConGologAIJ.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Giacomo, G., Lespérance, Y., and Levesque, H.J.. ConGolog, a concurrent programming language based on the situation calculus. &lt;em&gt;Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;121&lt;/strong&gt;, 109-169, 2000.&lt;/a&gt; (Sections 7 and 8, the appendix, and proofs can be skipped.)&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
-Reiter, R., &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems,&lt;/em&gt; MIT Press, 2001. 
-&lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262182181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher,&lt;/a&gt; 
-&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/kia/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book home page&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 5 (Hour 9 and Hour 10)(November 20): Sensing and Planning under Incomplete Information and Dynamic Evironments [Lespérance].&lt;br&gt;
-
-&lt;a href=&#34;slides/lecture5.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/AMAI04.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. De Giacomo, Y. Lespérance, H.J. Levesque, and S. Sardina. On the Semantics of Deliberation in IndiGolog - From Theory to Implementation. &lt;em&gt;Annals of Mathematics and Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;41&lt;/strong&gt;&lt;em&gt;(2-4)&lt;/em&gt;, 259-299, August, 2004.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;slides/lecture5refs.html&#34;&gt;References.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 6 (Hour 11 and Hour 12)(November 22): Practical Reasoning [Sardina].&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/lect06-handouts-practical_reasoning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/bratman88plans-IRMA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bratman, M. E., Israel, D. J., and Pollack, M. E. (1988). Plans and resource-bounded practical reasoning. Computational Intelligence, 4:349-355.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/ractive-reasoning-PRS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Georgeff, M. P. and Lansky, A. L. (1987). Reactive reasoning and planning. In Proceedings of the Sixth National Conference on Artificial Intelligence (AAAI-87), pages 677-682, Seattle, WA.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-Bratman, M. E. (1987). Intentions, Plans, and Practical Reason. Harvard University Press: Cambridge, MA.&lt;br&gt;
-Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA.&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/cohenlevesque-intention-aij90.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cohen, P. R. and Levesque, H. J. (1990a). Intention is choice with commitment. Artificial Intelligence, 42:213-261.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/rao-modelingBDI-kr91.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rao, A. S. and Georgeff, M. P. (1991b). Modeling rational agents within a BDI-architecture. In Fikes, R. and Sandewall, E., editors, Proceedings of Knowledge Representation and Reasoning (KR&amp;amp;R-91), pages 473-484. Morgan Kaufmann Publishers: San Mateo, CA.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/ieee-exp92-PRS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Francois F. Ingrand , Michael P. Georgeff , Anand S. Rao, An architecture for Real-Time Reasoning and System Control, IEEE Expert: Intelligent Systems and Their Applications, v.7 n.6, p.34-44, December 1992.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 7 (Hour 13 and Hour 14)(November 27): Models of BDI Agent Programming [Sardina].&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/handout_bdi-programming.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/rao96agentspeakl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. S. Rao. AgentSpeak(L): BDI agents speak out in a logical computable language. In Proceedings of the Seventh European Workshop on Modelling Autonomous Agents in a Multi-Agent World, volume 1038 of LNCS, pages 4255. 1996. (Sections 1-2).&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/kr02-CAN.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Winikoff, L. Padgham, J. Harland, and J. Thangarajah. Declarative &amp;amp; Procedural Goals in Intelligent Agent Systems. In Proceedings of the Eighth International Conference on Principles and Knowledge Representation and Reasoning, pages 470481. 2002. (Sections 1-3).&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/3APL-journal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koen V. Hindriks, Frank S. de Boer, Wiebe van der Hoek, John-Jules Ch. Meyer: Agent Programming in 3APL. Autonomous Agents and Multi-Agent Systems 2(4): 357-401 (1999).&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/agentverification-jal5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank S. de Boer, Koen V. Hindriks, Wiebe van der Hoek, John-Jules Ch. Meyer: A verification framework for agent programming with declarative goals. J. Applied Logic 5(2): 277-302 (2007).&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 8 (Hour 15 and Hour 16)(November 29): Declarative Goals and Planning in BDI Programming Systems [Sardina].&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/handout_decgoals-and-planning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Required readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/aamas06-SDSP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian Sardina, Lavindra de Silva, Lin Padgham: Hierarchical planning in BDI agent programming languages: a formal approach. AAMAS 2006: 1001-1008.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/shop2-nau03a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dana S. Nau, Tsz-Chiu Au, Okhtay Ilghami, Ugur Kuter, J. William Murdock, Dan Wu, Fusun Yaman: SHOP2: An HTN Planning System. J. Artif. Intell. Res. (JAIR) 20: 379-404 (2003).&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/complex-express-htn.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kutluhan Erol, James A. Hendler, Dana S. Nau: Complexity Results for HTN Planning. Ann. Math. Artif. Intell. 18(1): 69-93 (1996).&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/dignum_04_dynamics_of_decl_goals.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Birna van Riemsdijk, Mehdi Dastani, Frank Dignum, John-Jules Ch. Meyer: Dynamics of Declarative Goals in Agent Programming. DALT 2004: 1-18.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/IMPACT_SHOP-amai-2003.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jurgen Dix, Hector Munoz-Avila, Dana S. Nau, Lingling Zhang: IMPACTing SHOP: Putting an AI Planner Into a Multi-Agent Environment. Ann. Math. Artif. Intell. 37(4): 381-407 (2003).&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/plan-patterns-aamas06-bordini.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jomi Fred Hubner, Rafael H. Bordini, Michael Wooldridge: Programming Declarative Goals Using Plan Patterns. DALT 2006: 123-140.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/aamas07-SP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian Sardina and Lin Padgham. Goals in the context of BDI plan failure and planning. In Proceedings of Autonomous Agents and Multi-Agent Systems (AAMAS), Hawaii, USA, May 2007. ACM Press.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 9 (Hour 17 and Hour 18)(December 4): Practical BDI Agent Programming I [Sardina].&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect09/handout_jackbdi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Optional readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect09/busetta99jack.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paolo Busetta, Ralph Ronnquist, Andrew Hodgson, and Andrew Lucas. JACK Intelligent Agents Components for Intelligent Agents in Java, 1999.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www.agent-software.com.au/shared/products/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JACK web page.&lt;/a&gt;&lt;br&gt;
-[Jason web page.](
-&lt;a href=&#34;http://jason.sourceforge.net/JasonWebSite/Jason&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://jason.sourceforge.net/JasonWebSite/Jason&lt;/a&gt; Home.php)&lt;br&gt;
-
-&lt;a href=&#34;http://vsis-www.informatik.uni-hamburg.de/projects/jadex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jadex web page.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www.cs.uu.nl/3apl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3APL web page.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www.ai.sri.com/~spark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARK web page.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lecture 10 (Hour 19 and Hour 20)(December 6): Practical BDI Agent Programming II [Sardina].&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/handout_pdt.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Readings:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/Jennings_1999.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. R. Jennings. On agent-based software engineering. Artificial Intelligence, March, 2000, vol. 117, no. 2, p. 277-296.&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/oopsla02.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lin Padgham and Michael Winikoff. Prometheus: A Pragmatic Methodology for Engineering Intelligent Agents. In Proc. of the workshop on Agent-oriented methodologies at OOPSLA 2002. November 4, 2002, Seattle.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;References:&lt;/em&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www.science.unitn.it/~recla/aose/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AOSE Methodologies web page.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -1774,7 +1547,7 @@ Goal Recognition Using Off-The-Shelf Process Mining Techniques. AAMAS 2020: 1072
       <guid>https://ssardina.github.io/project/gr/</guid>
       <description>&lt;p&gt;The goal/intention recognition problem is the task of identifying an agent’s intent by observing its behaviour. Traditionally, the problem has involved matching a sequence of observations to a plan in a pre-defined plan library; the winning plan being the one that &amp;ldquo;best&amp;rdquo; matches the observations.&lt;/p&gt;
 &lt;p&gt;Recent developments dispense with the overhead of a plan library and instead&amp;mdash;based on the assumption that the observed agent is behaving rationally&amp;mdash;take a cost-based approach and uses classical planning technology to generate candidate plans as needed over a domain model.&lt;/p&gt;
-&lt;p&gt;In a series of work, we have extended and improved the cost-based approach to goal recognition, both for general task planning and path planning. We have worked on how to make recognition faster and more robust to irrational/erratic observed behavior. We have also looked at its&#39; dual problem: &lt;em&gt;deceptive behavior&lt;/em&gt;, the problem of generating behavior that is as deceptive as possible, while still achieving the intended objective.&lt;/p&gt;
+&lt;p&gt;In a series of work, we have extended and improved the cost-based approach to goal recognition, both for general task planning and path planning. We have worked on how to make recognition faster and more robust to irrational/erratic observed behavior. We have also looked at its&amp;rsquo; dual problem: &lt;em&gt;deceptive behavior&lt;/em&gt;, the problem of generating behavior that is as deceptive as possible, while still achieving the intended objective.&lt;/p&gt;
 &lt;p&gt;Some representative papers are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Peta Masters, Sebastian Sardiña: 
@@ -2322,7 +2095,7 @@ $$&lt;/p&gt;
 &lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;&amp;#x2764;&amp;#xfe0f; &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -2332,7 +2105,7 @@ $$&lt;/p&gt;
 &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;👕 
 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
+&lt;li&gt;&amp;#x1f469;&amp;zwj;&amp;#x1f4bb; 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -2496,6 +2269,260 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title></title>
+      <link>https://ssardina.github.io/extras/intagts07/mirror/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ssardina.github.io/extras/intagts07/mirror/</guid>
+      <description>&lt;h1 id=&#34;course-title-summary-and-position&#34;&gt;Course title, summary, and position.&lt;/h1&gt;
+&lt;p&gt;linktitle: Mirrored Page
+summary: Prof. Lesperance&amp;rsquo;s page of the course&lt;/p&gt;
+&lt;h1 id=&#34;page-metadata&#34;&gt;Page metadata.&lt;/h1&gt;
+&lt;p&gt;title: Mirror Page
+date: &amp;ldquo;2022-01-18T00:00:00Z&amp;rdquo;
+lastmod: &amp;ldquo;2022-01-18T00:00:00Z&amp;rdquo;
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.&lt;/p&gt;
+&lt;h1 id=&#34;add-menu-entry-to-sidebar&#34;&gt;Add menu entry to sidebar.&lt;/h1&gt;
+&lt;h1 id=&#34;--name-declare-this-menu-item-as-a-parent-with-id-name&#34;&gt;- name: Declare this menu item as a parent with ID &lt;code&gt;name&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;--weight-position-of-link-in-menu&#34;&gt;- weight: Position of link in menu.&lt;/h1&gt;
+&lt;h2 id=&#34;weight-1rm&#34;&gt;menu:
+spnz07:
+name: Overview
+weight: 1rm&lt;/h2&gt;
+&lt;h1 id=&#34;fall-2007&#34;&gt;PhD Course
+Autonomous Agents and Multiagent Systems
+Fall 2007&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.dis.uniroma1.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dipartamento di Informatica e Sistemistica,&lt;/a&gt;
+
+&lt;a href=&#34;http://www.uniroma1.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universita di Roma &amp;ldquo;La Sapienza&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;brief-description&#34;&gt;Brief Description&lt;/h3&gt;
+&lt;p&gt;One of the central concerns of Artificial Intelligence is the design and implementation of &lt;em&gt;intelligent/autonomous agents&lt;/em&gt; - active entities that perceive their environment, reason, plan and execute appropriate actions to achieve their goals (in service of their users), react to external changes, and have social abilities that allow them to communicate and interact with other agents and users. These may be robots or intelligent software agents that &amp;ldquo;live&amp;rdquo; on the Internet. Agent-based approaches are good for building &lt;em&gt;open systems&lt;/em&gt; where components can come and go, and work together in &lt;em&gt;flexible&lt;/em&gt; ways. This course focusses on agent programming languages (such as the situation calculus-based Golog and BDI programming languages such as AgentSpeak, 3APL, GOAL, CAN, and JACK). We also cover issues in agent architecture (such as reasoning about action and planning, how to balance reactivity and pro-activeness, etc.), logical models of agency, agent communication languages, multiagent coordination infrastructures and protocols, and applications of intelligent agents.&lt;/p&gt;
+&lt;h3 id=&#34;instructors&#34;&gt;Instructors&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.cs.yorku.ca/%7Elesperan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Yves Lespérance&lt;/a&gt;
+Office: B213
+Tel: ext. 35012
+Email: lesperan at cse.yorku.ca&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/~ssardina/home.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sebastian Sardina&lt;/a&gt;
+Office: B213
+Tel: 35012
+Email: ssardina at cs.rmit.edu.au&lt;/p&gt;
+&lt;h3 id=&#34;lectures&#34;&gt;Lectures&lt;/h3&gt;
+&lt;p&gt;Tuesday 17:30-19:00 and Thursday from 14:00 to 15:30 to in A3.&lt;/p&gt;
+&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
+&lt;p&gt;If you are taking the course for credit, see the instructors to arrange evaluation.&lt;/p&gt;
+&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture 1 (Hour 1 and Hour 2)(November 6): Introduction to Autonomous Agents and Multiagent Systems [Lespérance].&lt;/li&gt;
+&lt;li&gt;Lecture 2 (Hour 3 and Hour 4)(November 8): Overview of Techniques and Tools for Developing Multiagent Systems [Lespérance].&lt;/li&gt;
+&lt;li&gt;Lecture 3 (Hour 5 and Hour 6)(November 13): Reasoning About Action in the Situation Calculus [Lespérance].&lt;/li&gt;
+&lt;li&gt;Lecture 4 (Hour 7 and Hour 8)(November 15): ConGolog, an Agent Programming Language Based on the Situation Calculus [Lespérance].&lt;/li&gt;
+&lt;li&gt;Lecture 5 (Hour 9 and Hour 10)(November 20): Sensing and Planning under Incomplete Information and Dynamic Evironments [Lespérance].&lt;/li&gt;
+&lt;li&gt;Lecture 6 (Hour 11 and Hour 12)(November 22): Practical Reasoning [Sardina].&lt;/li&gt;
+&lt;li&gt;Lecture 7 (Hour 13 and Hour 14)(November 27): Models of BDI Agent Programming [Sardina].&lt;/li&gt;
+&lt;li&gt;Lecture 8 (Hour 15 and Hour 16)((November 29): Declarative Goals and Planning in BDI Agent Programming Systems [Sardina].&lt;/li&gt;
+&lt;li&gt;Lecture 9 (Hour 17 and Hour 18)(December 4): Practical BDI Agent Programming I [Sardina].&lt;/li&gt;
+&lt;li&gt;Lecture 10 (Hour 19 and Hour 20)(December 6): Practical BDI Agent Programming II [Sardina].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references-and-links&#34;&gt;References and Links&lt;/h2&gt;
+&lt;h4 id=&#34;general-references&#34;&gt;General References&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.csc.liv.ac.uk/%7Emjw/pubs/imas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wooldridge M., &lt;em&gt;An Introduction to Multiagent Systems,&lt;/em&gt; Wiley, 2002.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Reiter, R., &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems,&lt;/em&gt; MIT Press, 2001. 
+&lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262182181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher&lt;/a&gt;, 
+&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/kia/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book home page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://books.elsevier.com/us//mk/us/subindex.asp?maintarget=&amp;amp;isbn=&amp;amp;country=United&amp;#43;States&amp;amp;srccode=&amp;amp;ref=&amp;amp;subcode=&amp;amp;head=&amp;amp;pdf=&amp;amp;basiccode=&amp;amp;txtSearch=&amp;amp;SearchField=&amp;amp;operator=&amp;amp;order=&amp;amp;community=mk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ronald J. Brachman and Hector J. Levesque, &lt;em&gt;Knowledge Representation and Reasoning,&lt;/em&gt; Elsevier/Morgan Kaufmann, 2004.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Weiss, Gerhard (Ed.), &lt;em&gt;Multiagent Systems, A Modern Approach to Distributed Artificial Intelligence&lt;/em&gt;, MIT Press, 1999. 
+&lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262731312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Huhns, M.N. and Singh, M.P. (Eds.), &lt;em&gt;Readings in Agents,&lt;/em&gt; Morgan Kaufmann, San Francisco, CA, 1997.&lt;/p&gt;
+&lt;p&gt;Wooldridge M. and Jennings, N.R., Intelligent Agents: Theory and Practice, &lt;em&gt;Knowledge Engineering Review,&lt;/em&gt; &lt;strong&gt;10&lt;/strong&gt; (2), 115-152, 1995; 
+&lt;a href=&#34;http://www.csc.liv.ac.uk/%7Emjw/pubs/ker95/ker95.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF version&lt;/a&gt;, 
+&lt;a href=&#34;http://www.csc.liv.ac.uk/%7Emjw/pubs/ker95/ker95-html.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML version.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bradshaw, J. (Ed.), &lt;em&gt;Software Agents,&lt;/em&gt; AAAI Press/MIT Press, Cambridge, MA, 1997.&lt;/p&gt;
+&lt;p&gt;Jennings, N.R. and Wooldridge, M. (Eds.), &lt;em&gt;Agent Technology: Foundations, Applications, and Markets,&lt;/em&gt; Springer Verlag, Berlin, 1998.&lt;/p&gt;
+&lt;p&gt;Wooldridge, M. and Rao, A. (Eds.), &lt;em&gt;Foundations of Rational Agency,&lt;/em&gt; Applied Logic Series, Vol. 14, Kluwer, Dordrecht, 1999.&lt;/p&gt;
+&lt;p&gt;Clocksin, W.F. and Mellish, C.S., &lt;em&gt;Programming in Prolog,&lt;/em&gt; Springer Verlag, New York, 1987. Third edition.&lt;/p&gt;
+&lt;p&gt;Russell, S.J. and Norvig, P., &lt;em&gt;Artificial Intelligence: A Modern Approach, 2nd Edition&lt;/em&gt; Prentice Hall, 2003.&lt;/p&gt;
+&lt;h2 id=&#34;readings-and-lecture-transparencies&#34;&gt;Readings and Lecture Transparencies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 1 (Hour 1 and Hour 2)(November 6): Introduction to Autonomous Agents and Multiagent Systems [Lespérance].
+
+&lt;a href=&#34;slides/lecture1.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+Wooldridge M., &lt;em&gt;Introduction to Multiagent Systems,&lt;/em&gt; Chapter 1 to end of Section 1.2 and Chapter 2 to end of Section 2.5.
+&lt;em&gt;Optional readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://citeseer.ist.psu.edu/rd/43480128%2C42160%2C1%2C0.25%2CDownload/http://coblitz.codeen.org:3125/citeseer.ist.psu.edu/cache/papers/cs/1262/http:zSzzSzwww.ai.sri.comzSzpubszSzpaperszSzBrat88-349:PlanszSzdocument.pdf/bratman88plans.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bratman, M.E., Israel, D.J., and Pollack, M.E. Plans and Resource-Bounded Practical Reasoning. &lt;em&gt;Computational Intelligence&lt;/em&gt; , &lt;strong&gt;4&lt;/strong&gt;, 349-355, 1988.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
+
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ICVS06.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Borzenko, O., Xu, W., Obsniuk, M., Chopra, A., Jasiobedzki, P., Jenkin, M., and Lespérance, Y.. Lights and Camera: Intelligently Controlled Multi-channel Pose Estimation System. In &lt;em&gt;Proc. of the IEEE International Conference on Vision Systems (ICVS&#39;06)&lt;/em&gt;, paper 42 (8 pages), New York, NY, January, 2006.&lt;/a&gt;
+Cohen, P.R. and Levesque, H.J. Intention is Choice with Commitment, &lt;em&gt;Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;42&lt;/strong&gt; (2-3), 213-261, 1990.
+
+&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/Papers/DeLe99ray.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. De Giacomo and H.J. Levesque. An Incremental Interpreter for High-Level Programs with Sensing. In &lt;em&gt;Logical Foundation for Cognitive Agents: Contributions in Honor of Ray Reiter&lt;/em&gt;, Hector J. Levesque and Fiora Pirri, editors, pages 86-102, Springer 1999.&lt;/a&gt;
+Dennett, D. &lt;em&gt;The Intentional Stance&lt;/em&gt;, MIT Press, Cambridge, MA, USA, 1987.
+Lapouchnian, A. and Lespérance, Y.. Interfacing IndiGolog and OAA - A Toolkit for Advanced Multiagent Applications. &lt;em&gt;Applied Artificial Intelligence&lt;/em&gt; &lt;strong&gt;16&lt;/strong&gt;(9-10), 813-829, 2002.
+
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/Cogrobo00.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lespérance, Y. and Ng, H.-K. Integrating Planning into Reactive High-Level Robot Programs. In &lt;em&gt;Proceedings of the Second International Cognitive Robotics Workshop&lt;/em&gt;, 49-54, Berlin, Germany, August, 2000.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 2 (Hour 3 and Hour 4)(November 8): Overview of Techniques and Tools for Developing Multiagent Systems [Lespérance].
+
+&lt;a href=&#34;slides/lecture2.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+Wooldridge M., &lt;em&gt;Introduction to Multiagent Systems,&lt;/em&gt; Chapter 8 to end of Section 2.2 and Chapter 9 to end of Section 9.2.
+&lt;em&gt;Optional readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://www3.interscience.wiley.com/cgi-bin/abstract/76504934/ABSTRACT?CRETRY=1&amp;amp;SRETRY=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bellifemine F., Poggi, A., and Rimassa, G. Developing Multi-Agent Systems with a FIPA-Compliant Agent Framework &lt;em&gt;Software: Practice and Experience&lt;/em&gt;, &lt;strong&gt;31&lt;/strong&gt; (2), 103-128, 2000.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
+
+&lt;a href=&#34;http://www.fipa.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FIPA home page&lt;/a&gt;.
+
+&lt;a href=&#34;http://jade.cselt.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JADE home page&lt;/a&gt;.
+
+&lt;a href=&#34;http://www.cs.yorku.ca/~erickm/ig-jade/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Martinez&amp;rsquo;s IndiGolog-JADE page&lt;/a&gt;.
+
+&lt;a href=&#34;http://www.ai.sri.com/~oaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAA home page&lt;/a&gt;.
+
+&lt;a href=&#34;http://www.cs.yorku.ca/~alexei/ig-oaa/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IgOAAlib home page&lt;/a&gt;,
+Cohen, P.R. and Levesque, H.J. Rational Interaction as the Basis for Communication. In &lt;em&gt;Intentions in Communication&lt;/em&gt;, P.R. Cohen, J. Morgan, and M.E. Pollack (eds.), 221-256, MIT Press, Cambridge MA, 1990.
+Smith, R.G. The CONTRACT NET: A Formalism for the Control of Distributed Problem Solving. In &lt;em&gt;Proc. of the 5th Int. Joint Conf. on Artificial Intelligence (IJCAI-77),&lt;/em&gt; Cambridge, MA, 1977.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 3 (Hour 5 and Hour 6)(November 13): Reasoning About Action in the Situation Calculus [Lespérance].
+
+&lt;a href=&#34;slides/BLch14-15-4pp.pdf&#34;&gt;Lecture transparencies from Brachman &amp;amp; Levesque Ch. 14 &amp;amp; 15.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+Just read the lecture transparencies ahead of time.
+&lt;em&gt;Optional readings:&lt;/em&gt;
+Chapter 14 and Section 15.1 of 
+&lt;a href=&#34;http://books.elsevier.com/us//mk/us/subindex.asp?maintarget=&amp;amp;isbn=&amp;amp;country=United&amp;#43;States&amp;amp;srccode=&amp;amp;ref=&amp;amp;subcode=&amp;amp;head=&amp;amp;pdf=&amp;amp;basiccode=&amp;amp;txtSearch=&amp;amp;SearchField=&amp;amp;operator=&amp;amp;order=&amp;amp;community=mk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ronald J. Brachman and Hector J. Levesque, &lt;em&gt;Knowledge Representation and Reasoning,&lt;/em&gt; Elsevier/Morgan Kaufmann, 2004; copies can be obtained from the instructor.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
+McCarthy, J. and Hayes, P.J. Some Philosophical Problems from the Standpoint of Artificial Intelligence. In &lt;em&gt;Machine Intelligence 4&lt;/em&gt;, B. Meltzer and D. Michie (eds.), 463-502, Edinburgh Univ. Press, Edinburgh, 1969.
+Reiter, R., &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems,&lt;/em&gt; MIT Press, 2001. 
+&lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262182181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher,&lt;/a&gt; 
+&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/kia/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book home page&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 4 (Hour 7 and Hour 8)(November 15): High-Level Programming in the Situation Calculus: Golog and ConGolog [Lespérance].
+
+&lt;a href=&#34;slides/lecture4.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+Just read the lecture transparencies ahead of time.
+&lt;em&gt;Optional readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/ConGologAIJ.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Giacomo, G., Lespérance, Y., and Levesque, H.J.. ConGolog, a concurrent programming language based on the situation calculus. &lt;em&gt;Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;121&lt;/strong&gt;, 109-169, 2000.&lt;/a&gt; (Sections 7 and 8, the appendix, and proofs can be skipped.)
+&lt;em&gt;References:&lt;/em&gt;
+Reiter, R., &lt;em&gt;Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems,&lt;/em&gt; MIT Press, 2001. 
+&lt;a href=&#34;http://cognet.mit.edu/library/books/view?isbn=0262182181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisher,&lt;/a&gt; 
+&lt;a href=&#34;http://www.cs.toronto.edu/cogrobo/kia/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book home page&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 5 (Hour 9 and Hour 10)(November 20): Sensing and Planning under Incomplete Information and Dynamic Evironments [Lespérance].
+
+&lt;a href=&#34;slides/lecture5.pdf&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://www.cse.yorku.ca/~lesperan/papers/AMAI04.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. De Giacomo, Y. Lespérance, H.J. Levesque, and S. Sardina. On the Semantics of Deliberation in IndiGolog - From Theory to Implementation. &lt;em&gt;Annals of Mathematics and Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;41&lt;/strong&gt;&lt;em&gt;(2-4)&lt;/em&gt;, 259-299, August, 2004.&lt;/a&gt;
+
+&lt;a href=&#34;slides/lecture5refs.html&#34;&gt;References.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 6 (Hour 11 and Hour 12)(November 22): Practical Reasoning [Sardina].
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/lect06-handouts-practical_reasoning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/bratman88plans-IRMA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bratman, M. E., Israel, D. J., and Pollack, M. E. (1988). Plans and resource-bounded practical reasoning. Computational Intelligence, 4:349-355.&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/ractive-reasoning-PRS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Georgeff, M. P. and Lansky, A. L. (1987). Reactive reasoning and planning. In Proceedings of the Sixth National Conference on Artificial Intelligence (AAAI-87), pages 677-682, Seattle, WA.&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
+Bratman, M. E. (1987). Intentions, Plans, and Practical Reason. Harvard University Press: Cambridge, MA.
+Dennett, D. C. (1987). The Intentional Stance. The MIT Press: Cambridge, MA.
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/cohenlevesque-intention-aij90.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cohen, P. R. and Levesque, H. J. (1990a). Intention is choice with commitment. Artificial Intelligence, 42:213-261.&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/rao-modelingBDI-kr91.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rao, A. S. and Georgeff, M. P. (1991b). Modeling rational agents within a BDI-architecture. In Fikes, R. and Sandewall, E., editors, Proceedings of Knowledge Representation and Reasoning (KR&amp;amp;R-91), pages 473-484. Morgan Kaufmann Publishers: San Mateo, CA.&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect06/ieee-exp92-PRS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Francois F. Ingrand , Michael P. Georgeff , Anand S. Rao, An architecture for Real-Time Reasoning and System Control, IEEE Expert: Intelligent Systems and Their Applications, v.7 n.6, p.34-44, December 1992.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 7 (Hour 13 and Hour 14)(November 27): Models of BDI Agent Programming [Sardina].
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/handout_bdi-programming.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/rao96agentspeakl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. S. Rao. AgentSpeak(L): BDI agents speak out in a logical computable language. In Proceedings of the Seventh European Workshop on Modelling Autonomous Agents in a Multi-Agent World, volume 1038 of LNCS, pages 4255. 1996. (Sections 1-2).&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/kr02-CAN.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Winikoff, L. Padgham, J. Harland, and J. Thangarajah. Declarative &amp;amp; Procedural Goals in Intelligent Agent Systems. In Proceedings of the Eighth International Conference on Principles and Knowledge Representation and Reasoning, pages 470481. 2002. (Sections 1-3).&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/3APL-journal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koen V. Hindriks, Frank S. de Boer, Wiebe van der Hoek, John-Jules Ch. Meyer: Agent Programming in 3APL. Autonomous Agents and Multi-Agent Systems 2(4): 357-401 (1999).&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect07/agentverification-jal5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank S. de Boer, Koen V. Hindriks, Wiebe van der Hoek, John-Jules Ch. Meyer: A verification framework for agent programming with declarative goals. J. Applied Logic 5(2): 277-302 (2007).&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 8 (Hour 15 and Hour 16)(November 29): Declarative Goals and Planning in BDI Programming Systems [Sardina].
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/handout_decgoals-and-planning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Required readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/aamas06-SDSP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian Sardina, Lavindra de Silva, Lin Padgham: Hierarchical planning in BDI agent programming languages: a formal approach. AAMAS 2006: 1001-1008.&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/shop2-nau03a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dana S. Nau, Tsz-Chiu Au, Okhtay Ilghami, Ugur Kuter, J. William Murdock, Dan Wu, Fusun Yaman: SHOP2: An HTN Planning System. J. Artif. Intell. Res. (JAIR) 20: 379-404 (2003).&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/complex-express-htn.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kutluhan Erol, James A. Hendler, Dana S. Nau: Complexity Results for HTN Planning. Ann. Math. Artif. Intell. 18(1): 69-93 (1996).&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/dignum_04_dynamics_of_decl_goals.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Birna van Riemsdijk, Mehdi Dastani, Frank Dignum, John-Jules Ch. Meyer: Dynamics of Declarative Goals in Agent Programming. DALT 2004: 1-18.&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/IMPACT_SHOP-amai-2003.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jurgen Dix, Hector Munoz-Avila, Dana S. Nau, Lingling Zhang: IMPACTing SHOP: Putting an AI Planner Into a Multi-Agent Environment. Ann. Math. Artif. Intell. 37(4): 381-407 (2003).&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/plan-patterns-aamas06-bordini.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jomi Fred Hubner, Rafael H. Bordini, Michael Wooldridge: Programming Declarative Goals Using Plan Patterns. DALT 2006: 123-140.&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect08/aamas07-SP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian Sardina and Lin Padgham. Goals in the context of BDI plan failure and planning. In Proceedings of Autonomous Agents and Multi-Agent Systems (AAMAS), Hawaii, USA, May 2007. ACM Press.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 9 (Hour 17 and Hour 18)(December 4): Practical BDI Agent Programming I [Sardina].
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect09/handout_jackbdi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Optional readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect09/busetta99jack.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paolo Busetta, Ralph Ronnquist, Andrew Hodgson, and Andrew Lucas. JACK Intelligent Agents Components for Intelligent Agents in Java, 1999.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
+
+&lt;a href=&#34;http://www.agent-software.com.au/shared/products/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JACK web page.&lt;/a&gt;
+[Jason web page.](
+&lt;a href=&#34;http://jason.sourceforge.net/JasonWebSite/Jason&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://jason.sourceforge.net/JasonWebSite/Jason&lt;/a&gt; Home.php)
+
+&lt;a href=&#34;http://vsis-www.informatik.uni-hamburg.de/projects/jadex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jadex web page.&lt;/a&gt;
+
+&lt;a href=&#34;http://www.cs.uu.nl/3apl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3APL web page.&lt;/a&gt;
+
+&lt;a href=&#34;http://www.ai.sri.com/~spark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARK web page.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lecture 10 (Hour 19 and Hour 20)(December 6): Practical BDI Agent Programming II [Sardina].
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/handout_pdt.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture transparencies.&lt;/a&gt;
+&lt;em&gt;Readings:&lt;/em&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/Jennings_1999.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. R. Jennings. On agent-based software engineering. Artificial Intelligence, March, 2000, vol. 117, no. 2, p. 277-296.&lt;/a&gt;
+
+&lt;a href=&#34;http://goanna.cs.rmit.edu.au/%7Essardina/courses/Roma07PhDcourse/lect10/oopsla02.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lin Padgham and Michael Winikoff. Prometheus: A Pragmatic Methodology for Engineering Intelligent Agents. In Proc. of the workshop on Agent-oriented methodologies at OOPSLA 2002. November 4, 2002, Seattle.&lt;/a&gt;
+&lt;em&gt;References:&lt;/em&gt;
+
+&lt;a href=&#34;http://www.science.unitn.it/~recla/aose/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AOSE Methodologies web page.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sebastian Sardina&#39;s Extended Bio</title>
       <link>https://ssardina.github.io/pages/ssardina_bio_long/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2514,7 +2541,7 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sebastian Sardina&amp;rsquo;s teaching&lt;/strong&gt; at RMIT has focused on courses related to the &lt;strong&gt;mathematical foundations of Computer Science&lt;/strong&gt;, such as Theory of Computation, Discrete Mathematics, and Artificial Intelligence. He have also taught two seminar research-style courses, namely, 
 &lt;a href=&#34;https://bit.ly/3qvGmj6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COSC1204/2048 Agent-oriented Programming &amp;amp; Design&lt;/a&gt; and 
 &lt;a href=&#34;https://bit.ly/2WI3XjR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COSC2780 Intelligent Decision Making&lt;/a&gt;. In the past, he has have been the Program Manager for the 
-&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bachelor-of-science-honours-bh012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BH013 Honours in Computer Science&lt;/a&gt; and BP232 Computing Studies (currently discontinued). Besides RMIT, he has delivered intense advanced courses overseas at Sapienza Universita&#39; di Roma (Italy), Universidad de Buenos Aires (Argentina), as part of their long-standing 
+&lt;a href=&#34;https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bachelor-of-science-honours-bh012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BH013 Honours in Computer Science&lt;/a&gt; and BP232 Computing Studies (currently discontinued). Besides RMIT, he has delivered intense advanced courses overseas at Sapienza Universita&amp;rsquo; di Roma (Italy), Universidad de Buenos Aires (Argentina), as part of their long-standing 
 &lt;a href=&#34;https://eci.dc.uba.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECI serie&lt;/a&gt;, and Universidad Autónoma de Barcelona (Spain), under the ERASMUS+ scheme, as well as staff training workshops at 
 &lt;a href=&#34;https://aosgrp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agent-oriented Software&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;More generally, as a Computer Scientist, Sebastian Sardina has also been interested in &lt;strong&gt;bringing Computational Thinking and programming to the community&lt;/strong&gt;, particularly to children and youth. He has delivered or supported courses and workshops on algorithmic thinking and coding in Melbourne (in primary and secondary schools as well as in community centres) and provided outreach activities from RMIT to the community.  He has helped (or tried to!) promote the integration of Computational Thinking with the Math teaching at the Mathematical Association of Victoria 
